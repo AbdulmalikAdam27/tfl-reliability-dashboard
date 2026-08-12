@@ -1,4 +1,4 @@
-/># TfL Network Reliability Dashboard
+## TfL Network Reliability Dashboard
 
 A live data pipeline and 5-page Power BI dashboard measuring London Underground service reliability, wait times and disruption patterns using the TfL Unified API.
 
@@ -11,19 +11,19 @@ A Python pipeline pulls data from the TfL Unified API every 5 minutes, capturing
 ## Dashboard Pages
 
 1. Network Reliability Overview
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0f18a86a-a9ff-4d13-a799-7d170e2a2a8e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0f18a86a-a9ff-4d13-a799-7d170e2a2a8e" />
 
 2. Geographic Wait Time Map
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/aba451b9-6e9d-4d55-bf90-123d22cb5069" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/aba451b9-6e9d-4d55-bf90-123d22cb5069" />
 
 3. Reliability by Time of Day
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/6b9c3760-a164-4bc7-83cb-c1182bcbb879" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b9c3760-a164-4bc7-83cb-c1182bcbb879" />
 
 4. Disruption Overview
-<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/9574ea87-4031-47ae-82ed-9badd2ff237f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9574ea87-4031-47ae-82ed-9badd2ff237f" />
 
 5. Methodology and Limitations
-6. <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/d576bed7-8809-40ca-b91d-998d1f90f3ee" />
+6. <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d576bed7-8809-40ca-b91d-998d1f90f3ee" />
 
 
 ## Methodology
