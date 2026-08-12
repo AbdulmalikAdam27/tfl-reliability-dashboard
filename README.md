@@ -1,4 +1,4 @@
-## TfL Network Reliability Dashboard
+<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/0f712b6c-6d13-4ef4-81f5-bc1af93423ec" /><img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/2251616a-32bd-4bb2-abe4-788cd728e181" />## TfL Network Reliability Dashboard
 
 A live data pipeline and 5-page Power BI dashboard measuring London Underground service reliability, wait times and disruption patterns using the TfL Unified API.
 
@@ -11,19 +11,24 @@ A Python pipeline pulls data from the TfL Unified API every 5 minutes, capturing
 ## Dashboard Pages
 
 1. Network Reliability Overview
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0f18a86a-a9ff-4d13-a799-7d170e2a2a8e" />
+<img width="968" height="500" alt="image" src="https://github.com/user-attachments/assets/80f44699-43a2-4083-a486-543241a69082" />
+
 
 2. Geographic Wait Time Map
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/aba451b9-6e9d-4d55-bf90-123d22cb5069" />
+<img width="952" height="500" alt="image" src="https://github.com/user-attachments/assets/ea5bbf40-367d-4b2e-98d8-961e397081e6" />
+
 
 3. Reliability by Time of Day
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b9c3760-a164-4bc7-83cb-c1182bcbb879" />
+<img width="939" height="500" alt="image" src="https://github.com/user-attachments/assets/8459159c-e108-4e0f-980e-c82d891566e1" />
+
 
 4. Disruption Overview
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9574ea87-4031-47ae-82ed-9badd2ff237f" />
+<img width="948" height="500" alt="image" src="https://github.com/user-attachments/assets/b8c6c019-9f76-4780-aed1-020bce30e35e" />
+
 
 5. Methodology and Limitations
-6. <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d576bed7-8809-40ca-b91d-998d1f90f3ee" />
+<img width="969" height="500" alt="image" src="https://github.com/user-attachments/assets/f5cde370-45aa-4f3c-b3f9-757b9efb7a5f" />
+
 
 
 ## Methodology
