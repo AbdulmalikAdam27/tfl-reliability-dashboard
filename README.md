@@ -1,4 +1,4 @@
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/29036e13-a493-431e-82af-b481d51e2af6" /># TfL Network Reliability Dashboard
+/># TfL Network Reliability Dashboard
 
 A live data pipeline and 5-page Power BI dashboard measuring London Underground service reliability, wait times and disruption patterns using the TfL Unified API.
 
