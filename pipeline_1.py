@@ -1,22 +1,22 @@
 """
 TfL Delay Analyzer - Data Pipeline (v2)
-=========================================
-Fetches live arrivals (volume/wait-time only) and line status data,
-exports to CSV for Power BI / Tableau.
+
+Collects live arrivals (volume/wait-time only) and line status data,
+exports to CSV for Power BI.
 
 IMPORTANT - v2 change from v1:
-v1 attempted to compute "delay_minutes" by comparing expectedArrival
-against timeToStation. This was found to be mathematically invalid:
-both values are derived from the same live countdown, so subtracting
-them mostly measures script processing-time noise (a near-constant
-offset), not real schedule deviation. TfL's live Arrivals endpoint
-does not expose a scheduled time to compare against.
+v1 attempted to compute a "delay_minutes" minutes metric by comparing 
+expectedArrival against timeToStation. This was found to be an invalid 
+metric as both values are derived from the same live countdown and
+subtracting them measures script processing-time noise (a near-constant
+offset of 0.27 minutes), not real schedule deviation. TfL's live Arrivals 
+endpoint does not share a scheduled time to compare against timeToStation.
 
 v2 instead treats line_status (status_severity) as the primary
 reliability signal, since it reflects TfL's own operational
 assessment rather than a derived calculation. arrivals_raw is kept
 for legitimate uses only: arrival volume and live wait-time
-distributions - NOT "delay".
+distributions, NOT "delay".
 
 Usage:
     python pipeline.py                  # run once
@@ -25,7 +25,6 @@ Usage:
 Requirements:
     pip install requests pandas schedule
 """
-
 import requests
 import pandas as pd
 import time
@@ -36,8 +35,8 @@ import os
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-TFL_APP_KEY = "c0e7f72204e347d59f2fd37a60fdcb28"   # Replace with your key from api.tfl.gov.uk
-OUTPUT_DIR  = "output"
+TFL_APP_KEY = "API Key"   # Replace with API key from api.tfl.gov.uk
+OUTPUT_DIR  = "output - 2"
 LINES       = ["central", "jubilee", "northern", "victoria", "bakerloo",
                "circle", "district", "metropolitan", "piccadilly", "elizabeth"]
 
@@ -46,7 +45,7 @@ LINES       = ["central", "jubilee", "northern", "victoria", "bakerloo",
 BASE_URL = "https://api.tfl.gov.uk"
 
 def get(endpoint: str, params: dict = {}) -> dict | list | None:
-    """Generic TfL API GET with error handling."""
+    """Generic API GET with error handling."""
     params["app_key"] = TFL_APP_KEY
     try:
         r = requests.get(f"{BASE_URL}{endpoint}", params=params, timeout=10)
@@ -59,7 +58,7 @@ def get(endpoint: str, params: dict = {}) -> dict | list | None:
 
 def get_line_status() -> pd.DataFrame:
     """
-    Fetch current status for all lines (Good Service / Delays / Suspended etc).
+    Get current status for all lines (Good Service / Delays / Suspended etc).
     This is the PRIMARY reliability signal - it's TfL's own operational
     assessment, not something we derive ourselves.
     """
@@ -88,8 +87,8 @@ def get_line_status() -> pd.DataFrame:
 
 def get_arrivals_for_line(line_id: str) -> pd.DataFrame:
     """
-    Fetch live arrival predictions for all stops on a line.
-    Kept for volume and live wait-time distribution only.
+    From (v1) - Get live arrival predictions for all stops on a line.
+    Kept for volume and live wait-time distribution only. 
     Does NOT attempt to compute a "delay" - see module docstring.
     """
     data = get(f"/line/{line_id}/arrivals")
@@ -124,15 +123,15 @@ def get_all_arrivals() -> pd.DataFrame:
         df = get_arrivals_for_line(line)
         if not df.empty:
             frames.append(df)
-        time.sleep(0.2)   # be polite to the API
+        time.sleep(0.2)   
     return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
 
 
 def get_stop_points() -> pd.DataFrame:
     """
     Fetch all stop points (stations) for the configured lines.
-    Useful for geo mapping in Tableau/Power BI.
-    Only needs to run once - saved separately as stations.csv
+    Useful for geo mapping in Power BI.
+    Saved separately as stations.csv
     """
     rows = []
     for line in LINES:
@@ -157,20 +156,41 @@ def get_stop_points() -> pd.DataFrame:
 
 def build_arrivals_summary(arrivals_df: pd.DataFrame) -> pd.DataFrame:
     """
-    Aggregate raw arrivals into a station-level VOLUME summary.
-    No delay claim here - just how many trains and how long the wait is.
+    Collect raw arrivals into a wait-time summary for stations.
+
+    IMPORTANT - 'next train wait', not "average across all tracked trains":
+    TfL's arrivals endpoint returns predictions for multiple upcoming trains
+    at each station (e.g. next in 2 min, then 6, then 11...). Averaging all of
+    them inflates the figure to 8-15 min, which fails a sanity check against
+    real tube frequencies. The honest "wait" is the minimum time_to_station_s
+    per station per snapshot. That per-snapshot
+    minimum is taken, then average those minimums over time for a typical next-train wait.
     """
     if arrivals_df.empty:
         return pd.DataFrame()
 
-    summary = (
+    # Stage 1: per station, per snapshot (timestamp) -> the NEXT train's wait
+    # (minimum time_to_station), plus how many trains were tracked that snapshot.
+    per_snapshot = (
         arrivals_df
+        .groupby(["line_id", "line_name", "station_name", "naptan_id", "timestamp"])
+        .agg(
+            next_train_s   = ("time_to_station_s", "min"),
+            trains_tracked = ("vehicle_id",         "count"),
+        )
+        .reset_index()
+    )
+
+    # Stage 2: per station, average the per-snapshot next-train waits over time,
+    # and sum the tracked trains for a volume measure.
+    summary = (
+        per_snapshot
         .groupby(["line_id", "line_name", "station_name", "naptan_id"])
         .agg(
-            avg_wait_seconds  = ("time_to_station_s", "mean"),
-            min_wait_seconds  = ("time_to_station_s", "min"),
-            max_wait_seconds  = ("time_to_station_s", "max"),
-            total_arrivals    = ("vehicle_id",         "count"),
+            avg_wait_seconds = ("next_train_s",   "mean"),
+            min_wait_seconds = ("next_train_s",   "min"),
+            max_wait_seconds = ("next_train_s",   "max"),
+            total_arrivals   = ("trains_tracked", "sum"),
         )
         .reset_index()
     )
@@ -181,18 +201,27 @@ def build_arrivals_summary(arrivals_df: pd.DataFrame) -> pd.DataFrame:
 
 def build_reliability_summary(status_df: pd.DataFrame) -> pd.DataFrame:
     """
-    The REAL reliability metric: per line, per hour, what fraction of
+    The new reliability metric: per line, per hour, what fraction of
     status snapshots were Good Service (severity 10) vs degraded,
     and the average severity score.
 
-    Severity scale (TfL): 10=Good Service, 9=Minor Delays,
-    6=Severe Delays, 5=Part Closure, etc. Lower = worse.
+    TfL's Severity scale: 10 = Good Service, 9 = Minor Delays,
+    6 = Severe Delays, 5 = Part Closure, etc. Lower = worse.
     """
     if status_df.empty:
         return pd.DataFrame()
 
+    # Exclude routine non-operation from the reliability denominator:
+    # severity 20 = Service Closed (overnight), 4 = Planned Closure (engineering).
+    # These aren't service FAILURES, so counting them would unfairly deflate
+    # the score. Matches how professional TfL reliability trackers compute
+    # "percentage of operational time at Good Service".
+    operational = status_df[~status_df["status_severity"].isin([20, 4])].copy()
+    if operational.empty:
+        return pd.DataFrame()
+
     summary = (
-        status_df
+        operational
         .groupby(["line_id", "line_name", "hour"])
         .agg(
             avg_severity      = ("status_severity", "mean"),
@@ -230,13 +259,28 @@ def run_pipeline():
     print(f"  TfL Reliability Pipeline (v2) | {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'='*55}")
 
-    # 1. Line status - the PRIMARY signal
+  # 1. Line status - the PRIMARY signal
     print("\n[1/3] Line status...")
     status_df = get_line_status()
     if not status_df.empty:
+        # Append THIS run's raw snapshot to the accumulating history file
         export(status_df, "line_status.csv")
-        reliability_df = build_reliability_summary(status_df)
-        export(reliability_df, "reliability_summary.csv")
+
+        # Recompute reliability from the FULL accumulated history, not just
+        # this run's single snapshot. This is what makes pct_good_service a
+        # genuine fractional percentage rather than a one-shot 0/100 value.
+        history_path = os.path.join(OUTPUT_DIR, "line_status.csv")
+        try:
+            full_history = pd.read_csv(history_path)
+        except Exception as e:
+            print(f"  [!] Could not read line_status history: {e}")
+            full_history = status_df  # fall back to current snapshot
+
+        reliability_df = build_reliability_summary(full_history)
+        # Overwrite (append=False): complete recomputation each run, NOT an
+        # increment. Appending would pile up duplicate/stale summaries.
+        export(reliability_df, "reliability_summary.csv", append=False)
+   
 
     # 2. Live arrivals - volume/wait-time only, no delay claim
     print("\n[2/3] Live arrivals (volume & wait time only)...")
@@ -256,7 +300,7 @@ def run_pipeline():
     else:
         print("\n[3/3] stations.csv already exists - skipping.")
 
-    print(f"\n  ✅ Pipeline complete.\n")
+    print("\n  ✅ Pipeline complete.\n")
 
 
 # ─── ENTRY POINT ─────────────────────────────────────────────────────────────
