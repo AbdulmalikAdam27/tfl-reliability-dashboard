@@ -1,0 +1,55 @@
+name: Collect TfL data
+
+on:
+  schedule:
+    # Every 5 minutes is the shortest interval GitHub allows. GitHub treats
+    # schedules as best-effort and drops runs under load, so real spacing is
+    # irregular (see README > Limitations).
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tfl-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          TFL_APP_KEY: ${{ secrets.TFL_APP_KEY }}
+          # Line status (the reliability signal) is collected every run; the
+          # station wait-time summary is a long-run average, so refreshing it
+          # hourly keeps the repo's history small and saves 10 API calls a run.
+          ARRIVALS_INTERVAL_MINUTES: "60"
+        run: python pipeline_1.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new data this run."
+            exit 0
+          fi
+          git commit -m "Automated TfL data collection $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git pull --rebase
+          git push

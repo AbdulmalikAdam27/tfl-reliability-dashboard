@@ -1,0 +1,277 @@
+timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_category
+2026-06-25 16:46:20,16,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-25 16:46:20,16,central,Central,6,Severe Delays,"Central Line: Minor delays between White City and Leytonstone due to an earlier fire alert at Shepherd's Bush. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Great Western Railway, Chiltern Railways and Greater Anglia. ",RealTime
+2026-06-25 16:46:20,16,central,Central,9,Minor Delays,"Central Line: Minor delays between White City and Leytonstone due to an earlier fire alert at Shepherd's Bush. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Great Western Railway, Chiltern Railways and Greater Anglia. ",RealTime
+2026-06-25 16:46:20,16,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to train cancellations ,RealTime
+2026-06-25 16:46:20,16,district,District,9,Minor Delays,District Line: Minor delays between Richmond and Turnham Green due to hot weather mitigation measures. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-25 16:46:20,16,elizabeth,Elizabeth line,7,Reduced Service,A reduced service operates between Paddington and Heathrow Terminal 4 & 5 due to heat mitigation measures and earlier signal system failure.,RealTime
+2026-06-25 16:46:20,16,elizabeth,Elizabeth line,7,Reduced Service,ELIZABETH LINE: A reduced service operates between Paddington and Reading due to heat mitigation measures.,RealTime
+2026-06-25 16:46:20,16,elizabeth,Elizabeth line,6,Severe Delays,"Severe delays between Hayes & Harlington and Heathrow Terminals due to infrastructure damage caused by extreme weather. London Underground are accepting tickets via any reasonable route. Please use the Piccadilly line to travel between Heathrow Airport and Central London. If you are travelling between terminals, a bus service operates between Heathrow Terminals 2&3, 4 and 5.  ",RealTime
+2026-06-25 16:46:20,16,jubilee,Jubilee,10,Good Service,,None
+2026-06-25 16:46:20,16,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. MINOR DELAYS between Rickmansworth and Amersham. SEVERE DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-25 16:46:20,16,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. MINOR DELAYS between Rickmansworth and Amersham. SEVERE DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-25 16:46:20,16,metropolitan,Metropolitan,3,Part Suspended,Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. MINOR DELAYS between Rickmansworth and Amersham. SEVERE DELAYS between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-25 16:46:20,16,northern,Northern,10,Good Service,,None
+2026-06-25 16:46:20,16,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-25 16:46:20,16,victoria,Victoria,10,Good Service,,None
+2026-06-27 22:00:01,22,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier signal failure at South Kenton. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-27 22:00:01,22,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations. ,RealTime
+2026-06-27 22:00:01,22,circle,Circle,10,Good Service,,None
+2026-06-27 22:00:01,22,district,District,5,Part Closure,"DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate",PlannedWork
+2026-06-27 22:00:01,22,district,District,6,Severe Delays,District Line: No service between Ealing Broadway and Turnham Green due to planned engineering works. SEVERE DELAYS between Earl's Court and Wimbledon due to a signal failure at Parsons Green. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-27 22:00:01,22,elizabeth,Elizabeth line,10,Good Service,,None
+2026-06-27 22:00:01,22,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  ,RealTime
+2026-06-27 22:00:01,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow on the Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-27 22:00:01,22,northern,Northern,10,Good Service,,None
+2026-06-27 22:00:01,22,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.",PlannedWork
+2026-06-27 22:00:01,22,victoria,Victoria,10,Good Service,,None
+2026-06-27 22:03:54,22,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier signal failure at South Kenton. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-27 22:03:54,22,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations. ,RealTime
+2026-06-27 22:03:54,22,circle,Circle,10,Good Service,,None
+2026-06-27 22:03:54,22,district,District,5,Part Closure,"DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate",PlannedWork
+2026-06-27 22:03:54,22,district,District,6,Severe Delays,District Line: No service between Ealing Broadway and Turnham Green due to planned engineering works. SEVERE DELAYS between Earl's Court and Wimbledon due to a signal failure at Parsons Green. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-27 22:03:54,22,elizabeth,Elizabeth line,10,Good Service,,None
+2026-06-27 22:03:54,22,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.  ,RealTime
+2026-06-27 22:03:54,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow on the Hill and Uxbridge and between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-27 22:03:54,22,northern,Northern,10,Good Service,,None
+2026-06-27 22:03:54,22,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.",PlannedWork
+2026-06-27 22:03:54,22,victoria,Victoria,10,Good Service,,None
+2026-06-28 22:45:52,22,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Wembley Central. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-28 22:45:52,22,central,Central,10,Good Service,,None
+2026-06-28 22:45:52,22,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to train cancellations.  ,RealTime
+2026-06-28 22:45:52,22,district,District,5,Part Closure,"DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate",PlannedWork
+2026-06-28 22:45:52,22,elizabeth,Elizabeth line,10,Good Service,,None
+2026-06-28 22:45:52,22,jubilee,Jubilee,10,Good Service,,None
+2026-06-28 22:45:52,22,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets will be accepted on London Buses via any reasonable route.  GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-28 22:45:52,22,northern,Northern,10,Good Service,,None
+2026-06-28 22:45:52,22,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.",PlannedWork
+2026-06-28 22:45:52,22,victoria,Victoria,10,Good Service,,None
+2026-06-28 23:04:31,23,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Wembley Central. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-28 23:04:31,23,central,Central,10,Good Service,,None
+2026-06-28 23:04:31,23,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to train cancellations.  ,RealTime
+2026-06-28 23:04:31,23,district,District,5,Part Closure,"DISTRICT LINE: Saturday 27 and Sunday 28 June, no service between Turnham Green and Ealing Broadway. Replacement buses operate",PlannedWork
+2026-06-28 23:04:31,23,elizabeth,Elizabeth line,10,Good Service,,None
+2026-06-28 23:04:31,23,jubilee,Jubilee,10,Good Service,,None
+2026-06-28 23:04:31,23,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. Tickets will be accepted on London Buses via any reasonable route.  GOOD SERVICE on the rest of the line.  ,RealTime
+2026-06-28 23:04:31,23,northern,Northern,10,Good Service,,None
+2026-06-28 23:04:31,23,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 27 June, from 0430 and all day Sunday 28 June, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.",PlannedWork
+2026-06-28 23:04:31,23,victoria,Victoria,10,Good Service,,None
+2026-06-29 21:33:29,21,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-29 21:33:29,21,central,Central,10,Good Service,,None
+2026-06-29 21:33:29,21,circle,Circle,10,Good Service,,None
+2026-06-29 21:33:29,21,district,District,10,Good Service,,None
+2026-06-29 21:33:29,21,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-29 21:33:29,21,elizabeth,Elizabeth line,9,Minor Delays,Minor delays between Whitechapel and Shenfield due to an earlier customer incident at Harold Wood. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 21:33:29,21,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between North Greenwich and Stratford while we fix a points failure at North Greenwich. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 21:33:29,21,metropolitan,Metropolitan,10,Good Service,,None
+2026-06-29 21:33:29,21,northern,Northern,10,Good Service,,None
+2026-06-29 21:33:29,21,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-29 21:33:29,21,victoria,Victoria,10,Good Service,,None
+2026-06-29 21:45:00,21,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-29 21:45:00,21,central,Central,10,Good Service,,None
+2026-06-29 21:45:00,21,circle,Circle,10,Good Service,,None
+2026-06-29 21:45:00,21,district,District,10,Good Service,,None
+2026-06-29 21:45:00,21,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-29 21:45:00,21,elizabeth,Elizabeth line,9,Minor Delays,Minor delays between Whitechapel and Shenfield due to an earlier customer incident at Harold Wood. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 21:45:00,21,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between North Greenwich and Stratford while we fix a points failure at North Greenwich. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 21:45:00,21,metropolitan,Metropolitan,10,Good Service,,None
+2026-06-29 21:45:00,21,northern,Northern,10,Good Service,,None
+2026-06-29 21:45:00,21,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-29 21:45:00,21,victoria,Victoria,10,Good Service,,None
+2026-06-29 22:21:49,22,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-29 22:21:49,22,central,Central,10,Good Service,,None
+2026-06-29 22:21:49,22,circle,Circle,10,Good Service,,None
+2026-06-29 22:21:49,22,district,District,10,Good Service,,None
+2026-06-29 22:21:49,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-29 22:21:49,22,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between North Greenwich and Stratford due to an earlier points failure at North Greenwich. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 22:21:49,22,metropolitan,Metropolitan,10,Good Service,,None
+2026-06-29 22:21:49,22,northern,Northern,10,Good Service,,None
+2026-06-29 22:21:49,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-29 22:21:49,22,victoria,Victoria,10,Good Service,,None
+2026-06-29 22:38:38,22,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-29 22:38:38,22,central,Central,10,Good Service,,None
+2026-06-29 22:38:38,22,circle,Circle,10,Good Service,,None
+2026-06-29 22:38:38,22,district,District,10,Good Service,,None
+2026-06-29 22:38:38,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-29 22:38:38,22,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between North Greenwich and Stratford due to an earlier points failure at North Greenwich. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 22:38:38,22,metropolitan,Metropolitan,10,Good Service,,None
+2026-06-29 22:38:38,22,northern,Northern,10,Good Service,,None
+2026-06-29 22:38:38,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-29 22:38:38,22,victoria,Victoria,10,Good Service,,None
+2026-06-29 23:03:58,23,bakerloo,Bakerloo,10,Good Service,,None
+2026-06-29 23:03:58,23,central,Central,10,Good Service,,None
+2026-06-29 23:03:58,23,circle,Circle,10,Good Service,,None
+2026-06-29 23:03:58,23,district,District,10,Good Service,,None
+2026-06-29 23:03:58,23,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-29 23:03:58,23,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between North Greenwich and Stratford due to an earlier points failure at North Greenwich. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-29 23:03:58,23,metropolitan,Metropolitan,10,Good Service,,None
+2026-06-29 23:03:58,23,northern,Northern,10,Good Service,,None
+2026-06-29 23:03:58,23,piccadilly,Piccadilly,10,Good Service,,None
+2026-06-29 23:03:58,23,victoria,Victoria,10,Good Service,,None
+2026-06-30 21:52:44,21,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Elephant & Castle due to an operational incident. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink services. ",RealTime
+2026-06-30 21:52:44,21,central,Central,10,Good Service,,None
+2026-06-30 21:52:44,21,circle,Circle,10,Good Service,,None
+2026-06-30 21:52:44,21,district,District,10,Good Service,,None
+2026-06-30 21:52:44,21,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-30 21:52:44,21,jubilee,Jubilee,10,Good Service,,None
+2026-06-30 21:52:44,21,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Ruislip. GOOD SERVICE on the rest of the line. Ticket are being accepted on London Buses. ,RealTime
+2026-06-30 21:52:44,21,northern,Northern,10,Good Service,,None
+2026-06-30 21:52:44,21,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier person ill on a train at Turnpike Lane and a fire alert at Ruislip. Tickets are being accepted on London Buses and Elizabeth line services via any reasonable route. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-30 21:52:44,21,victoria,Victoria,10,Good Service,,None
+2026-06-30 22:18:49,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Elephant & Castle due to an operational incident. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink services. ",RealTime
+2026-06-30 22:18:49,22,central,Central,10,Good Service,,None
+2026-06-30 22:18:49,22,circle,Circle,10,Good Service,,None
+2026-06-30 22:18:49,22,district,District,10,Good Service,,None
+2026-06-30 22:18:49,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-30 22:18:49,22,jubilee,Jubilee,10,Good Service,,None
+2026-06-30 22:18:49,22,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Ruislip. GOOD SERVICE on the rest of the line. Ticket are being accepted on London Buses. ,RealTime
+2026-06-30 22:18:49,22,northern,Northern,10,Good Service,,None
+2026-06-30 22:18:49,22,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier person ill on a train at Turnpike Lane and a fire alert at Ruislip. Tickets are being accepted on London Buses and Elizabeth line services via any reasonable route. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-30 22:18:49,22,victoria,Victoria,10,Good Service,,None
+2026-06-30 23:21:07,23,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Elephant & Castle due to an operational incident. GOOD SERVICE on the rest of the line. Tickets will be accepted on London buses, Lioness line, London Northwestern Railway and Thameslink services. ",RealTime
+2026-06-30 23:21:07,23,central,Central,10,Good Service,,None
+2026-06-30 23:21:07,23,circle,Circle,10,Good Service,,None
+2026-06-30 23:21:07,23,district,District,10,Good Service,,None
+2026-06-30 23:21:07,23,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-06-30 23:21:07,23,jubilee,Jubilee,10,Good Service,,None
+2026-06-30 23:21:07,23,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to an earlier fire alert at Ruislip. GOOD SERVICE on the rest of the line. Ticket are being accepted on London Buses. ,RealTime
+2026-06-30 23:21:07,23,northern,Northern,10,Good Service,,None
+2026-06-30 23:21:07,23,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Airport/Uxbridge due to an earlier a fire alert at Ruislip. Tickets are being accepted on London Buses and Elizabeth line services via any reasonable route. GOOD SERVICE on the rest of the line. ,RealTime
+2026-06-30 23:21:07,23,victoria,Victoria,10,Good Service,,None
+2026-07-01 21:35:11,21,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 21:35:11,21,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations. ,RealTime
+2026-07-01 21:35:11,21,circle,Circle,10,Good Service,,None
+2026-07-01 21:35:11,21,district,District,10,Good Service,,None
+2026-07-01 21:35:11,21,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 21:35:11,21,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 21:35:11,21,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 21:35:11,21,northern,Northern,9,Minor Delays,Northern Line: No service between Camden Town and Edgware and MINOR DELAYS on the rest of the line while we respond to a fire alert at Hampstead. London Underground tickets will be accepted on London buses. ,RealTime
+2026-07-01 21:35:11,21,northern,Northern,3,Part Suspended,Northern Line: No service between Camden Town and Edgware and MINOR DELAYS on the rest of the line while we respond to a fire alert at Hampstead. London Underground tickets will be accepted on London buses. ,RealTime
+2026-07-01 21:35:11,21,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 21:35:11,21,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:17:45,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:17:45,22,central,Central,10,Good Service,,None
+2026-07-01 22:17:45,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:17:45,22,district,District,10,Good Service,,None
+2026-07-01 22:17:45,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:17:45,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:17:45,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:17:45,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:17:45,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:17:45,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:32:45,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:32:45,22,central,Central,10,Good Service,,None
+2026-07-01 22:32:45,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:32:45,22,district,District,10,Good Service,,None
+2026-07-01 22:32:45,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:32:45,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:32:45,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:32:45,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:32:45,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:32:45,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:40:10,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:40:10,22,central,Central,10,Good Service,,None
+2026-07-01 22:40:10,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:40:10,22,district,District,10,Good Service,,None
+2026-07-01 22:40:10,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:40:10,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:40:10,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:40:10,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:40:10,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:40:10,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:43:34,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:43:34,22,central,Central,10,Good Service,,None
+2026-07-01 22:43:34,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:43:34,22,district,District,10,Good Service,,None
+2026-07-01 22:43:34,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:43:34,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:43:34,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:43:34,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:43:34,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:43:34,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:45:38,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:45:38,22,central,Central,10,Good Service,,None
+2026-07-01 22:45:38,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:45:38,22,district,District,10,Good Service,,None
+2026-07-01 22:45:38,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:45:38,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:45:38,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:45:38,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:45:38,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:45:38,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:46:09,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:46:09,22,central,Central,10,Good Service,,None
+2026-07-01 22:46:09,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:46:09,22,district,District,10,Good Service,,None
+2026-07-01 22:46:09,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:46:09,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:46:09,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:46:09,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:46:09,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:46:09,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 22:57:14,22,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 22:57:14,22,central,Central,10,Good Service,,None
+2026-07-01 22:57:14,22,circle,Circle,10,Good Service,,None
+2026-07-01 22:57:14,22,district,District,10,Good Service,,None
+2026-07-01 22:57:14,22,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 22:57:14,22,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 22:57:14,22,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 22:57:14,22,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 22:57:14,22,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 22:57:14,22,victoria,Victoria,10,Good Service,,None
+2026-07-01 23:34:19,23,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line and Thameslink services. ",RealTime
+2026-07-01 23:34:19,23,central,Central,10,Good Service,,None
+2026-07-01 23:34:19,23,circle,Circle,10,Good Service,,None
+2026-07-01 23:34:19,23,district,District,10,Good Service,,None
+2026-07-01 23:34:19,23,elizabeth,Elizabeth line,7,Reduced Service,"ELIZABETH LINE: Monday 29 June, Tuesday 30 and Wednesday 1 July, after 2200 each evening, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4, West Drayton, Langley, Slough, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway, Southall and Hayes & Harlington. After 2300, trains will not call at Acton Main Line, West Ealing and Hanwell.",PlannedWork
+2026-07-01 23:34:19,23,jubilee,Jubilee,10,Good Service,,None
+2026-07-01 23:34:19,23,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Baker Street due to an earlier points failure at Wembley Park.  GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-01 23:34:19,23,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier a fire alert at Hampstead. ,RealTime
+2026-07-01 23:34:19,23,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-01 23:34:19,23,victoria,Victoria,10,Good Service,,None
+2026-07-02 11:11:02,11,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line, Thameslink and London Northwestern Railway services. ",RealTime
+2026-07-02 11:11:02,11,central,Central,10,Good Service,,None
+2026-07-02 11:11:02,11,circle,Circle,10,Good Service,,None
+2026-07-02 11:11:02,11,district,District,10,Good Service,,None
+2026-07-02 11:11:02,11,elizabeth,Elizabeth line,10,Good Service,,None
+2026-07-02 11:11:02,11,jubilee,Jubilee,10,Good Service,,None
+2026-07-02 11:11:02,11,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. If you are travelling northbound to Preston Road or Northwick Park, you will need to alight at Wembley Park and wait for a train serving these stations. GOOD SERVICE on the rest of the line. ",RealTime
+2026-07-02 11:11:02,11,northern,Northern,10,Good Service,,None
+2026-07-02 11:11:02,11,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton town and Heathrow Terminals due to an earlier faulty train at Cockfosters. GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-02 11:11:02,11,victoria,Victoria,10,Good Service,,None
+2026-07-02 12:24:34,12,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to an operational incident. Tickets will be accepted on London buses, Lioness line, Thameslink and London Northwestern Railway services. ",RealTime
+2026-07-02 12:24:34,12,central,Central,10,Good Service,,None
+2026-07-02 12:24:34,12,circle,Circle,10,Good Service,,None
+2026-07-02 12:24:34,12,district,District,10,Good Service,,None
+2026-07-02 12:24:34,12,elizabeth,Elizabeth line,10,Good Service,,None
+2026-07-02 12:24:34,12,jubilee,Jubilee,10,Good Service,,None
+2026-07-02 12:24:34,12,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Minor delays between Harrow-on-the-Hill and Aldgate due to a track fault at Wembley Park. If you are travelling northbound to Preston Road or Northwick Park, you will need to alight at Wembley Park and wait for a train serving these stations. GOOD SERVICE on the rest of the line. ",RealTime
+2026-07-02 12:24:34,12,northern,Northern,10,Good Service,,None
+2026-07-02 12:24:34,12,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: No service between Arnos Grove and Cockfosters and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Cockfosters. Tickets will be accepted on London Buses, Elizabeth Line, Weaver Line and Great Northern.   ",RealTime
+2026-07-02 12:24:34,12,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Arnos Grove and Cockfosters and SEVERE DELAYS on the rest of the line while we respond to a fire alert at Cockfosters. Tickets will be accepted on London Buses, Elizabeth Line, Weaver Line and Great Northern.   ",RealTime
+2026-07-02 12:24:34,12,victoria,Victoria,10,Good Service,,None
+2026-07-22 20:24:58,20,bakerloo,Bakerloo,10,Good Service,,None
+2026-07-22 20:24:58,20,central,Central,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Hainault via Newbury Park / Epping due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-07-22 20:24:58,20,circle,Circle,10,Good Service,,None
+2026-07-22 20:24:58,20,district,District,10,Good Service,,None
+2026-07-22 20:24:58,20,elizabeth,Elizabeth line,10,Good Service,,None
+2026-07-22 20:24:58,20,jubilee,Jubilee,10,Good Service,,None
+2026-07-22 20:24:58,20,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Chesham and Chalfont & Latimer due to an earlier trespasser on the tracks at Chesham. The next southbound train to depart from Chesham will be the 20:31. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-07-22 20:24:58,20,northern,Northern,6,Severe Delays,"Northern Line: No service between Kennington and Morden while we fix a signal failure at Tooting Broadway.  SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway. 
+
+ ",RealTime
+2026-07-22 20:24:58,20,northern,Northern,3,Part Suspended,"Northern Line: No service between Kennington and Morden while we fix a signal failure at Tooting Broadway.  SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway. 
+
+ ",RealTime
+2026-07-22 20:24:58,20,piccadilly,Piccadilly,10,Good Service,,None
+2026-07-22 20:24:58,20,victoria,Victoria,10,Good Service,,None
+2026-10-05 21:37:05,21,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-05 21:37:05,21,central,Central,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-05 21:37:05,21,circle,Circle,10,Good Service,,None
+2026-10-05 21:37:05,21,district,District,10,Good Service,,None
+2026-10-05 21:37:05,21,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-05 21:37:05,21,jubilee,Jubilee,10,Good Service,,None
+2026-10-05 21:37:05,21,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-05 21:37:05,21,northern,Northern,10,Good Service,,None
+2026-10-05 21:37:05,21,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-05 21:37:05,21,victoria,Victoria,10,Good Service,,None

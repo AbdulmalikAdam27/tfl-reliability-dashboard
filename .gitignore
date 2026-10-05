@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw arrivals are 4,000-25,000 rows per run - too large to commit every 5 minutes.
+# Kept locally only; the committed arrivals_summary.csv holds the running totals.
+data/arrivals_raw.csv

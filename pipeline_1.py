@@ -19,24 +19,33 @@ for legitimate uses only: arrival volume and live wait-time
 distributions, NOT "delay".
 
 Usage:
-    python pipeline.py                  # run once
-    python pipeline.py --schedule       # run every 5 mins (keeps CSV updated)
+    python pipeline_1.py                # run once
+    python pipeline_1.py --schedule     # run every 5 mins (keeps CSV updated)
+
+    In the cloud, .github/workflows/collect.yml runs this every 5 minutes
+    and commits the CSVs in data/ for Power BI to read.
+
+Configuration (environment variables):
+    TFL_APP_KEY                  API key from api.tfl.gov.uk (blank = anonymous, lower rate limit)
+    OUTPUT_DIR                   where CSVs are written (default: data)
+    ARRIVALS_INTERVAL_MINUTES    minimum minutes between arrivals refreshes (default: 0 = every run)
 
 Requirements:
-    pip install requests pandas schedule
+    pip install -r requirements.txt
 """
 import requests
 import pandas as pd
 import time
 import schedule
 import argparse
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import os
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-TFL_APP_KEY = "API Key"   # Replace with API key from api.tfl.gov.uk
-OUTPUT_DIR  = "output - 2"
+TFL_APP_KEY = os.environ.get("TFL_APP_KEY", "")
+OUTPUT_DIR  = os.environ.get("OUTPUT_DIR", "data")
+ARRIVALS_INTERVAL_MINUTES = int(os.environ.get("ARRIVALS_INTERVAL_MINUTES", "0"))
 LINES       = ["central", "jubilee", "northern", "victoria", "bakerloo",
                "circle", "district", "metropolitan", "piccadilly", "elizabeth"]
 
@@ -44,9 +53,11 @@ LINES       = ["central", "jubilee", "northern", "victoria", "bakerloo",
 
 BASE_URL = "https://api.tfl.gov.uk"
 
-def get(endpoint: str, params: dict = {}) -> dict | list | None:
+def get(endpoint: str, params: dict | None = None) -> dict | list | None:
     """Generic API GET with error handling."""
-    params["app_key"] = TFL_APP_KEY
+    params = dict(params or {})
+    if TFL_APP_KEY:
+        params["app_key"] = TFL_APP_KEY
     try:
         r = requests.get(f"{BASE_URL}{endpoint}", params=params, timeout=10)
         r.raise_for_status()
@@ -154,7 +165,40 @@ def get_stop_points() -> pd.DataFrame:
 
 # ─── SUMMARY / AGGREGATION ───────────────────────────────────────────────────
 
-def build_arrivals_summary(arrivals_df: pd.DataFrame) -> pd.DataFrame:
+# The first 10 columns keep the original layout so existing Power BI queries
+# still line up; the running totals needed to update averages go at the end.
+ARRIVALS_SUMMARY_COLUMNS = [
+    "line_id", "line_name", "station_name", "naptan_id",
+    "avg_wait_seconds", "min_wait_seconds", "max_wait_seconds",
+    "total_arrivals", "avg_wait_minutes", "snapshot_time",
+    "snapshot_count", "sum_wait_seconds",
+]
+
+
+def load_arrivals_summary(path: str) -> pd.DataFrame:
+    """Load the running arrivals summary, converting the old one-row-per-run format."""
+    if not os.path.exists(path):
+        return pd.DataFrame()
+    previous = pd.read_csv(path)
+    if "snapshot_count" not in previous.columns:
+        # Old format appended one row per station per run, so each row is one snapshot.
+        previous["snapshot_count"]   = 1
+        previous["sum_wait_seconds"] = previous["avg_wait_seconds"]
+    return previous
+
+
+def arrivals_due(previous: pd.DataFrame) -> bool:
+    """True if the arrivals summary hasn't been refreshed within ARRIVALS_INTERVAL_MINUTES."""
+    if ARRIVALS_INTERVAL_MINUTES <= 0 or previous.empty:
+        return True
+    last = pd.to_datetime(previous["snapshot_time"], errors="coerce").max()
+    if pd.isna(last):
+        return True
+    now = datetime.now(timezone.utc).replace(tzinfo=None)
+    return now - last >= timedelta(minutes=ARRIVALS_INTERVAL_MINUTES)
+
+
+def build_arrivals_summary(arrivals_df: pd.DataFrame, previous: pd.DataFrame) -> pd.DataFrame:
     """
     Collect raw arrivals into a wait-time summary for stations.
 
@@ -165,9 +209,13 @@ def build_arrivals_summary(arrivals_df: pd.DataFrame) -> pd.DataFrame:
     real tube frequencies. The honest "wait" is the minimum time_to_station_s
     per station per snapshot. That per-snapshot
     minimum is taken, then average those minimums over time for a typical next-train wait.
+
+    The summary is cumulative: one row per line + station, holding running
+    totals across every snapshot collected so far. That keeps the file a fixed
+    size however often the pipeline runs, instead of growing each run.
     """
     if arrivals_df.empty:
-        return pd.DataFrame()
+        return previous
 
     # Stage 1: per station, per snapshot (timestamp) -> the NEXT train's wait
     # (minimum time_to_station), plus how many trains were tracked that snapshot.
@@ -181,22 +229,39 @@ def build_arrivals_summary(arrivals_df: pd.DataFrame) -> pd.DataFrame:
         .reset_index()
     )
 
-    # Stage 2: per station, average the per-snapshot next-train waits over time,
-    # and sum the tracked trains for a volume measure.
-    summary = (
+    # Stage 2: fold this run's snapshots into the running per-station totals.
+    current = (
         per_snapshot
         .groupby(["line_id", "line_name", "station_name", "naptan_id"])
         .agg(
-            avg_wait_seconds = ("next_train_s",   "mean"),
+            snapshot_count   = ("next_train_s",   "count"),
+            sum_wait_seconds = ("next_train_s",   "sum"),
             min_wait_seconds = ("next_train_s",   "min"),
             max_wait_seconds = ("next_train_s",   "max"),
             total_arrivals   = ("trains_tracked", "sum"),
         )
         .reset_index()
     )
+    combined = pd.concat([previous, current], ignore_index=True) if not previous.empty else current
+
+    summary = (
+        combined
+        .groupby(["line_id", "naptan_id"])
+        .agg(
+            line_name        = ("line_name",        "last"),
+            station_name     = ("station_name",     "last"),
+            snapshot_count   = ("snapshot_count",   "sum"),
+            sum_wait_seconds = ("sum_wait_seconds", "sum"),
+            min_wait_seconds = ("min_wait_seconds", "min"),
+            max_wait_seconds = ("max_wait_seconds", "max"),
+            total_arrivals   = ("total_arrivals",   "sum"),
+        )
+        .reset_index()
+    )
+    summary["avg_wait_seconds"] = (summary["sum_wait_seconds"] / summary["snapshot_count"]).round(1)
     summary["avg_wait_minutes"] = (summary["avg_wait_seconds"] / 60).round(2)
-    summary["snapshot_time"]    = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    return summary
+    summary["snapshot_time"]    = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    return summary[ARRIVALS_SUMMARY_COLUMNS]
 
 
 def build_reliability_summary(status_df: pd.DataFrame) -> pd.DataFrame:
@@ -283,12 +348,18 @@ def run_pipeline():
    
 
     # 2. Live arrivals - volume/wait-time only, no delay claim
-    print("\n[2/3] Live arrivals (volume & wait time only)...")
-    arrivals_df = get_all_arrivals()
-    if not arrivals_df.empty:
-        export(arrivals_df, "arrivals_raw.csv")
-        arrivals_summary_df = build_arrivals_summary(arrivals_df)
-        export(arrivals_summary_df, "arrivals_summary.csv")
+    summary_path = os.path.join(OUTPUT_DIR, "arrivals_summary.csv")
+    previous_summary = load_arrivals_summary(summary_path)
+    if arrivals_due(previous_summary):
+        print("\n[2/3] Live arrivals (volume & wait time only)...")
+        arrivals_df = get_all_arrivals()
+        if not arrivals_df.empty:
+            export(arrivals_df, "arrivals_raw.csv")
+            arrivals_summary_df = build_arrivals_summary(arrivals_df, previous_summary)
+            # Overwrite: the summary holds running totals, so appending would double count.
+            export(arrivals_summary_df, "arrivals_summary.csv", append=False)
+    else:
+        print(f"\n[2/3] Arrivals refreshed within the last {ARRIVALS_INTERVAL_MINUTES} min - skipping.")
 
     # 3. Station geo data (only write once)
     stations_path = os.path.join(OUTPUT_DIR, "stations.csv")
