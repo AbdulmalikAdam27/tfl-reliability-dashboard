@@ -305,3 +305,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-06 15:08:58,15,northern,Northern,10,Good Service,,None
 2026-10-06 15:08:58,15,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-06 15:08:58,15,victoria,Victoria,10,Good Service,,None
+2026-10-06 20:13:49,20,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-06 20:13:49,20,central,Central,9,Minor Delays,"Central Line: Minor delays between North Acton and West Ruislip/Ealing Broadway, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-06 20:13:49,20,circle,Circle,10,Good Service,,None
+2026-10-06 20:13:49,20,district,District,10,Good Service,,None
+2026-10-06 20:13:49,20,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-06 20:13:49,20,jubilee,Jubilee,10,Good Service,,None
+2026-10-06 20:13:49,20,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-06 20:13:49,20,northern,Northern,10,Good Service,,None
+2026-10-06 20:13:49,20,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-06 20:13:49,20,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
