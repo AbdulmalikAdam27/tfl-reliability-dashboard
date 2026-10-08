@@ -387,3 +387,14 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-08 07:26:45,7,northern,Northern,10,Good Service,,None
 2026-10-08 07:26:45,7,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-08 07:26:45,7,victoria,Victoria,10,Good Service,,None
+2026-10-08 14:45:02,14,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to train cancellations. London Buses, Lioness Line, London Northwestern Railway and Thameslink are accepting tickets via any reasonable route. ",RealTime
+2026-10-08 14:45:02,14,central,Central,10,Good Service,,None
+2026-10-08 14:45:02,14,circle,Circle,10,Good Service,,None
+2026-10-08 14:45:02,14,district,District,10,Good Service,,None
+2026-10-08 14:45:02,14,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-08 14:45:02,14,jubilee,Jubilee,10,Good Service,,None
+2026-10-08 14:45:02,14,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-08 14:45:02,14,northern,Northern,6,Severe Delays,"Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. ",RealTime
+2026-10-08 14:45:02,14,northern,Northern,3,Part Suspended,"Northern Line: No service between Camden Town and Morden via Bank while we fix a signal failure at Stockwell. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. ",RealTime
+2026-10-08 14:45:02,14,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier signal failure at Arnos Grove. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-08 14:45:02,14,victoria,Victoria,10,Good Service,,None
