@@ -408,3 +408,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-08 20:11:07,20,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier signal failure at Stockwell. Tickets are being accepted on London Buses, Thameslink, Great Northern, South Western Railway and London Trams. ",RealTime
 2026-10-08 20:11:07,20,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-08 20:11:07,20,victoria,Victoria,10,Good Service,,None
+2026-10-09 00:20:59,0,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-09 00:20:59,0,central,Central,20,Service Closed,Central Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,district,District,20,Service Closed,District Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,elizabeth,Elizabeth line,20,Service Closed,Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning. ,RealTime
+2026-10-09 00:20:59,0,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning. ,RealTime
