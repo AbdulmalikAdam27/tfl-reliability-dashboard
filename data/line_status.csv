@@ -418,3 +418,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-09 00:20:59,0,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning. ,RealTime
 2026-10-09 00:20:59,0,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning. ,RealTime
 2026-10-09 00:20:59,0,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning. ,RealTime
+2026-10-09 06:20:42,6,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays while we fix a signal failure at Edgware Road. ,RealTime
+2026-10-09 06:20:42,6,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.  ,RealTime
+2026-10-09 06:20:42,6,circle,Circle,10,Good Service,,None
+2026-10-09 06:20:42,6,district,District,10,Good Service,,None
+2026-10-09 06:20:42,6,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-09 06:20:42,6,jubilee,Jubilee,10,Good Service,,None
+2026-10-09 06:20:42,6,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. After the 07:31 departure from Amersham, the next southbound train will be at 07:52. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-09 06:20:42,6,northern,Northern,6,Severe Delays,Northern Line: Severe delays between High Barnet and Camden Town/Mill Hill East following a late finish of engineering work. London Underground tickets will be accepted on London buses. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-09 06:20:42,6,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-09 06:20:42,6,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
