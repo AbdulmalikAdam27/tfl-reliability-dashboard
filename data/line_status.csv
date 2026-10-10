@@ -482,3 +482,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-10 08:24:17,8,northern,Northern,3,Part Suspended,Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. ,RealTime
 2026-10-10 08:24:17,8,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-10 08:24:17,8,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.  ,RealTime
+2026-10-10 14:32:58,14,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations. ,RealTime
+2026-10-10 14:32:58,14,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations. ,RealTime
+2026-10-10 14:32:58,14,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)",PlannedWork
+2026-10-10 14:32:58,14,district,District,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate.",PlannedWork
+2026-10-10 14:32:58,14,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-10 14:32:58,14,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to an earlier faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. ",RealTime
+2026-10-10 14:32:58,14,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-10 14:32:58,14,northern,Northern,10,Good Service,,None
+2026-10-10 14:32:58,14,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-10 14:32:58,14,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to an earlier fire alert at Blackhorse Road. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. ",RealTime
