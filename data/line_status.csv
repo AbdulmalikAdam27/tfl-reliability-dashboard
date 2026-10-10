@@ -470,3 +470,15 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-10 02:04:55,2,northern,Northern,10,Good Service,,None
 2026-10-10 02:04:55,2,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-10 02:04:55,2,victoria,Victoria,10,Good Service,,None
+2026-10-10 08:24:17,8,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-10 08:24:17,8,central,Central,10,Good Service,,None
+2026-10-10 08:24:17,8,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)",PlannedWork
+2026-10-10 08:24:17,8,district,District,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate.",PlannedWork
+2026-10-10 08:24:17,8,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-10 08:24:17,8,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: No service between North Greenwich and Stratford and SEVERE DELAYS on the rest of the line while we fix a faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. ",RealTime
+2026-10-10 08:24:17,8,jubilee,Jubilee,3,Part Suspended,"Jubilee Line: No service between North Greenwich and Stratford and SEVERE DELAYS on the rest of the line while we fix a faulty train at West Ham. Tickets are being accepted on London Buses, Mildmay Line, Elizabeth Line and C2C services. ",RealTime
+2026-10-10 08:24:17,8,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS between Moor Park and Watford due to train cancellations. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-10 08:24:17,8,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS between Moor Park and Watford due to train cancellations. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-10 08:24:17,8,northern,Northern,3,Part Suspended,Northern Line: No service between Camden Town and Kennington via Bank southbound only while we fix a faulty train at Euston. Tickets will be accepted on London Buses via reasonable routes. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-10 08:24:17,8,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-10 08:24:17,8,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.  ,RealTime
