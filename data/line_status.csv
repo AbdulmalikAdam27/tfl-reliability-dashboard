@@ -534,3 +534,16 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-11 06:30:32,6,northern,Northern,10,Good Service,,None
 2026-10-11 06:30:32,6,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-11 06:30:32,6,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
+2026-10-11 13:19:51,13,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier customer incident at Warwick Avenue. GOOD SERVICE on the rest of the line.
+
+
+ ",RealTime
+2026-10-11 13:19:51,13,central,Central,10,Good Service,,None
+2026-10-11 13:19:51,13,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)",PlannedWork
+2026-10-11 13:19:51,13,district,District,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate.",PlannedWork
+2026-10-11 13:19:51,13,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-11 13:19:51,13,jubilee,Jubilee,10,Good Service,,None
+2026-10-11 13:19:51,13,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-11 13:19:51,13,northern,Northern,10,Good Service,,None
+2026-10-11 13:19:51,13,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-11 13:19:51,13,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
