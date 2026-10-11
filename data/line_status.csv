@@ -512,3 +512,15 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-10 22:01:20,22,northern,Northern,10,Good Service,,None
 2026-10-10 22:01:20,22,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-10 22:01:20,22,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to an earlier fire alert at Blackhorse Road. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. ",RealTime
+2026-10-11 00:46:45,0,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning. ,RealTime
+2026-10-11 00:46:45,0,central,Central,10,Good Service,,None
+2026-10-11 00:46:45,0,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)",PlannedWork
+2026-10-11 00:46:45,0,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning. ,RealTime
+2026-10-11 00:46:45,0,district,District,5,Part Closure,"DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate.",PlannedWork
+2026-10-11 00:46:45,0,district,District,20,Service Closed,District Line: Service will resume later this morning. ,RealTime
+2026-10-11 00:46:45,0,elizabeth,Elizabeth line,20,Service Closed,Service will resume later this morning. ,RealTime
+2026-10-11 00:46:45,0,jubilee,Jubilee,10,Good Service,,None
+2026-10-11 00:46:45,0,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning. ,RealTime
+2026-10-11 00:46:45,0,northern,Northern,10,Good Service,,None
+2026-10-11 00:46:45,0,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays due to an earlier signalling problem at King's Cross St. Pancras.  ,RealTime
+2026-10-11 00:46:45,0,victoria,Victoria,10,Good Service,,None
