@@ -679,3 +679,16 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-14 10:34:08,10,northern,Northern,10,Good Service,,None
 2026-10-14 10:34:08,10,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-14 10:34:08,10,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
+2026-10-14 15:25:24,15,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-14 15:25:24,15,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations. ,RealTime
+2026-10-14 15:25:24,15,circle,Circle,10,Good Service,,None
+2026-10-14 15:25:24,15,district,District,10,Good Service,,None
+2026-10-14 15:25:24,15,elizabeth,Elizabeth line,6,Severe Delays,"Severe delays between Paddington and Heathrow Terminals/Reading, MINOR DELAYS Abbey wood to Paddington while we remove an obstruction from the track at Southall. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-14 15:25:24,15,elizabeth,Elizabeth line,6,Severe Delays,"Severe delays between Paddington and Heathrow Terminals/Reading, MINOR DELAYS Abbey wood to Paddington while we remove an obstruction from the track at Southall. GOOD SERVICE on the rest of the line. Tickets accepted on London Underground by any reasonable route. ",RealTime
+2026-10-14 15:25:24,15,elizabeth,Elizabeth line,9,Minor Delays,"Severe delays between Paddington and Heathrow Terminals/Reading, MINOR DELAYS Abbey wood to Paddington while we remove an obstruction from the track at Southall. GOOD SERVICE on the rest of the line. Tickets accepted on London Underground by any reasonable route. ",RealTime
+2026-10-14 15:25:24,15,elizabeth,Elizabeth line,9,Minor Delays,"Severe delays between Paddington and Heathrow Terminals/Reading, MINOR DELAYS Abbey wood to Paddington while we remove an obstruction from the track at Southall. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-14 15:25:24,15,jubilee,Jubilee,10,Good Service,,None
+2026-10-14 15:25:24,15,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-14 15:25:24,15,northern,Northern,10,Good Service,,None
+2026-10-14 15:25:24,15,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals while we fix a points failure at Hatton Cross. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-14 15:25:24,15,victoria,Victoria,10,Good Service,,None
