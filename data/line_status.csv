@@ -723,3 +723,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-15 00:47:12,0,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning. ,RealTime
 2026-10-15 00:47:12,0,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning. ,RealTime
 2026-10-15 00:47:12,0,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning. ,RealTime
+2026-10-15 05:18:17,5,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-15 05:18:17,5,central,Central,10,Good Service,,None
+2026-10-15 05:18:17,5,circle,Circle,10,Good Service,,None
+2026-10-15 05:18:17,5,district,District,6,Severe Delays,"District Line: Severe delays between Earl's Court and Ealing Broadway / Edgware Road / Wimbledon/ Richmond, and between Earl's Court and Tower Hill eastbound only while we fix a signal system failure. Tickets are being accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line. ",RealTime
+2026-10-15 05:18:17,5,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-15 05:18:17,5,jubilee,Jubilee,10,Good Service,,None
+2026-10-15 05:18:17,5,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-15 05:18:17,5,northern,Northern,3,Part Suspended,Northern Line: No service between Kennington and Battersea Power Station while we fix a faulty train at Nine Elms. NO SERVICE between Camden Town and Finchley Central northbound only while we fix a signal failure at Kentish Town. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. ,RealTime
+2026-10-15 05:18:17,5,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-15 05:18:17,5,victoria,Victoria,10,Good Service,,None
