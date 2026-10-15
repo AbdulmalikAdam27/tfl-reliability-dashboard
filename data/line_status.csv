@@ -767,3 +767,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-15 18:42:54,18,northern,Northern,10,Good Service,,None
 2026-10-15 18:42:54,18,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-15 18:42:54,18,victoria,Victoria,10,Good Service,,None
+2026-10-15 21:47:20,21,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-15 21:47:20,21,central,Central,10,Good Service,,None
+2026-10-15 21:47:20,21,circle,Circle,10,Good Service,,None
+2026-10-15 21:47:20,21,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-15 21:47:20,21,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-15 21:47:20,21,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services. ",RealTime
+2026-10-15 21:47:20,21,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-15 21:47:20,21,northern,Northern,9,Minor Delays,"Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch. ",RealTime
+2026-10-15 21:47:20,21,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-15 21:47:20,21,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
