@@ -827,3 +827,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-16 15:57:44,15,northern,Northern,10,Good Service,,None
 2026-10-16 15:57:44,15,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-16 15:57:44,15,victoria,Victoria,2,Suspended,Victoria Line: No service while we respond to a fire alert at King's Cross St. Pancras. ,RealTime
+2026-10-16 19:16:51,19,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-16 19:16:51,19,central,Central,10,Good Service,,None
+2026-10-16 19:16:51,19,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to train cancellations. ,RealTime
+2026-10-16 19:16:51,19,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Tower Hill due to train cancellations. GOOD SERVICE on the rest of the line.  ,RealTime
+2026-10-16 19:16:51,19,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-16 19:16:51,19,jubilee,Jubilee,10,Good Service,,None
+2026-10-16 19:16:51,19,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-16 19:16:51,19,northern,Northern,10,Good Service,,None
+2026-10-16 19:16:51,19,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Uxbridge due to a person taken ill on a train earlier at Piccadilly Circus. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. ,RealTime
+2026-10-16 19:16:51,19,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to an earlier fire alert at King's Cross St. Pancras. Tickets are being accepted on London Buses, London Overground, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services. ",RealTime
