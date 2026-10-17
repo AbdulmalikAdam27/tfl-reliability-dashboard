@@ -1,401 +1,401 @@
 line_id,line_name,station_name,naptan_id,avg_wait_seconds,min_wait_seconds,max_wait_seconds,total_arrivals,avg_wait_minutes,snapshot_time,snapshot_count,sum_wait_seconds
-bakerloo,Bakerloo,Baker Street Underground Station,940GZZLUBST,237.9,1,1103,509,3.97,2026-10-17 17:58:26,66,15699.0
-bakerloo,Bakerloo,Charing Cross Underground Station,940GZZLUCHX,326.6,3,1553,484,5.44,2026-10-17 17:58:26,66,21554.0
-bakerloo,Bakerloo,Elephant & Castle Underground Station,940GZZLUEAC,369.1,2,1680,782,6.15,2026-10-17 17:58:26,63,23252.0
-bakerloo,Bakerloo,Embankment Underground Station,940GZZLUEMB,354.1,3,1613,465,5.9,2026-10-17 17:58:26,66,23372.0
-bakerloo,Bakerloo,Edgware Road (Bakerloo) Underground Station,940GZZLUERB,214.3,2,893,516,3.57,2026-10-17 17:58:26,66,14146.0
-bakerloo,Bakerloo,Harrow & Wealdstone Underground Station,940GZZLUHAW,278.2,3,1177,132,4.64,2026-10-17 17:58:26,52,14469.0
-bakerloo,Bakerloo,Harlesden Underground Station,940GZZLUHSN,211.1,1,840,307,3.52,2026-10-17 17:58:26,66,13934.0
-bakerloo,Bakerloo,Kenton Underground Station,940GZZLUKEN,243.0,2,1613,148,4.05,2026-10-17 17:58:26,54,13122.0
-bakerloo,Bakerloo,Kilburn Park Underground Station,940GZZLUKPK,117.7,2,1505,583,1.96,2026-10-17 17:58:26,67,7885.0
-bakerloo,Bakerloo,Kensal Green Underground Station,940GZZLUKSL,175.5,4,1670,360,2.92,2026-10-17 17:58:26,67,11761.0
-bakerloo,Bakerloo,Lambeth North Underground Station,940GZZLULBN,457.1,3,1609,427,7.62,2026-10-17 17:58:26,65,29710.0
-bakerloo,Bakerloo,Maida Vale Underground Station,940GZZLUMVL,158.8,1,1625,573,2.65,2026-10-17 17:58:26,67,10639.0
-bakerloo,Bakerloo,Marylebone Underground Station,940GZZLUMYB,215.5,1,953,517,3.59,2026-10-17 17:58:26,66,14225.0
-bakerloo,Bakerloo,North Wembley Underground Station,940GZZLUNWY,337.7,2,1742,169,5.63,2026-10-17 17:58:26,54,18238.0
-bakerloo,Bakerloo,Oxford Circus Underground Station,940GZZLUOXC,270.2,1,1313,503,4.5,2026-10-17 17:58:26,66,17830.0
-bakerloo,Bakerloo,Paddington Underground Station,940GZZLUPAC,180.8,2,773,497,3.01,2026-10-17 17:58:26,61,11026.0
-bakerloo,Bakerloo,Paddington (H&C Line)-Underground,940GZZLUPAH,141.2,12,373,39,2.35,2026-10-17 17:58:26,5,706.0
-bakerloo,Bakerloo,Piccadilly Circus Underground Station,940GZZLUPCC,300.7,4,1433,493,5.01,2026-10-17 17:58:26,66,19847.0
-bakerloo,Bakerloo,Queen's Park Underground Station,940GZZLUQPS,111.8,1,1386,582,1.86,2026-10-17 17:58:26,67,7493.0
-bakerloo,Bakerloo,Regent's Park Underground Station,940GZZLURGP,246.7,1,1193,510,4.11,2026-10-17 17:58:26,66,16282.0
-bakerloo,Bakerloo,Stonebridge Park Underground Station,940GZZLUSGP,228.3,1,543,301,3.8,2026-10-17 17:58:26,67,15296.0
-bakerloo,Bakerloo,South Kenton Underground Station,940GZZLUSKT,333.1,9,1554,160,5.55,2026-10-17 17:58:26,54,17987.0
-bakerloo,Bakerloo,Willesden Junction Underground Station,940GZZLUWJN,175.0,1,660,322,2.92,2026-10-17 17:58:26,66,11552.0
-bakerloo,Bakerloo,Warwick Avenue Underground Station,940GZZLUWKA,166.4,1,1686,574,2.77,2026-10-17 17:58:26,67,11152.0
-bakerloo,Bakerloo,Waterloo Underground Station,940GZZLUWLO,369.0,6,1673,461,6.15,2026-10-17 17:58:26,66,24353.0
-bakerloo,Bakerloo,Wembley Central Underground Station,940GZZLUWYC,354.5,1,1622,172,5.91,2026-10-17 17:58:26,54,19143.0
-central,Central,Barkingside Underground Station,940GZZLUBKE,258.9,9,1504,244,4.31,2026-10-17 17:58:26,58,15015.0
-central,Central,Buckhurst Hill Underground Station,940GZZLUBKH,143.1,1,611,360,2.38,2026-10-17 17:58:26,58,8297.0
-central,Central,Bethnal Green Underground Station,940GZZLUBLG,92.2,1,585,956,1.54,2026-10-17 17:58:26,57,5253.0
-central,Central,Bond Street Underground Station,940GZZLUBND,85.8,1,324,874,1.43,2026-10-17 17:58:26,56,4803.0
-central,Central,Bank Underground Station,940GZZLUBNK,68.1,2,362,975,1.14,2026-10-17 17:58:26,56,3816.0
-central,Central,Chancery Lane Underground Station,940GZZLUCHL,96.7,11,600,920,1.61,2026-10-17 17:58:26,56,5415.0
-central,Central,Chigwell Underground Station,940GZZLUCWL,667.0,12,1524,39,11.12,2026-10-17 17:58:26,28,18677.0
-central,Central,Debden Underground Station,940GZZLUDBN,178.2,2,781,250,2.97,2026-10-17 17:58:26,55,9799.0
-central,Central,East Acton Underground Station,940GZZLUEAN,147.3,1,1255,603,2.46,2026-10-17 17:58:26,57,8397.0
-central,Central,Ealing Broadway Underground Station,940GZZLUEBY,323.2,5,1237,334,5.39,2026-10-17 17:58:26,58,18744.0
-central,Central,Epping Underground Station,940GZZLUEPG,243.4,1,781,457,4.06,2026-10-17 17:58:26,56,13628.0
-central,Central,Fairlop Underground Station,940GZZLUFLP,246.4,1,1080,229,4.11,2026-10-17 17:58:26,58,14293.0
-central,Central,Greenford Underground Station,940GZZLUGFD,253.5,12,1124,256,4.22,2026-10-17 17:58:26,55,13942.0
-central,Central,Grange Hill Underground Station,940GZZLUGGH,589.6,2,1644,46,9.83,2026-10-17 17:58:26,31,18279.0
-central,Central,Gants Hill Underground Station,940GZZLUGTH,169.4,1,1216,329,2.82,2026-10-17 17:58:26,58,9825.0
-central,Central,Holborn Underground Station,940GZZLUHBN,89.9,1,539,924,1.5,2026-10-17 17:58:26,56,5035.0
-central,Central,Hanger Lane Underground Station,940GZZLUHGR,206.7,1,523,284,3.44,2026-10-17 17:58:26,55,11370.0
-central,Central,Hainault Underground Station,940GZZLUHLT,251.8,1,1199,704,4.2,2026-10-17 17:58:26,58,14604.0
-central,Central,Holland Park Underground Station,940GZZLUHPK,97.3,1,419,785,1.62,2026-10-17 17:58:26,56,5447.0
-central,Central,Loughton Underground Station,940GZZLULGN,170.7,2,663,354,2.84,2026-10-17 17:58:26,58,9901.0
-central,Central,Lancaster Gate Underground Station,940GZZLULGT,95.4,1,539,836,1.59,2026-10-17 17:58:26,56,5343.0
-central,Central,Liverpool Street Underground Station,940GZZLULVT,74.2,1,479,956,1.24,2026-10-17 17:58:26,56,4158.0
-central,Central,Leyton Underground Station,940GZZLULYN,71.2,3,539,858,1.19,2026-10-17 17:58:26,57,4061.0
-central,Central,Leytonstone Underground Station,940GZZLULYS,76.2,1,272,853,1.27,2026-10-17 17:58:26,58,4422.0
-central,Central,Marble Arch Underground Station,940GZZLUMBA,85.1,2,414,874,1.42,2026-10-17 17:58:26,56,4763.0
-central,Central,Mile End Underground Station,940GZZLUMED,135.9,2,421,918,2.26,2026-10-17 17:58:26,57,7748.0
-central,Central,North Acton Underground Station,940GZZLUNAN,158.3,2,1374,635,2.64,2026-10-17 17:58:26,58,9184.0
-central,Central,Newbury Park Underground Station,940GZZLUNBP,125.1,1,840,309,2.08,2026-10-17 17:58:26,58,7256.0
-central,Central,Notting Hill Gate Underground Station,940GZZLUNHG,71.9,1,419,799,1.2,2026-10-17 17:58:26,56,4029.0
-central,Central,Northolt Underground Station,940GZZLUNHT,228.2,10,1305,245,3.8,2026-10-17 17:58:26,54,12325.0
-central,Central,Oxford Circus Underground Station,940GZZLUOXC,96.4,1,976,887,1.61,2026-10-17 17:58:26,56,5396.0
-central,Central,Perivale Underground Station,940GZZLUPVL,221.9,4,1005,274,3.7,2026-10-17 17:58:26,55,12204.0
-central,Central,Queensway Underground Station,940GZZLUQWY,78.9,1,354,825,1.32,2026-10-17 17:58:26,56,4419.0
-central,Central,Redbridge Underground Station,940GZZLURBG,178.7,1,1097,329,2.98,2026-10-17 17:58:26,57,10186.0
-central,Central,Ruislip Gardens Underground Station,940GZZLURSG,223.5,2,1055,210,3.72,2026-10-17 17:58:26,55,12295.0
-central,Central,Roding Valley Underground Station,940GZZLURVY,460.5,8,1345,49,7.68,2026-10-17 17:58:26,31,14274.0
-central,Central,Shepherd's Bush (Central) Underground Station,940GZZLUSBC,71.3,1,359,758,1.19,2026-10-17 17:58:26,56,3994.0
-central,Central,Snaresbrook Underground Station,940GZZLUSNB,170.3,1,719,450,2.84,2026-10-17 17:58:26,58,9880.0
-central,Central,St. Paul's Underground Station,940GZZLUSPU,81.9,1,955,932,1.36,2026-10-17 17:58:26,56,4585.0
-central,Central,South Ruislip Underground Station,940GZZLUSRP,214.2,3,994,220,3.57,2026-10-17 17:58:26,54,11566.0
-central,Central,Stratford Underground Station,940GZZLUSTD,77.1,1,480,886,1.28,2026-10-17 17:58:26,57,4394.0
-central,Central,South Woodford Underground Station,940GZZLUSWF,186.0,1,600,430,3.1,2026-10-17 17:58:26,58,10788.0
-central,Central,Tottenham Court Road Underground Station,940GZZLUTCR,115.6,1,1096,903,1.93,2026-10-17 17:58:26,56,6471.0
-central,Central,Theydon Bois Underground Station,940GZZLUTHB,161.9,1,1077,249,2.7,2026-10-17 17:58:26,56,9069.0
-central,Central,White City Underground Station,940GZZLUWCY,86.1,1,1075,835,1.43,2026-10-17 17:58:26,58,4993.0
-central,Central,Woodford Underground Station,940GZZLUWOF,107.3,2,459,447,1.79,2026-10-17 17:58:26,59,6331.0
-central,Central,West Ruislip Underground Station,940GZZLUWRP,280.4,2,1294,384,4.67,2026-10-17 17:58:26,54,15144.0
-central,Central,Wanstead Underground Station,940GZZLUWSD,164.8,1,976,347,2.75,2026-10-17 17:58:26,57,9396.0
-central,Central,West Acton Underground Station,940GZZLUWTA,334.7,2,1712,176,5.58,2026-10-17 17:58:26,58,19411.0
-circle,Circle,Aldgate Underground Station,940GZZLUALD,212.7,2,1212,244,3.54,2026-10-17 17:58:26,47,9999.0
-circle,Circle,Barbican Underground Station,940GZZLUBBN,322.4,24,1080,183,5.37,2026-10-17 17:58:26,47,15153.0
-circle,Circle,Blackfriars Underground Station,940GZZLUBKF,303.3,15,1633,225,5.06,2026-10-17 17:58:26,47,14257.0
-circle,Circle,Baker Street Underground Station,940GZZLUBST,366.1,3,1452,182,6.1,2026-10-17 17:58:26,45,16473.0
-circle,Circle,Bayswater Underground Station,940GZZLUBWT,716.8,220,1224,89,11.95,2026-10-17 17:58:26,45,32257.0
-circle,Circle,Cannon Street Underground Station,940GZZLUCST,253.4,3,1512,233,4.22,2026-10-17 17:58:26,47,11912.0
-circle,Circle,Embankment Underground Station,940GZZLUEMB,247.6,1,1504,206,4.13,2026-10-17 17:58:26,44,10894.0
-circle,Circle,Edgware Road (Circle Line) Underground Station,940GZZLUERC,360.2,9,1331,176,6.0,2026-10-17 17:58:26,45,16211.0
-circle,Circle,Euston Square Underground Station,940GZZLUESQ,364.5,6,1752,178,6.08,2026-10-17 17:58:26,46,16765.0
-circle,Circle,Fulham Broadway Underground Station,940GZZLUFBY,767.0,767,767,1,12.78,2026-10-17 17:58:26,1,767.0
-circle,Circle,Farringdon Underground Station,940GZZLUFCN,342.5,1,1101,176,5.71,2026-10-17 17:58:26,47,16098.0
-circle,Circle,Goldhawk Road Underground Station,940GZZLUGHK,292.4,1,683,50,4.87,2026-10-17 17:58:26,40,11695.0
-circle,Circle,Great Portland Street Underground Station,940GZZLUGPS,349.6,3,1632,182,5.83,2026-10-17 17:58:26,46,16081.0
-circle,Circle,Gloucester Road Underground Station,940GZZLUGTR,181.6,3,588,169,3.03,2026-10-17 17:58:26,44,7992.0
-circle,Circle,High Street Kensington Underground Station,940GZZLUHSK,206.4,8,864,179,3.44,2026-10-17 17:58:26,45,9287.0
-circle,Circle,King's Cross St. Pancras Underground Station,940GZZLUKSX,362.9,7,1730,171,6.05,2026-10-17 17:58:26,46,16695.0
-circle,Circle,Ladbroke Grove Underground Station,940GZZLULAD,294.2,16,585,72,4.9,2026-10-17 17:58:26,42,12355.0
-circle,Circle,Latimer Road Underground Station,940GZZLULRD,265.6,14,586,72,4.43,2026-10-17 17:58:26,42,11157.0
-circle,Circle,Liverpool Street Underground Station,940GZZLULVT,363.9,10,1309,128,6.06,2026-10-17 17:58:26,47,17105.0
-circle,Circle,Moorgate Underground Station,940GZZLUMGT,364.3,5,1189,134,6.07,2026-10-17 17:58:26,47,17123.0
-circle,Circle,Monument Underground Station,940GZZLUMMT,262.9,5,1452,240,4.38,2026-10-17 17:58:26,47,12356.0
-circle,Circle,Mansion House Underground Station,940GZZLUMSH,230.4,1,1572,234,3.84,2026-10-17 17:58:26,47,10827.0
-circle,Circle,Notting Hill Gate Underground Station,940GZZLUNHG,624.0,130,1105,101,10.4,2026-10-17 17:58:26,45,28081.0
-circle,Circle,Paddington Underground Station,940GZZLUPAC,206.7,5,477,52,3.44,2026-10-17 17:58:26,36,7441.0
-circle,Circle,Paddington (H&C Line)-Underground,940GZZLUPAH,308.6,1,882,97,5.14,2026-10-17 17:58:26,42,12962.0
-circle,Circle,Royal Oak Underground Station,940GZZLURYO,1302.0,1302,1302,1,21.7,2026-10-17 17:58:26,1,1302.0
-circle,Circle,Shepherd's Bush Market Underground Station,940GZZLUSBM,235.3,2,578,60,3.92,2026-10-17 17:58:26,42,9882.0
-circle,Circle,St. James's Park Underground Station,940GZZLUSJP,232.1,1,1684,189,3.87,2026-10-17 17:58:26,44,10213.0
-circle,Circle,South Kensington Underground Station,940GZZLUSKS,182.8,2,648,173,3.05,2026-10-17 17:58:26,44,8044.0
-circle,Circle,Sloane Square Underground Station,940GZZLUSSQ,255.1,11,769,172,4.25,2026-10-17 17:58:26,44,11223.0
-circle,Circle,Temple Underground Station,940GZZLUTMP,266.1,1,1753,216,4.44,2026-10-17 17:58:26,46,12240.0
-circle,Circle,Tower Hill Underground Station,940GZZLUTWH,233.7,13,1160,239,3.9,2026-10-17 17:58:26,47,10983.0
-circle,Circle,Victoria Underground Station,940GZZLUVIC,192.5,1,708,188,3.21,2026-10-17 17:58:26,44,8468.0
-circle,Circle,Wood Lane Underground Station,940GZZLUWLA,259.9,2,572,66,4.33,2026-10-17 17:58:26,42,10916.0
-circle,Circle,Westminster Underground Station,940GZZLUWSM,262.7,3,1624,189,4.38,2026-10-17 17:58:26,44,11559.0
-circle,Circle,Westbourne Park Underground Station,940GZZLUWSP,288.3,4,641,81,4.81,2026-10-17 17:58:26,42,12110.0
-district,District,Acton Town Underground Station,940GZZLUACT,142.7,4,467,71,2.38,2026-10-17 17:58:26,37,5281.0
-district,District,Aldgate East Underground Station,940GZZLUADE,124.4,1,671,498,2.07,2026-10-17 17:58:26,54,6716.0
-district,District,Bromley-by-Bow Underground Station,940GZZLUBBB,114.6,1,355,509,1.91,2026-10-17 17:58:26,54,6190.0
-district,District,Becontree Underground Station,940GZZLUBEC,161.1,1,780,348,2.68,2026-10-17 17:58:26,56,9022.0
-district,District,Blackfriars Underground Station,940GZZLUBKF,78.9,1,347,480,1.32,2026-10-17 17:58:26,45,3549.0
-district,District,Barking Underground Station,940GZZLUBKG,94.7,1,492,660,1.58,2026-10-17 17:58:26,57,5400.0
-district,District,Barons Court Underground Station,940GZZLUBSC,156.8,6,1187,224,2.61,2026-10-17 17:58:26,48,7525.0
-district,District,Bow Road Underground Station,940GZZLUBWR,123.7,5,361,509,2.06,2026-10-17 17:58:26,54,6682.0
-district,District,Cannon Street Underground Station,940GZZLUCST,77.6,1,408,487,1.29,2026-10-17 17:58:26,45,3490.0
-district,District,Chiswick Park Underground Station,940GZZLUCWP,193.4,2,648,64,3.22,2026-10-17 17:58:26,40,7738.0
-district,District,Dagenham East Underground Station,940GZZLUDGE,176.1,2,1020,341,2.94,2026-10-17 17:58:26,57,10039.0
-district,District,Dagenham Heathway Underground Station,940GZZLUDGY,166.5,2,899,349,2.78,2026-10-17 17:58:26,57,9491.0
-district,District,Ealing Broadway Underground Station,940GZZLUEBY,233.1,1,619,219,3.88,2026-10-17 17:58:26,43,10024.0
-district,District,Ealing Common Underground Station,940GZZLUECM,168.2,4,559,74,2.8,2026-10-17 17:58:26,36,6057.0
-district,District,Earl's Court Underground Station,940GZZLUECT,201.5,1,978,214,3.36,2026-10-17 17:58:26,46,9269.0
-district,District,East Ham Underground Station,940GZZLUEHM,129.1,1,506,522,2.15,2026-10-17 17:58:26,54,6973.0
-district,District,Embankment Underground Station,940GZZLUEMB,85.7,2,347,457,1.43,2026-10-17 17:58:26,45,3857.0
-district,District,Elm Park Underground Station,940GZZLUEPK,153.9,1,612,305,2.56,2026-10-17 17:58:26,56,8617.0
-district,District,East Putney Underground Station,940GZZLUEPY,147.2,3,1680,266,2.45,2026-10-17 17:58:26,52,7653.0
-district,District,Edgware Road (Circle Line) Underground Station,940GZZLUERC,269.4,1,1729,114,4.49,2026-10-17 17:58:26,49,13202.0
-district,District,Fulham Broadway Underground Station,940GZZLUFBY,147.8,3,648,284,2.46,2026-10-17 17:58:26,53,7833.0
-district,District,Gunnersbury Underground Station,940GZZLUGBY,81.3,3,164,50,1.36,2026-10-17 17:58:26,32,2601.0
-district,District,Gloucester Road Underground Station,940GZZLUGTR,100.9,2,602,352,1.68,2026-10-17 17:58:26,45,4541.0
-district,District,Hornchurch Underground Station,940GZZLUHCH,150.6,2,732,305,2.51,2026-10-17 17:58:26,56,8435.0
-district,District,Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD,131.9,1,1128,228,2.2,2026-10-17 17:58:26,48,6331.0
-district,District,High Street Kensington Underground Station,940GZZLUHSK,158.6,3,472,214,2.64,2026-10-17 17:58:26,47,7455.0
-district,District,Kensington (Olympia) Underground Station,940GZZLUKOY,325.1,3,1689,13,5.42,2026-10-17 17:58:26,11,3576.0
-district,District,Kew Gardens Underground Station,940GZZLUKWG,70.8,1,225,51,1.18,2026-10-17 17:58:26,32,2264.0
-district,District,Mile End Underground Station,940GZZLUMED,132.8,3,346,505,2.21,2026-10-17 17:58:26,54,7169.0
-district,District,Monument Underground Station,940GZZLUMMT,101.9,3,601,503,1.7,2026-10-17 17:58:26,45,4585.0
-district,District,Mansion House Underground Station,940GZZLUMSH,97.0,3,468,478,1.62,2026-10-17 17:58:26,45,4367.0
-district,District,Paddington Underground Station,940GZZLUPAC,292.5,2,1740,164,4.88,2026-10-17 17:58:26,47,13749.0
-district,District,Plaistow Underground Station,940GZZLUPLW,109.1,2,529,519,1.82,2026-10-17 17:58:26,54,5894.0
-district,District,Parsons Green Underground Station,940GZZLUPSG,217.0,1,1260,256,3.62,2026-10-17 17:58:26,52,11284.0
-district,District,Putney Bridge Underground Station,940GZZLUPYB,204.0,2,1559,242,3.4,2026-10-17 17:58:26,52,10607.0
-district,District,Richmond Underground Station,940GZZLURMD,64.9,1,279,254,1.08,2026-10-17 17:58:26,38,2467.0
-district,District,Ravenscourt Park Underground Station,940GZZLURVP,111.8,3,947,226,1.86,2026-10-17 17:58:26,48,5364.0
-district,District,Stamford Brook Underground Station,940GZZLUSFB,110.0,1,827,218,1.83,2026-10-17 17:58:26,48,5279.0
-district,District,Southfields Underground Station,940GZZLUSFS,111.3,3,709,299,1.86,2026-10-17 17:58:26,49,5453.0
-district,District,Stepney Green Underground Station,940GZZLUSGN,93.6,2,413,506,1.56,2026-10-17 17:58:26,54,5054.0
-district,District,St. James's Park Underground Station,940GZZLUSJP,84.5,1,343,414,1.41,2026-10-17 17:58:26,45,3802.0
-district,District,South Kensington Underground Station,940GZZLUSKS,120.3,5,722,348,2.0,2026-10-17 17:58:26,45,5414.0
-district,District,Sloane Square Underground Station,940GZZLUSSQ,125.6,5,782,378,2.09,2026-10-17 17:58:26,45,5652.0
-district,District,Temple Underground Station,940GZZLUTMP,83.4,3,348,457,1.39,2026-10-17 17:58:26,45,3755.0
-district,District,Turnham Green Underground Station,940GZZLUTNG,136.0,2,767,119,2.27,2026-10-17 17:58:26,46,6258.0
-district,District,Tower Hill Underground Station,940GZZLUTWH,113.8,1,551,548,1.9,2026-10-17 17:58:26,54,6144.0
-district,District,Upminster Bridge Underground Station,940GZZLUUPB,267.1,13,1786,306,4.45,2026-10-17 17:58:26,56,14958.0
-district,District,Upton Park Underground Station,940GZZLUUPK,123.3,2,649,507,2.06,2026-10-17 17:58:26,54,6659.0
-district,District,Upminster Underground Station,940GZZLUUPM,188.9,1,1262,615,3.15,2026-10-17 17:58:26,55,10388.0
-district,District,Upney Underground Station,940GZZLUUPY,159.6,1,689,367,2.66,2026-10-17 17:58:26,55,8777.0
-district,District,Victoria Underground Station,940GZZLUVIC,104.0,1,662,406,1.73,2026-10-17 17:58:26,45,4682.0
-district,District,West Brompton Underground Station,940GZZLUWBN,201.2,2,1441,251,3.35,2026-10-17 17:58:26,51,10259.0
-district,District,West Ham Underground Station,940GZZLUWHM,131.6,3,468,492,2.19,2026-10-17 17:58:26,54,7108.0
-district,District,Wimbledon Underground Station,940GZZLUWIM,85.7,1,415,1057,1.43,2026-10-17 17:58:26,53,4540.0
-district,District,Wimbledon Park Underground Station,940GZZLUWIP,120.3,4,588,309,2.0,2026-10-17 17:58:26,50,6016.0
-district,District,West Kensington Underground Station,940GZZLUWKN,164.2,4,1307,225,2.74,2026-10-17 17:58:26,48,7880.0
-district,District,Whitechapel Underground Station,940GZZLUWPL,107.4,2,528,520,1.79,2026-10-17 17:58:26,54,5801.0
-district,District,Westminster Underground Station,940GZZLUWSM,80.4,1,281,437,1.34,2026-10-17 17:58:26,45,3619.0
-elizabeth,Elizabeth line,Abbey Wood (London) Rail Station,910GABWD,213.5,1,1913,1052,3.56,2026-10-17 17:58:26,54,11529.0
-elizabeth,Elizabeth line,Abbey Wood,910GABWDXR,217.2,1,1913,982,3.62,2026-10-17 17:58:26,53,11511.0
-elizabeth,Elizabeth line,Acton Main Line Rail Station,910GACTONML,483.9,9,5126,751,8.06,2026-10-17 17:58:26,52,25165.0
-elizabeth,Elizabeth line,Burnham (Berks) Rail Station,910GBNHAM,545.1,1,5846,731,9.09,2026-10-17 17:58:26,52,28343.0
-elizabeth,Elizabeth line,Bond Street,910GBONDST,193.2,3,5662,3280,3.22,2026-10-17 17:58:26,53,10238.0
-elizabeth,Elizabeth line,Brentwood Rail Station,910GBRTWOOD,583.9,8,6934,1595,9.73,2026-10-17 17:58:26,62,36204.0
-elizabeth,Elizabeth line,Canary Wharf,910GCANWHRF,269.0,8,5482,1637,4.48,2026-10-17 17:58:26,53,14255.0
-elizabeth,Elizabeth line,Chadwell Heath Rail Station,910GCHDWLHT,425.5,10,7039,1728,7.09,2026-10-17 17:58:26,58,24679.0
-elizabeth,Elizabeth line,Custom House Rail Station,910GCUSTMHS,389.4,12,7046,1630,6.49,2026-10-17 17:58:26,54,21030.0
-elizabeth,Elizabeth line,Ealing Broadway Rail Station,910GEALINGB,524.2,10,6694,1839,8.74,2026-10-17 17:58:26,57,29882.0
-elizabeth,Elizabeth line,Farringdon Rail Station,910GFRNDNLT,206.6,14,5482,3151,3.44,2026-10-17 17:58:26,52,10742.0
-elizabeth,Elizabeth line,Farringdon,910GFRNDXR,203.7,1,5482,3152,3.4,2026-10-17 17:58:26,52,10592.0
-elizabeth,Elizabeth line,Forest Gate Rail Station,910GFRSTGT,346.8,4,5486,1725,5.78,2026-10-17 17:58:26,57,19767.0
-elizabeth,Elizabeth line,Gidea Park Rail Station,910GGIDEAPK,417.4,4,6941,1681,6.96,2026-10-17 17:58:26,61,25462.0
-elizabeth,Elizabeth line,Goodmayes Rail Station,910GGODMAYS,408.7,2,7159,1729,6.81,2026-10-17 17:58:26,58,23702.0
-elizabeth,Elizabeth line,Hanwell Rail Station,910GHANWELL,483.8,15,5606,738,8.06,2026-10-17 17:58:26,50,24188.0
-elizabeth,Elizabeth line,Hayes & Harlington Rail Station,910GHAYESAH,472.9,3,6821,1783,7.88,2026-10-17 17:58:26,56,26481.0
-elizabeth,Elizabeth line,Harold Wood Rail Station,910GHRLDWOD,582.1,2,7174,1605,9.7,2026-10-17 17:58:26,62,36088.0
-elizabeth,Elizabeth line,Heathrow Terminals 2 & 3 Rail Station,910GHTRWAPT,512.7,4,6979,1057,8.54,2026-10-17 17:58:26,55,28197.0
-elizabeth,Elizabeth line,Heathrow Terminal 4 Rail Station,910GHTRWTM4,471.0,1,3502,404,7.85,2026-10-17 17:58:26,54,25435.0
-elizabeth,Elizabeth line,Heathrow Terminal 5 Rail Station,910GHTRWTM5,611.1,1,3142,227,10.18,2026-10-17 17:58:26,53,32386.0
-elizabeth,Elizabeth line,Ilford Rail Station,910GILFORD,338.0,6,5126,1725,5.63,2026-10-17 17:58:26,57,19264.0
-elizabeth,Elizabeth line,Iver Rail Station,910GIVER,708.3,9,6446,496,11.8,2026-10-17 17:58:26,54,38248.0
-elizabeth,Elizabeth line,Langley (Berks) Rail Station,910GLANGLEY,607.6,9,6266,705,10.13,2026-10-17 17:58:26,54,32808.0
-elizabeth,Elizabeth line,London Liverpool Street Rail Station,910GLIVST,137.3,1,4402,2779,2.29,2026-10-17 17:58:26,56,7687.0
-elizabeth,Elizabeth line,Liverpool Street,910GLIVSTLL,143.5,1,4402,2768,2.39,2026-10-17 17:58:26,56,8038.0
-elizabeth,Elizabeth line,Manor Park Rail Station,910GMANRPK,322.7,11,5246,1731,5.38,2026-10-17 17:58:26,57,18395.0
-elizabeth,Elizabeth line,Maidenhead Rail Station,910GMDNHEAD,494.8,1,6202,633,8.25,2026-10-17 17:58:26,54,26717.0
-elizabeth,Elizabeth line,Maryland Rail Station,910GMRYLAND,348.3,6,5606,1730,5.81,2026-10-17 17:58:26,57,19851.0
-elizabeth,Elizabeth line,Paddington,910GPADTLL,167.0,1,5662,2678,2.78,2026-10-17 17:58:26,55,9186.0
-elizabeth,Elizabeth line,London Paddington Rail Station,910GPADTON,177.2,1,5662,2867,2.95,2026-10-17 17:58:26,55,9744.0
-elizabeth,Elizabeth line,Reading Rail Station,910GRDNGSTN,835.3,1,7102,261,13.92,2026-10-17 17:58:26,48,40096.0
-elizabeth,Elizabeth line,Romford Rail Station,910GROMFORD,517.4,1,7121,1726,8.62,2026-10-17 17:58:26,60,31045.0
-elizabeth,Elizabeth line,Shenfield Rail Station,910GSHENFLD,395.2,1,6802,967,6.59,2026-10-17 17:58:26,58,22923.0
-elizabeth,Elizabeth line,Slough Rail Station,910GSLOUGH,553.2,4,6086,746,9.22,2026-10-17 17:58:26,54,29873.0
-elizabeth,Elizabeth line,Stratford (London) Rail Station,910GSTFD,234.3,7,3922,1715,3.9,2026-10-17 17:58:26,57,13357.0
-elizabeth,Elizabeth line,Southall Rail Station,910GSTHALL,620.8,10,6994,1490,10.35,2026-10-17 17:58:26,57,35386.0
-elizabeth,Elizabeth line,Seven Kings Rail Station,910GSVNKNGS,299.5,4,4886,1735,4.99,2026-10-17 17:58:26,57,17069.0
-elizabeth,Elizabeth line,Taplow Rail Station,910GTAPLOW,737.7,15,5666,471,12.3,2026-10-17 17:58:26,52,38360.0
-elizabeth,Elizabeth line,Tottenham Court Road,910GTOTCTRD,186.2,11,5662,3281,3.1,2026-10-17 17:58:26,52,9683.0
-elizabeth,Elizabeth line,Twyford Rail Station,910GTWYFORD,720.7,36,5842,460,12.01,2026-10-17 17:58:26,50,36035.0
-elizabeth,Elizabeth line,Whitechapel Rail Station,910GWCHAPEL,305.4,3,6926,3222,5.09,2026-10-17 17:58:26,55,16797.0
-elizabeth,Elizabeth line,Whitechapel,910GWCHAPXR,305.4,3,6926,3227,5.09,2026-10-17 17:58:26,55,16797.0
-elizabeth,Elizabeth line,West Drayton Rail Station,910GWDRYTON,512.2,1,6566,749,8.54,2026-10-17 17:58:26,54,27660.0
-elizabeth,Elizabeth line,West Ealing Rail Station,910GWEALING,526.7,4,5486,1035,8.78,2026-10-17 17:58:26,50,26334.0
-elizabeth,Elizabeth line,Woolwich,910GWOLWXR,358.3,2,6806,1635,5.97,2026-10-17 17:58:26,55,19706.0
-jubilee,Jubilee,Bermondsey Underground Station,940GZZLUBMY,122.6,3,550,697,2.04,2026-10-17 17:58:26,60,7356.0
-jubilee,Jubilee,Bond Street Underground Station,940GZZLUBND,101.3,1,1452,828,1.69,2026-10-17 17:58:26,57,5773.0
-jubilee,Jubilee,Baker Street Underground Station,940GZZLUBST,114.1,3,1272,866,1.9,2026-10-17 17:58:26,57,6502.0
-jubilee,Jubilee,Canning Town Underground Station,940GZZLUCGT,150.7,1,1150,556,2.51,2026-10-17 17:58:26,60,9043.0
-jubilee,Jubilee,Canons Park Underground Station,940GZZLUCPK,153.6,1,1209,430,2.56,2026-10-17 17:58:26,58,8906.0
-jubilee,Jubilee,Canada Water Underground Station,940GZZLUCWR,148.8,3,730,687,2.48,2026-10-17 17:58:26,60,8931.0
-jubilee,Jubilee,Canary Wharf Underground Station,940GZZLUCYF,139.1,7,850,649,2.32,2026-10-17 17:58:26,60,8347.0
-jubilee,Jubilee,Dollis Hill Underground Station,940GZZLUDOH,105.4,2,489,664,1.76,2026-10-17 17:58:26,59,6216.0
-jubilee,Jubilee,Finchley Road Underground Station,940GZZLUFYR,119.7,1,852,802,2.0,2026-10-17 17:58:26,58,6944.0
-jubilee,Jubilee,Green Park Underground Station,940GZZLUGPK,97.9,1,1572,796,1.63,2026-10-17 17:58:26,58,5679.0
-jubilee,Jubilee,Kilburn Underground Station,940GZZLUKBN,107.7,1,612,735,1.8,2026-10-17 17:58:26,59,6356.0
-jubilee,Jubilee,Kingsbury Underground Station,940GZZLUKBY,145.7,2,969,487,2.43,2026-10-17 17:58:26,58,8452.0
-jubilee,Jubilee,London Bridge Underground Station,940GZZLULNB,83.5,1,370,731,1.39,2026-10-17 17:58:26,59,4924.0
-jubilee,Jubilee,Neasden Underground Station,940GZZLUNDN,81.4,1,609,655,1.36,2026-10-17 17:58:26,59,4804.0
-jubilee,Jubilee,North Greenwich Underground Station,940GZZLUNGW,146.6,1,1031,620,2.44,2026-10-17 17:58:26,59,8650.0
-jubilee,Jubilee,Queensbury Underground Station,940GZZLUQBY,125.7,1,1089,454,2.1,2026-10-17 17:58:26,58,7289.0
-jubilee,Jubilee,St. John's Wood Underground Station,940GZZLUSJW,99.2,3,1092,849,1.65,2026-10-17 17:58:26,57,5652.0
-jubilee,Jubilee,Stratford Underground Station,940GZZLUSTD,175.4,1,1571,1435,2.92,2026-10-17 17:58:26,60,10522.0
-jubilee,Jubilee,Stanmore Underground Station,940GZZLUSTM,169.6,2,1329,1208,2.83,2026-10-17 17:58:26,58,9839.0
-jubilee,Jubilee,Swiss Cottage Underground Station,940GZZLUSWC,124.6,3,973,809,2.08,2026-10-17 17:58:26,57,7103.0
-jubilee,Jubilee,Southwark Underground Station,940GZZLUSWK,110.2,1,409,733,1.84,2026-10-17 17:58:26,59,6501.0
-jubilee,Jubilee,West Ham Underground Station,940GZZLUWHM,162.7,1,1391,518,2.71,2026-10-17 17:58:26,60,9764.0
-jubilee,Jubilee,West Hampstead Underground Station,940GZZLUWHP,96.5,1,793,771,1.61,2026-10-17 17:58:26,58,5599.0
-jubilee,Jubilee,Willesden Green Underground Station,940GZZLUWIG,93.8,1,493,730,1.56,2026-10-17 17:58:26,59,5533.0
-jubilee,Jubilee,Waterloo Underground Station,940GZZLUWLO,95.0,1,345,748,1.58,2026-10-17 17:58:26,59,5604.0
-jubilee,Jubilee,Westminster Underground Station,940GZZLUWSM,85.1,1,360,774,1.42,2026-10-17 17:58:26,58,4937.0
-jubilee,Jubilee,Wembley Park Underground Station,940GZZLUWYP,83.5,1,730,625,1.39,2026-10-17 17:58:26,59,4928.0
-metropolitan,Metropolitan,Aldgate Underground Station,940GZZLUALD,128.4,1,601,518,2.14,2026-10-17 17:58:26,53,6804.0
-metropolitan,Metropolitan,Amersham Underground Station,940GZZLUAMS,350.6,1,1727,235,5.84,2026-10-17 17:58:26,53,18581.0
-metropolitan,Metropolitan,Barbican Underground Station,940GZZLUBBN,155.0,1,1137,407,2.58,2026-10-17 17:58:26,52,8059.0
-metropolitan,Metropolitan,Baker Street Underground Station,940GZZLUBST,139.3,1,778,549,2.32,2026-10-17 17:58:26,55,7662.0
-metropolitan,Metropolitan,Chalfont & Latimer Underground Station,940GZZLUCAL,352.3,1,1590,148,5.87,2026-10-17 17:58:26,53,18671.0
-metropolitan,Metropolitan,Chesham Underground Station,940GZZLUCSM,345.0,259,891,126,5.75,2026-10-17 17:58:26,55,18973.0
-metropolitan,Metropolitan,Croxley Underground Station,940GZZLUCXY,225.5,1,1138,157,3.76,2026-10-17 17:58:26,63,14204.0
-metropolitan,Metropolitan,Chorleywood Underground Station,940GZZLUCYD,302.8,1,1531,134,5.05,2026-10-17 17:58:26,54,16353.0
-metropolitan,Metropolitan,Eastcote Underground Station,940GZZLUEAE,154.1,2,602,219,2.57,2026-10-17 17:58:26,57,8786.0
-metropolitan,Metropolitan,Euston Square Underground Station,940GZZLUESQ,180.2,2,1036,373,3.0,2026-10-17 17:58:26,54,9732.0
-metropolitan,Metropolitan,Farringdon Underground Station,940GZZLUFCN,161.2,2,1197,403,2.69,2026-10-17 17:58:26,52,8384.0
-metropolitan,Metropolitan,Finchley Road Underground Station,940GZZLUFYR,203.1,1,1687,601,3.38,2026-10-17 17:58:26,58,11782.0
-metropolitan,Metropolitan,Great Portland Street Underground Station,940GZZLUGPS,157.7,1,850,359,2.63,2026-10-17 17:58:26,54,8518.0
-metropolitan,Metropolitan,Hillingdon Underground Station,940GZZLUHGD,229.8,1,1022,211,3.83,2026-10-17 17:58:26,57,13098.0
-metropolitan,Metropolitan,Harrow-on-the-Hill Underground Station,940GZZLUHOH,205.2,2,1156,1010,3.42,2026-10-17 17:58:26,65,13340.0
-metropolitan,Metropolitan,Ickenham Underground Station,940GZZLUICK,194.9,2,962,216,3.25,2026-10-17 17:58:26,58,11303.0
-metropolitan,Metropolitan,King's Cross St. Pancras Underground Station,940GZZLUKSX,156.1,2,897,383,2.6,2026-10-17 17:58:26,54,8427.0
-metropolitan,Metropolitan,Liverpool Street Underground Station,940GZZLULVT,117.9,2,838,435,1.96,2026-10-17 17:58:26,52,6129.0
-metropolitan,Metropolitan,Moorgate Underground Station,940GZZLUMGT,143.3,1,1018,432,2.39,2026-10-17 17:58:26,52,7451.0
-metropolitan,Metropolitan,Moor Park Underground Station,940GZZLUMPK,184.5,1,509,273,3.08,2026-10-17 17:58:26,64,11806.0
-metropolitan,Metropolitan,Neasden Underground Station,940GZZLUNDN,414.3,7,1739,355,6.9,2026-10-17 17:58:26,59,24445.0
-metropolitan,Metropolitan,North Harrow Underground Station,940GZZLUNHA,303.6,2,976,266,5.06,2026-10-17 17:58:26,65,19732.0
-metropolitan,Metropolitan,Northwick Park Underground Station,940GZZLUNKP,146.4,2,925,175,2.44,2026-10-17 17:58:26,53,7760.0
-metropolitan,Metropolitan,Northwood Underground Station,940GZZLUNOW,221.0,1,555,264,3.68,2026-10-17 17:58:26,64,14142.0
-metropolitan,Metropolitan,Northwood Hills Underground Station,940GZZLUNWH,255.7,2,675,266,4.26,2026-10-17 17:58:26,64,16365.0
-metropolitan,Metropolitan,Pinner Underground Station,940GZZLUPNR,273.4,1,795,270,4.56,2026-10-17 17:58:26,64,17497.0
-metropolitan,Metropolitan,Preston Road Underground Station,940GZZLUPRD,307.1,1,1490,546,5.12,2026-10-17 17:58:26,67,20574.0
-metropolitan,Metropolitan,Rickmansworth Underground Station,940GZZLURKW,315.6,3,1290,134,5.26,2026-10-17 17:58:26,54,17044.0
-metropolitan,Metropolitan,Ruislip Manor Underground Station,940GZZLURSM,144.4,1,661,216,2.41,2026-10-17 17:58:26,57,8231.0
-metropolitan,Metropolitan,Ruislip Underground Station,940GZZLURSP,190.8,1,781,216,3.18,2026-10-17 17:58:26,57,10878.0
-metropolitan,Metropolitan,Rayners Lane Underground Station,940GZZLURYL,168.4,1,659,223,2.81,2026-10-17 17:58:26,57,9600.0
-metropolitan,Metropolitan,Uxbridge Underground Station,940GZZLUUXB,205.3,1,1261,665,3.42,2026-10-17 17:58:26,58,11907.0
-metropolitan,Metropolitan,Watford Underground Station,940GZZLUWAF,211.2,1,1377,279,3.52,2026-10-17 17:58:26,66,13939.0
-metropolitan,Metropolitan,West Harrow Underground Station,940GZZLUWHW,177.1,1,847,227,2.95,2026-10-17 17:58:26,57,10095.0
-metropolitan,Metropolitan,Willesden Green Underground Station,940GZZLUWIG,476.2,3,1308,299,7.94,2026-10-17 17:58:26,58,27620.0
-metropolitan,Metropolitan,Wembley Park Underground Station,940GZZLUWYP,283.6,1,1616,862,4.73,2026-10-17 17:58:26,67,18998.0
-northern,Northern,Battersea Power Station Underground Station,940GZZBPSUST,180.0,2,700,470,3.0,2026-10-17 17:58:26,54,9718.0
-northern,Northern,Archway Underground Station,940GZZLUACY,86.5,1,366,734,1.44,2026-10-17 17:58:26,58,5018.0
-northern,Northern,Angel Underground Station,940GZZLUAGL,104.2,1,712,838,1.74,2026-10-17 17:58:26,53,5523.0
-northern,Northern,Balham Underground Station,940GZZLUBLM,85.6,1,367,682,1.43,2026-10-17 17:58:26,57,4877.0
-northern,Northern,Bank Underground Station,940GZZLUBNK,83.1,2,375,848,1.38,2026-10-17 17:58:26,53,4406.0
-northern,Northern,Borough Underground Station,940GZZLUBOR,79.5,3,353,842,1.32,2026-10-17 17:58:26,53,4212.0
-northern,Northern,Burnt Oak Underground Station,940GZZLUBTK,155.0,1,975,454,2.58,2026-10-17 17:58:26,58,8991.0
-northern,Northern,Brent Cross Underground Station,940GZZLUBTX,120.4,3,669,576,2.01,2026-10-17 17:58:26,58,6984.0
-northern,Northern,Belsize Park Underground Station,940GZZLUBZP,95.0,2,907,702,1.58,2026-10-17 17:58:26,57,5416.0
-northern,Northern,Chalk Farm Underground Station,940GZZLUCFM,72.0,1,289,715,1.2,2026-10-17 17:58:26,56,4033.0
-northern,Northern,Charing Cross Underground Station,940GZZLUCHX,55.7,2,249,741,0.93,2026-10-17 17:58:26,56,3120.0
-northern,Northern,Colindale Underground Station,940GZZLUCND,119.1,3,855,492,1.98,2026-10-17 17:58:26,58,6908.0
-northern,Northern,Clapham Common Underground Station,940GZZLUCPC,78.6,1,374,750,1.31,2026-10-17 17:58:26,57,4481.0
-northern,Northern,Clapham North Underground Station,940GZZLUCPN,99.4,1,374,773,1.66,2026-10-17 17:58:26,56,5568.0
-northern,Northern,Clapham South Underground Station,940GZZLUCPS,82.9,2,306,713,1.38,2026-10-17 17:58:26,57,4725.0
-northern,Northern,Colliers Wood Underground Station,940GZZLUCSD,91.9,2,366,583,1.53,2026-10-17 17:58:26,57,5240.0
-northern,Northern,Camden Town Underground Station,940GZZLUCTN,48.6,2,370,1515,0.81,2026-10-17 17:58:26,57,2773.0
-northern,Northern,Elephant & Castle Underground Station,940GZZLUEAC,66.5,1,292,803,1.11,2026-10-17 17:58:26,53,3522.0
-northern,Northern,East Finchley Underground Station,940GZZLUEFY,65.7,1,554,666,1.1,2026-10-17 17:58:26,58,3811.0
-northern,Northern,Edgware Underground Station,940GZZLUEGW,137.9,1,1154,903,2.3,2026-10-17 17:58:26,58,7998.0
-northern,Northern,Embankment Underground Station,940GZZLUEMB,67.1,1,353,727,1.12,2026-10-17 17:58:26,56,3756.0
-northern,Northern,Euston Underground Station,940GZZLUEUS,46.6,1,258,1579,0.78,2026-10-17 17:58:26,56,2612.0
-northern,Northern,Finchley Central Underground Station,940GZZLUFYC,58.3,1,607,641,0.97,2026-10-17 17:58:26,58,3384.0
-northern,Northern,Goodge Street Underground Station,940GZZLUGDG,76.2,1,346,797,1.27,2026-10-17 17:58:26,56,4269.0
-northern,Northern,Golders Green Underground Station,940GZZLUGGN,96.9,1,593,653,1.62,2026-10-17 17:58:26,58,5619.0
-northern,Northern,High Barnet Underground Station,940GZZLUHBT,116.4,1,563,1280,1.94,2026-10-17 17:58:26,58,6749.0
-northern,Northern,Hendon Central Underground Station,940GZZLUHCL,128.3,1,789,539,2.14,2026-10-17 17:58:26,58,7444.0
-northern,Northern,Highgate Underground Station,940GZZLUHGT,78.6,1,546,705,1.31,2026-10-17 17:58:26,58,4560.0
-northern,Northern,Hampstead Underground Station,940GZZLUHTD,59.1,1,247,677,0.98,2026-10-17 17:58:26,58,3425.0
-northern,Northern,Kennington Underground Station,940GZZLUKNG,35.4,1,310,1435,0.59,2026-10-17 17:58:26,57,2020.0
-northern,Northern,Kentish Town Underground Station,940GZZLUKSH,85.3,1,490,792,1.42,2026-10-17 17:58:26,58,4946.0
-northern,Northern,King's Cross St. Pancras Underground Station,940GZZLUKSX,79.7,1,533,802,1.33,2026-10-17 17:58:26,53,4224.0
-northern,Northern,London Bridge Underground Station,940GZZLULNB,67.4,1,315,856,1.12,2026-10-17 17:58:26,53,3571.0
-northern,Northern,Leicester Square Underground Station,940GZZLULSQ,57.1,1,293,757,0.95,2026-10-17 17:58:26,56,3199.0
-northern,Northern,Morden Underground Station,940GZZLUMDN,123.6,2,533,1483,2.06,2026-10-17 17:58:26,57,7046.0
-northern,Northern,Moorgate Underground Station,940GZZLUMGT,75.9,2,435,841,1.27,2026-10-17 17:58:26,53,4024.0
-northern,Northern,Mill Hill East Underground Station,940GZZLUMHL,168.3,2,1433,115,2.8,2026-10-17 17:58:26,51,8584.0
-northern,Northern,Mornington Crescent Underground Station,940GZZLUMTC,67.1,2,327,785,1.12,2026-10-17 17:58:26,56,3759.0
-northern,Northern,Old Street Underground Station,940GZZLUODS,92.8,2,532,838,1.55,2026-10-17 17:58:26,53,4916.0
-northern,Northern,Oval Underground Station,940GZZLUOVL,56.8,1,239,843,0.95,2026-10-17 17:58:26,55,3123.0
-northern,Northern,Stockwell Underground Station,940GZZLUSKW,80.7,1,309,804,1.34,2026-10-17 17:58:26,56,4517.0
-northern,Northern,South Wimbledon Underground Station,940GZZLUSWN,100.5,2,576,522,1.68,2026-10-17 17:58:26,57,5727.0
-northern,Northern,Totteridge & Whetstone Underground Station,940GZZLUTAW,112.2,2,951,485,1.87,2026-10-17 17:58:26,58,6507.0
-northern,Northern,Tooting Bec Underground Station,940GZZLUTBC,66.0,1,370,639,1.1,2026-10-17 17:58:26,57,3763.0
-northern,Northern,Tooting Broadway Underground Station,940GZZLUTBY,79.1,1,391,604,1.32,2026-10-17 17:58:26,57,4509.0
-northern,Northern,Tottenham Court Road Underground Station,940GZZLUTCR,69.7,2,429,782,1.16,2026-10-17 17:58:26,56,3905.0
-northern,Northern,Tufnell Park Underground Station,940GZZLUTFP,91.3,1,429,778,1.52,2026-10-17 17:58:26,58,5294.0
-northern,Northern,West Finchley Underground Station,940GZZLUWFN,66.9,1,339,521,1.12,2026-10-17 17:58:26,58,3879.0
-northern,Northern,Waterloo Underground Station,940GZZLUWLO,71.2,1,353,697,1.19,2026-10-17 17:58:26,56,3989.0
-northern,Northern,Woodside Park Underground Station,940GZZLUWOP,84.0,3,263,519,1.4,2026-10-17 17:58:26,58,4874.0
-northern,Northern,Warren Street Underground Station,940GZZLUWRR,68.0,2,260,803,1.13,2026-10-17 17:58:26,56,3808.0
-northern,Northern,Nine Elms Underground Station,940GZZNEUGST,131.6,2,314,281,2.19,2026-10-17 17:58:26,54,7107.0
-piccadilly,Piccadilly,Acton Town Underground Station,940GZZLUACT,71.0,3,487,1302,1.18,2026-10-17 17:58:26,53,3762.0
-piccadilly,Piccadilly,Alperton Underground Station,940GZZLUALP,273.3,6,845,191,4.56,2026-10-17 17:58:26,50,13664.0
-piccadilly,Piccadilly,Arnos Grove Underground Station,940GZZLUASG,107.5,5,1276,611,1.79,2026-10-17 17:58:26,66,7098.0
-piccadilly,Piccadilly,Arsenal Underground Station,940GZZLUASL,142.7,3,532,758,2.38,2026-10-17 17:58:26,60,8564.0
-piccadilly,Piccadilly,Bounds Green Underground Station,940GZZLUBDS,178.5,15,1270,586,2.98,2026-10-17 17:58:26,60,10709.0
-piccadilly,Piccadilly,Boston Manor Underground Station,940GZZLUBOS,179.3,3,599,394,2.99,2026-10-17 17:58:26,52,9326.0
-piccadilly,Piccadilly,Barons Court Underground Station,940GZZLUBSC,105.5,3,1148,783,1.76,2026-10-17 17:58:26,56,5909.0
-piccadilly,Piccadilly,Caledonian Road Underground Station,940GZZLUCAR,125.4,3,712,797,2.09,2026-10-17 17:58:26,59,7397.0
-piccadilly,Piccadilly,Covent Garden Underground Station,940GZZLUCGN,123.7,1,1252,800,2.06,2026-10-17 17:58:26,57,7051.0
-piccadilly,Piccadilly,Cockfosters Underground Station,940GZZLUCKS,165.2,1,723,1263,2.75,2026-10-17 17:58:26,67,11071.0
-piccadilly,Piccadilly,Eastcote Underground Station,940GZZLUEAE,462.8,7,1439,88,7.71,2026-10-17 17:58:26,47,21753.0
-piccadilly,Piccadilly,Ealing Common Underground Station,940GZZLUECM,255.6,8,819,245,4.26,2026-10-17 17:58:26,49,12525.0
-piccadilly,Piccadilly,Earl's Court Underground Station,940GZZLUECT,115.4,7,1328,815,1.92,2026-10-17 17:58:26,56,6465.0
-piccadilly,Piccadilly,Finsbury Park Underground Station,940GZZLUFPK,119.8,4,490,738,2.0,2026-10-17 17:58:26,60,7188.0
-piccadilly,Piccadilly,Green Park Underground Station,940GZZLUGPK,127.4,1,1492,783,2.12,2026-10-17 17:58:26,57,7262.0
-piccadilly,Piccadilly,Gloucester Road Underground Station,940GZZLUGTR,110.3,1,668,802,1.84,2026-10-17 17:58:26,56,6178.0
-piccadilly,Piccadilly,Holborn Underground Station,940GZZLUHBN,139.1,2,1132,798,2.32,2026-10-17 17:58:26,57,7927.0
-piccadilly,Piccadilly,Hillingdon Underground Station,940GZZLUHGD,577.2,25,1717,77,9.62,2026-10-17 17:58:26,47,27127.0
-piccadilly,Piccadilly,Hatton Cross Underground Station,940GZZLUHNX,161.3,2,968,310,2.69,2026-10-17 17:58:26,53,8551.0
-piccadilly,Piccadilly,Hyde Park Corner Underground Station,940GZZLUHPC,133.4,3,1612,799,2.22,2026-10-17 17:58:26,57,7604.0
-piccadilly,Piccadilly,Heathrow Terminal 4 Underground Station,940GZZLUHR4,321.3,2,1345,120,5.36,2026-10-17 17:58:26,49,15744.0
-piccadilly,Piccadilly,Heathrow Terminal 5 Underground Station,940GZZLUHR5,8.0,2,19,6,0.13,2026-10-17 17:58:26,6,48.0
-piccadilly,Piccadilly,Heathrow Terminals 2 & 3 Underground Station,940GZZLUHRC,289.5,2,1268,253,4.82,2026-10-17 17:58:26,53,15341.0
-piccadilly,Piccadilly,Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD,66.4,1,370,805,1.11,2026-10-17 17:58:26,56,3721.0
-piccadilly,Piccadilly,Hounslow Central Underground Station,940GZZLUHWC,159.9,3,834,347,2.66,2026-10-17 17:58:26,53,8477.0
-piccadilly,Piccadilly,Hounslow East Underground Station,940GZZLUHWE,131.3,4,714,359,2.19,2026-10-17 17:58:26,53,6961.0
-piccadilly,Piccadilly,Hounslow West Underground Station,940GZZLUHWT,123.3,3,729,337,2.06,2026-10-17 17:58:26,53,6533.0
-piccadilly,Piccadilly,Holloway Road Underground Station,940GZZLUHWY,140.4,3,652,782,2.34,2026-10-17 17:58:26,59,8284.0
-piccadilly,Piccadilly,Ickenham Underground Station,940GZZLUICK,626.8,10,1798,77,10.45,2026-10-17 17:58:26,48,30087.0
-piccadilly,Piccadilly,Knightsbridge Underground Station,940GZZLUKNB,133.1,1,1732,790,2.22,2026-10-17 17:58:26,57,7586.0
-piccadilly,Piccadilly,King's Cross St. Pancras Underground Station,940GZZLUKSX,82.2,1,892,819,1.37,2026-10-17 17:58:26,59,4848.0
-piccadilly,Piccadilly,Leicester Square Underground Station,940GZZLULSQ,119.6,1,1312,804,1.99,2026-10-17 17:58:26,57,6816.0
-piccadilly,Piccadilly,Manor House Underground Station,940GZZLUMRH,127.0,1,650,714,2.12,2026-10-17 17:58:26,60,7619.0
-piccadilly,Piccadilly,North Ealing Underground Station,940GZZLUNEN,221.1,1,939,240,3.68,2026-10-17 17:58:26,50,11053.0
-piccadilly,Piccadilly,Northfields Underground Station,940GZZLUNFD,128.3,4,451,845,2.14,2026-10-17 17:58:26,54,6929.0
-piccadilly,Piccadilly,Oakwood Underground Station,940GZZLUOAK,234.1,1,1696,430,3.9,2026-10-17 17:58:26,66,15448.0
-piccadilly,Piccadilly,Osterley Underground Station,940GZZLUOSY,124.8,1,653,374,2.08,2026-10-17 17:58:26,53,6614.0
-piccadilly,Piccadilly,Piccadilly Circus Underground Station,940GZZLUPCC,115.2,1,1371,790,1.92,2026-10-17 17:58:26,57,6565.0
-piccadilly,Piccadilly,Park Royal Underground Station,940GZZLUPKR,119.5,2,600,242,1.99,2026-10-17 17:58:26,50,5977.0
-piccadilly,Piccadilly,Ruislip Manor Underground Station,940GZZLURSM,463.9,5,1498,85,7.73,2026-10-17 17:58:26,48,22267.0
-piccadilly,Piccadilly,Ruislip Underground Station,940GZZLURSP,526.8,46,1618,80,8.78,2026-10-17 17:58:26,49,25813.0
-piccadilly,Piccadilly,Russell Square Underground Station,940GZZLURSQ,108.7,1,1011,808,1.81,2026-10-17 17:58:26,57,6196.0
-piccadilly,Piccadilly,Ravenscourt Park Underground Station,940GZZLURVP,399.0,399,399,1,6.65,2026-10-17 17:58:26,1,399.0
-piccadilly,Piccadilly,Rayners Lane Underground Station,940GZZLURYL,297.0,2,879,167,4.95,2026-10-17 17:58:26,50,14851.0
-piccadilly,Piccadilly,South Ealing Underground Station,940GZZLUSEA,112.8,1,358,867,1.88,2026-10-17 17:58:26,54,6089.0
-piccadilly,Piccadilly,Southgate Underground Station,940GZZLUSGT,161.9,5,1516,456,2.7,2026-10-17 17:58:26,66,10687.0
-piccadilly,Piccadilly,South Harrow Underground Station,940GZZLUSHH,245.7,6,827,177,4.1,2026-10-17 17:58:26,50,12283.0
-piccadilly,Piccadilly,South Kensington Underground Station,940GZZLUSKS,102.9,2,549,818,1.72,2026-10-17 17:58:26,56,5760.0
-piccadilly,Piccadilly,Sudbury Hill Underground Station,940GZZLUSUH,259.6,2,865,182,4.33,2026-10-17 17:58:26,50,12979.0
-piccadilly,Piccadilly,Sudbury Town Underground Station,940GZZLUSUT,216.7,5,985,192,3.61,2026-10-17 17:58:26,50,10835.0
-piccadilly,Piccadilly,Turnham Green Underground Station,940GZZLUTNG,107.3,6,787,803,1.79,2026-10-17 17:58:26,52,5579.0
-piccadilly,Piccadilly,Turnpike Lane Underground Station,940GZZLUTPN,152.0,4,819,660,2.53,2026-10-17 17:58:26,61,9273.0
-piccadilly,Piccadilly,Uxbridge Underground Station,940GZZLUUXB,384.7,1,1457,226,6.41,2026-10-17 17:58:26,51,19622.0
-piccadilly,Piccadilly,Wood Green Underground Station,940GZZLUWOG,168.6,1,1000,613,2.81,2026-10-17 17:58:26,60,10117.0
-victoria,Victoria,Blackhorse Road Underground Station,940GZZLUBLR,146.0,2,1332,562,2.43,2026-10-17 17:58:26,59,8613.0
-victoria,Victoria,Brixton Underground Station,940GZZLUBXN,124.2,3,673,1175,2.07,2026-10-17 17:58:26,59,7330.0
-victoria,Victoria,Euston Underground Station,940GZZLUEUS,81.0,1,492,579,1.35,2026-10-17 17:58:26,57,4617.0
-victoria,Victoria,Finsbury Park Underground Station,940GZZLUFPK,92.7,2,792,574,1.55,2026-10-17 17:58:26,57,5284.0
-victoria,Victoria,Green Park Underground Station,940GZZLUGPK,93.0,4,328,582,1.55,2026-10-17 17:58:26,58,5395.0
-victoria,Victoria,Highbury & Islington Underground Station,940GZZLUHAI,90.6,1,672,568,1.51,2026-10-17 17:58:26,57,5162.0
-victoria,Victoria,King's Cross St. Pancras Underground Station,940GZZLUKSX,72.3,1,552,576,1.2,2026-10-17 17:58:26,57,4122.0
-victoria,Victoria,Oxford Circus Underground Station,940GZZLUOXC,73.2,1,284,601,1.22,2026-10-17 17:58:26,57,4171.0
-victoria,Victoria,Pimlico Underground Station,940GZZLUPCO,75.8,1,313,580,1.26,2026-10-17 17:58:26,56,4244.0
-victoria,Victoria,Stockwell Underground Station,940GZZLUSKW,109.3,1,538,593,1.82,2026-10-17 17:58:26,56,6120.0
-victoria,Victoria,Seven Sisters Underground Station,940GZZLUSVS,126.3,1,1032,557,2.1,2026-10-17 17:58:26,58,7327.0
-victoria,Victoria,Tottenham Hale Underground Station,940GZZLUTMH,145.7,5,1213,544,2.43,2026-10-17 17:58:26,59,8595.0
-victoria,Victoria,Victoria Underground Station,940GZZLUVIC,107.9,2,529,579,1.8,2026-10-17 17:58:26,58,6256.0
-victoria,Victoria,Vauxhall Underground Station,940GZZLUVXL,88.2,1,418,582,1.47,2026-10-17 17:58:26,56,4938.0
-victoria,Victoria,Warren Street Underground Station,940GZZLUWRR,88.6,7,373,567,1.48,2026-10-17 17:58:26,57,5051.0
-victoria,Victoria,Walthamstow Central Underground Station,940GZZLUWWL,193.8,3,1453,1101,3.23,2026-10-17 17:58:26,60,11631.0
+bakerloo,Bakerloo,Baker Street Underground Station,940GZZLUBST,236.3,1,1103,518,3.94,2026-10-17 20:09:17,67,15829.0
+bakerloo,Bakerloo,Charing Cross Underground Station,940GZZLUCHX,323.2,3,1553,492,5.39,2026-10-17 20:09:17,67,21654.0
+bakerloo,Bakerloo,Elephant & Castle Underground Station,940GZZLUEAC,364.9,2,1680,792,6.08,2026-10-17 20:09:17,64,23353.0
+bakerloo,Bakerloo,Embankment Underground Station,940GZZLUEMB,349.9,3,1613,473,5.83,2026-10-17 20:09:17,67,23442.0
+bakerloo,Bakerloo,Edgware Road (Bakerloo) Underground Station,940GZZLUERB,212.6,2,893,526,3.54,2026-10-17 20:09:17,67,14246.0
+bakerloo,Bakerloo,Harrow & Wealdstone Underground Station,940GZZLUHAW,278.2,3,1177,132,4.64,2026-10-17 20:09:17,52,14469.0
+bakerloo,Bakerloo,Harlesden Underground Station,940GZZLUHSN,210.4,1,840,313,3.51,2026-10-17 20:09:17,67,14094.0
+bakerloo,Bakerloo,Kenton Underground Station,940GZZLUKEN,240.4,2,1613,150,4.01,2026-10-17 20:09:17,55,13222.0
+bakerloo,Bakerloo,Kilburn Park Underground Station,940GZZLUKPK,116.5,2,1505,596,1.94,2026-10-17 20:09:17,68,7925.0
+bakerloo,Bakerloo,Kensal Green Underground Station,940GZZLUKSL,177.1,4,1670,368,2.95,2026-10-17 20:09:17,68,12041.0
+bakerloo,Bakerloo,Lambeth North Underground Station,940GZZLULBN,451.2,3,1609,433,7.52,2026-10-17 20:09:17,66,29781.0
+bakerloo,Bakerloo,Maida Vale Underground Station,940GZZLUMVL,158.4,1,1625,585,2.64,2026-10-17 20:09:17,68,10769.0
+bakerloo,Bakerloo,Marylebone Underground Station,940GZZLUMYB,212.9,1,953,527,3.55,2026-10-17 20:09:17,67,14265.0
+bakerloo,Bakerloo,North Wembley Underground Station,940GZZLUNWY,338.9,2,1742,171,5.65,2026-10-17 20:09:17,55,18639.0
+bakerloo,Bakerloo,Oxford Circus Underground Station,940GZZLUOXC,267.6,1,1313,512,4.46,2026-10-17 20:09:17,67,17930.0
+bakerloo,Bakerloo,Paddington Underground Station,940GZZLUPAC,179.0,2,773,508,2.98,2026-10-17 20:09:17,62,11096.0
+bakerloo,Bakerloo,Paddington (H&C Line)-Underground,940GZZLUPAH,141.2,12,373,39,2.35,2026-10-17 20:09:17,5,706.0
+bakerloo,Bakerloo,Piccadilly Circus Underground Station,940GZZLUPCC,300.0,4,1433,501,5.0,2026-10-17 20:09:17,67,20097.0
+bakerloo,Bakerloo,Queen's Park Underground Station,940GZZLUQPS,111.2,1,1386,595,1.85,2026-10-17 20:09:17,68,7564.0
+bakerloo,Bakerloo,Regent's Park Underground Station,940GZZLURGP,243.2,1,1193,520,4.05,2026-10-17 20:09:17,67,16293.0
+bakerloo,Bakerloo,Stonebridge Park Underground Station,940GZZLUSGP,234.4,1,640,306,3.91,2026-10-17 20:09:17,68,15936.0
+bakerloo,Bakerloo,South Kenton Underground Station,940GZZLUSKT,332.1,9,1554,162,5.54,2026-10-17 20:09:17,55,18268.0
+bakerloo,Bakerloo,Willesden Junction Underground Station,940GZZLUWJN,173.5,1,660,330,2.89,2026-10-17 20:09:17,67,11622.0
+bakerloo,Bakerloo,Warwick Avenue Underground Station,940GZZLUWKA,164.6,1,1686,587,2.74,2026-10-17 20:09:17,68,11192.0
+bakerloo,Bakerloo,Waterloo Underground Station,940GZZLUWLO,366.8,6,1673,467,6.11,2026-10-17 20:09:17,67,24573.0
+bakerloo,Bakerloo,Wembley Central Underground Station,940GZZLUWYC,356.4,1,1622,174,5.94,2026-10-17 20:09:17,55,19603.0
+central,Central,Barkingside Underground Station,940GZZLUBKE,256.9,9,1504,250,4.28,2026-10-17 20:09:17,59,15155.0
+central,Central,Buckhurst Hill Underground Station,940GZZLUBKH,142.5,1,611,367,2.38,2026-10-17 20:09:17,59,8406.0
+central,Central,Bethnal Green Underground Station,940GZZLUBLG,90.8,1,585,977,1.51,2026-10-17 20:09:17,58,5264.0
+central,Central,Bond Street Underground Station,940GZZLUBND,85.1,1,324,891,1.42,2026-10-17 20:09:17,57,4852.0
+central,Central,Bank Underground Station,940GZZLUBNK,67.8,2,362,995,1.13,2026-10-17 20:09:17,57,3866.0
+central,Central,Chancery Lane Underground Station,940GZZLUCHL,95.9,11,600,940,1.6,2026-10-17 20:09:17,57,5465.0
+central,Central,Chigwell Underground Station,940GZZLUCWL,653.0,12,1524,40,10.88,2026-10-17 20:09:17,29,18937.0
+central,Central,Debden Underground Station,940GZZLUDBN,175.2,2,781,256,2.92,2026-10-17 20:09:17,56,9811.0
+central,Central,East Acton Underground Station,940GZZLUEAN,145.6,1,1255,614,2.43,2026-10-17 20:09:17,58,8447.0
+central,Central,Ealing Broadway Underground Station,940GZZLUEBY,318.5,5,1237,342,5.31,2026-10-17 20:09:17,59,18794.0
+central,Central,Epping Underground Station,940GZZLUEPG,239.3,1,781,470,3.99,2026-10-17 20:09:17,57,13640.0
+central,Central,Fairlop Underground Station,940GZZLUFLP,242.5,1,1080,234,4.04,2026-10-17 20:09:17,59,14305.0
+central,Central,Greenford Underground Station,940GZZLUGFD,253.6,12,1124,260,4.23,2026-10-17 20:09:17,56,14202.0
+central,Central,Grange Hill Underground Station,940GZZLUGGH,574.6,2,1644,47,9.58,2026-10-17 20:09:17,32,18388.0
+central,Central,Gants Hill Underground Station,940GZZLUGTH,166.7,1,1216,338,2.78,2026-10-17 20:09:17,59,9837.0
+central,Central,Holborn Underground Station,940GZZLUHBN,91.3,1,539,943,1.52,2026-10-17 20:09:17,57,5205.0
+central,Central,Hanger Lane Underground Station,940GZZLUHGR,207.1,1,523,288,3.45,2026-10-17 20:09:17,56,11600.0
+central,Central,Hainault Underground Station,940GZZLUHLT,249.4,1,1199,716,4.16,2026-10-17 20:09:17,59,14714.0
+central,Central,Holland Park Underground Station,940GZZLUHPK,95.8,1,419,801,1.6,2026-10-17 20:09:17,57,5461.0
+central,Central,Loughton Underground Station,940GZZLULGN,170.2,2,663,359,2.84,2026-10-17 20:09:17,59,10040.0
+central,Central,Lancaster Gate Underground Station,940GZZLULGT,96.2,1,539,852,1.6,2026-10-17 20:09:17,57,5483.0
+central,Central,Liverpool Street Underground Station,940GZZLULVT,73.2,1,479,978,1.22,2026-10-17 20:09:17,57,4173.0
+central,Central,Leyton Underground Station,940GZZLULYN,71.4,3,539,878,1.19,2026-10-17 20:09:17,58,4140.0
+central,Central,Leytonstone Underground Station,940GZZLULYS,75.2,1,272,876,1.25,2026-10-17 20:09:17,59,4437.0
+central,Central,Marble Arch Underground Station,940GZZLUMBA,84.9,2,414,889,1.42,2026-10-17 20:09:17,57,4842.0
+central,Central,Mile End Underground Station,940GZZLUMED,139.1,2,421,933,2.32,2026-10-17 20:09:17,58,8068.0
+central,Central,North Acton Underground Station,940GZZLUNAN,157.5,2,1374,647,2.62,2026-10-17 20:09:17,59,9293.0
+central,Central,Newbury Park Underground Station,940GZZLUNBP,124.3,1,840,317,2.07,2026-10-17 20:09:17,59,7335.0
+central,Central,Notting Hill Gate Underground Station,940GZZLUNHG,71.0,1,419,814,1.18,2026-10-17 20:09:17,57,4048.0
+central,Central,Northolt Underground Station,940GZZLUNHT,226.1,10,1305,249,3.77,2026-10-17 20:09:17,55,12434.0
+central,Central,Oxford Circus Underground Station,940GZZLUOXC,97.1,1,976,901,1.62,2026-10-17 20:09:17,57,5536.0
+central,Central,Perivale Underground Station,940GZZLUPVL,224.7,4,1005,278,3.74,2026-10-17 20:09:17,56,12583.0
+central,Central,Queensway Underground Station,940GZZLUQWY,77.9,1,354,840,1.3,2026-10-17 20:09:17,57,4438.0
+central,Central,Redbridge Underground Station,940GZZLURBG,177.5,1,1097,337,2.96,2026-10-17 20:09:17,58,10296.0
+central,Central,Ruislip Gardens Underground Station,940GZZLURSG,222.6,2,1055,214,3.71,2026-10-17 20:09:17,56,12464.0
+central,Central,Roding Valley Underground Station,940GZZLURVY,460.5,8,1345,49,7.68,2026-10-17 20:09:17,31,14274.0
+central,Central,Shepherd's Bush (Central) Underground Station,940GZZLUSBC,70.4,1,359,773,1.17,2026-10-17 20:09:17,57,4014.0
+central,Central,Snaresbrook Underground Station,940GZZLUSNB,167.8,1,719,457,2.8,2026-10-17 20:09:17,59,9900.0
+central,Central,St. Paul's Underground Station,940GZZLUSPU,81.8,1,955,951,1.36,2026-10-17 20:09:17,57,4665.0
+central,Central,South Ruislip Underground Station,940GZZLUSRP,211.7,3,994,224,3.53,2026-10-17 20:09:17,55,11645.0
+central,Central,Stratford Underground Station,940GZZLUSTD,76.6,1,480,903,1.28,2026-10-17 20:09:17,58,4443.0
+central,Central,South Woodford Underground Station,940GZZLUSWF,186.7,1,600,436,3.11,2026-10-17 20:09:17,59,11017.0
+central,Central,Tottenham Court Road Underground Station,940GZZLUTCR,114.9,1,1096,919,1.92,2026-10-17 20:09:17,57,6550.0
+central,Central,Theydon Bois Underground Station,940GZZLUTHB,160.0,1,1077,255,2.67,2026-10-17 20:09:17,57,9119.0
+central,Central,White City Underground Station,940GZZLUWCY,85.0,1,1075,852,1.42,2026-10-17 20:09:17,59,5013.0
+central,Central,Woodford Underground Station,940GZZLUWOF,108.3,2,459,452,1.8,2026-10-17 20:09:17,60,6500.0
+central,Central,West Ruislip Underground Station,940GZZLUWRP,282.2,2,1294,390,4.7,2026-10-17 20:09:17,55,15523.0
+central,Central,Wanstead Underground Station,940GZZLUWSD,162.3,1,976,355,2.7,2026-10-17 20:09:17,58,9415.0
+central,Central,West Acton Underground Station,940GZZLUWTA,329.8,2,1712,179,5.5,2026-10-17 20:09:17,59,19460.0
+circle,Circle,Aldgate Underground Station,940GZZLUALD,208.6,2,1212,249,3.48,2026-10-17 20:09:17,48,10013.0
+circle,Circle,Barbican Underground Station,940GZZLUBBN,322.3,24,1080,186,5.37,2026-10-17 20:09:17,48,15471.0
+circle,Circle,Blackfriars Underground Station,940GZZLUBKF,309.9,15,1633,229,5.16,2026-10-17 20:09:17,48,14875.0
+circle,Circle,Baker Street Underground Station,940GZZLUBST,364.4,3,1452,185,6.07,2026-10-17 20:09:17,46,16761.0
+circle,Circle,Bayswater Underground Station,940GZZLUBWT,721.2,220,1224,90,12.02,2026-10-17 20:09:17,46,33174.0
+circle,Circle,Cannon Street Underground Station,940GZZLUCST,258.5,3,1512,238,4.31,2026-10-17 20:09:17,48,12409.0
+circle,Circle,Embankment Underground Station,940GZZLUEMB,251.9,1,1504,210,4.2,2026-10-17 20:09:17,45,11336.0
+circle,Circle,Edgware Road (Circle Line) Underground Station,940GZZLUERC,355.5,9,1331,179,5.92,2026-10-17 20:09:17,46,16353.0
+circle,Circle,Euston Square Underground Station,940GZZLUESQ,367.4,6,1752,181,6.12,2026-10-17 20:09:17,47,17267.0
+circle,Circle,Fulham Broadway Underground Station,940GZZLUFBY,767.0,767,767,1,12.78,2026-10-17 20:09:17,1,767.0
+circle,Circle,Farringdon Underground Station,940GZZLUFCN,340.2,1,1101,179,5.67,2026-10-17 20:09:17,48,16331.0
+circle,Circle,Goldhawk Road Underground Station,940GZZLUGHK,297.5,1,683,51,4.96,2026-10-17 20:09:17,41,12197.0
+circle,Circle,Great Portland Street Underground Station,940GZZLUGPS,351.6,3,1632,185,5.86,2026-10-17 20:09:17,47,16523.0
+circle,Circle,Gloucester Road Underground Station,940GZZLUGTR,186.1,3,588,172,3.1,2026-10-17 20:09:17,45,8374.0
+circle,Circle,High Street Kensington Underground Station,940GZZLUHSK,206.9,8,864,182,3.45,2026-10-17 20:09:17,46,9519.0
+circle,Circle,King's Cross St. Pancras Underground Station,940GZZLUKSX,356.3,7,1730,174,5.94,2026-10-17 20:09:17,47,16747.0
+circle,Circle,Ladbroke Grove Underground Station,940GZZLULAD,306.0,16,802,73,5.1,2026-10-17 20:09:17,43,13157.0
+circle,Circle,Latimer Road Underground Station,940GZZLULRD,276.7,14,743,73,4.61,2026-10-17 20:09:17,43,11900.0
+circle,Circle,Liverpool Street Underground Station,940GZZLULVT,366.8,10,1309,130,6.11,2026-10-17 20:09:17,48,17608.0
+circle,Circle,Moorgate Underground Station,940GZZLUMGT,365.9,5,1189,136,6.1,2026-10-17 20:09:17,48,17565.0
+circle,Circle,Monument Underground Station,940GZZLUMMT,265.4,5,1452,244,4.42,2026-10-17 20:09:17,48,12739.0
+circle,Circle,Mansion House Underground Station,940GZZLUMSH,237.3,1,1572,239,3.96,2026-10-17 20:09:17,48,11390.0
+circle,Circle,Notting Hill Gate Underground Station,940GZZLUNHG,627.9,130,1105,102,10.46,2026-10-17 20:09:17,46,28883.0
+circle,Circle,Paddington Underground Station,940GZZLUPAC,206.7,5,477,52,3.44,2026-10-17 20:09:17,36,7441.0
+circle,Circle,Paddington (H&C Line)-Underground,940GZZLUPAH,328.5,1,1163,98,5.48,2026-10-17 20:09:17,43,14125.0
+circle,Circle,Royal Oak Underground Station,940GZZLURYO,1302.0,1302,1302,1,21.7,2026-10-17 20:09:17,1,1302.0
+circle,Circle,Shepherd's Bush Market Underground Station,940GZZLUSBM,242.9,2,578,61,4.05,2026-10-17 20:09:17,43,10445.0
+circle,Circle,St. James's Park Underground Station,940GZZLUSJP,232.8,1,1684,193,3.88,2026-10-17 20:09:17,45,10476.0
+circle,Circle,South Kensington Underground Station,940GZZLUSKS,184.6,2,648,176,3.08,2026-10-17 20:09:17,45,8306.0
+circle,Circle,Sloane Square Underground Station,940GZZLUSSQ,250.6,11,769,176,4.18,2026-10-17 20:09:17,45,11275.0
+circle,Circle,Temple Underground Station,940GZZLUTMP,271.1,1,1753,220,4.52,2026-10-17 20:09:17,47,12743.0
+circle,Circle,Tower Hill Underground Station,940GZZLUTWH,233.7,13,1160,243,3.9,2026-10-17 20:09:17,48,11216.0
+circle,Circle,Victoria Underground Station,940GZZLUVIC,189.4,1,708,193,3.16,2026-10-17 20:09:17,45,8521.0
+circle,Circle,Wood Lane Underground Station,940GZZLUWLA,268.3,2,622,67,4.47,2026-10-17 20:09:17,43,11538.0
+circle,Circle,Westminster Underground Station,940GZZLUWSM,264.0,3,1624,193,4.4,2026-10-17 20:09:17,45,11881.0
+circle,Circle,Westbourne Park Underground Station,940GZZLUWSP,303.1,4,923,82,5.05,2026-10-17 20:09:17,43,13033.0
+district,District,Acton Town Underground Station,940GZZLUACT,142.7,4,467,71,2.38,2026-10-17 20:09:17,37,5281.0
+district,District,Aldgate East Underground Station,940GZZLUADE,124.5,1,671,507,2.08,2026-10-17 20:09:17,55,6849.0
+district,District,Bromley-by-Bow Underground Station,940GZZLUBBB,115.0,1,355,517,1.92,2026-10-17 20:09:17,55,6323.0
+district,District,Becontree Underground Station,940GZZLUBEC,158.4,1,780,357,2.64,2026-10-17 20:09:17,57,9028.0
+district,District,Blackfriars Underground Station,940GZZLUBKF,81.4,1,347,488,1.36,2026-10-17 20:09:17,46,3743.0
+district,District,Barking Underground Station,940GZZLUBKG,93.8,1,492,673,1.56,2026-10-17 20:09:17,58,5443.0
+district,District,Barons Court Underground Station,940GZZLUBSC,167.3,6,1187,225,2.79,2026-10-17 20:09:17,49,8199.0
+district,District,Bow Road Underground Station,940GZZLUBWR,121.6,5,361,517,2.03,2026-10-17 20:09:17,55,6688.0
+district,District,Cannon Street Underground Station,940GZZLUCST,77.5,1,408,496,1.29,2026-10-17 20:09:17,46,3564.0
+district,District,Chiswick Park Underground Station,940GZZLUCWP,193.4,2,648,64,3.22,2026-10-17 20:09:17,40,7738.0
+district,District,Dagenham East Underground Station,940GZZLUDGE,176.9,2,1020,349,2.95,2026-10-17 20:09:17,58,10263.0
+district,District,Dagenham Heathway Underground Station,940GZZLUDGY,165.4,2,899,358,2.76,2026-10-17 20:09:17,58,9595.0
+district,District,Ealing Broadway Underground Station,940GZZLUEBY,233.1,1,619,219,3.88,2026-10-17 20:09:17,43,10024.0
+district,District,Ealing Common Underground Station,940GZZLUECM,168.2,4,559,74,2.8,2026-10-17 20:09:17,36,6057.0
+district,District,Earl's Court Underground Station,940GZZLUECT,202.0,1,978,218,3.37,2026-10-17 20:09:17,47,9492.0
+district,District,East Ham Underground Station,940GZZLUEHM,126.9,1,506,534,2.12,2026-10-17 20:09:17,55,6981.0
+district,District,Embankment Underground Station,940GZZLUEMB,84.0,2,347,466,1.4,2026-10-17 20:09:17,46,3866.0
+district,District,Elm Park Underground Station,940GZZLUEPK,157.7,1,612,311,2.63,2026-10-17 20:09:17,57,8990.0
+district,District,East Putney Underground Station,940GZZLUEPY,145.2,3,1680,271,2.42,2026-10-17 20:09:17,53,7697.0
+district,District,Edgware Road (Circle Line) Underground Station,940GZZLUERC,264.2,1,1729,117,4.4,2026-10-17 20:09:17,50,13210.0
+district,District,Fulham Broadway Underground Station,940GZZLUFBY,147.5,3,648,293,2.46,2026-10-17 20:09:17,54,7966.0
+district,District,Gunnersbury Underground Station,940GZZLUGBY,81.9,3,164,51,1.36,2026-10-17 20:09:17,33,2704.0
+district,District,Gloucester Road Underground Station,940GZZLUGTR,98.9,2,602,358,1.65,2026-10-17 20:09:17,46,4550.0
+district,District,Hornchurch Underground Station,940GZZLUHCH,148.2,2,732,311,2.47,2026-10-17 20:09:17,57,8445.0
+district,District,Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD,141.7,1,1128,229,2.36,2026-10-17 20:09:17,49,6944.0
+district,District,High Street Kensington Underground Station,940GZZLUHSK,155.5,3,472,220,2.59,2026-10-17 20:09:17,48,7464.0
+district,District,Kensington (Olympia) Underground Station,940GZZLUKOY,325.1,3,1689,13,5.42,2026-10-17 20:09:17,11,3576.0
+district,District,Kew Gardens Underground Station,940GZZLUKWG,68.9,1,225,53,1.15,2026-10-17 20:09:17,33,2274.0
+district,District,Mile End Underground Station,940GZZLUMED,132.2,3,346,512,2.2,2026-10-17 20:09:17,55,7273.0
+district,District,Monument Underground Station,940GZZLUMMT,99.9,3,601,513,1.66,2026-10-17 20:09:17,46,4596.0
+district,District,Mansion House Underground Station,940GZZLUMSH,95.2,3,468,487,1.59,2026-10-17 20:09:17,46,4377.0
+district,District,Paddington Underground Station,940GZZLUPAC,291.1,2,1740,168,4.85,2026-10-17 20:09:17,48,13972.0
+district,District,Plaistow Underground Station,940GZZLUPLW,107.4,2,529,529,1.79,2026-10-17 20:09:17,55,5906.0
+district,District,Parsons Green Underground Station,940GZZLUPSG,213.1,1,1260,264,3.55,2026-10-17 20:09:17,53,11296.0
+district,District,Putney Bridge Underground Station,940GZZLUPYB,200.9,2,1559,248,3.35,2026-10-17 20:09:17,53,10650.0
+district,District,Richmond Underground Station,940GZZLURMD,63.6,1,279,260,1.06,2026-10-17 20:09:17,39,2480.0
+district,District,Ravenscourt Park Underground Station,940GZZLURVP,111.6,3,947,228,1.86,2026-10-17 20:09:17,49,5467.0
+district,District,Stamford Brook Underground Station,940GZZLUSFB,111.7,1,827,220,1.86,2026-10-17 20:09:17,49,5472.0
+district,District,Southfields Underground Station,940GZZLUSFS,109.9,3,709,304,1.83,2026-10-17 20:09:17,50,5497.0
+district,District,Stepney Green Underground Station,940GZZLUSGN,92.7,2,413,515,1.55,2026-10-17 20:09:17,55,5097.0
+district,District,St. James's Park Underground Station,940GZZLUSJP,83.0,1,343,422,1.38,2026-10-17 20:09:17,46,3816.0
+district,District,South Kensington Underground Station,940GZZLUSKS,118.6,5,722,355,1.98,2026-10-17 20:09:17,46,5457.0
+district,District,Sloane Square Underground Station,940GZZLUSSQ,127.7,5,782,385,2.13,2026-10-17 20:09:17,46,5876.0
+district,District,Temple Underground Station,940GZZLUTMP,83.2,3,348,466,1.39,2026-10-17 20:09:17,46,3829.0
+district,District,Turnham Green Underground Station,940GZZLUTNG,138.5,2,767,120,2.31,2026-10-17 20:09:17,47,6511.0
+district,District,Tower Hill Underground Station,940GZZLUTWH,112.0,1,551,558,1.87,2026-10-17 20:09:17,55,6159.0
+district,District,Upminster Bridge Underground Station,940GZZLUUPB,263.2,13,1786,313,4.39,2026-10-17 20:09:17,57,15001.0
+district,District,Upton Park Underground Station,940GZZLUUPK,122.4,2,649,517,2.04,2026-10-17 20:09:17,55,6733.0
+district,District,Upminster Underground Station,940GZZLUUPM,188.9,1,1262,625,3.15,2026-10-17 20:09:17,56,10581.0
+district,District,Upney Underground Station,940GZZLUUPY,159.6,1,689,377,2.66,2026-10-17 20:09:17,56,8940.0
+district,District,Victoria Underground Station,940GZZLUVIC,108.6,1,662,413,1.81,2026-10-17 20:09:17,46,4995.0
+district,District,West Brompton Underground Station,940GZZLUWBN,200.4,2,1441,258,3.34,2026-10-17 20:09:17,52,10422.0
+district,District,West Ham Underground Station,940GZZLUWHM,132.2,3,468,500,2.2,2026-10-17 20:09:17,55,7272.0
+district,District,Wimbledon Underground Station,940GZZLUWIM,84.3,1,415,1087,1.4,2026-10-17 20:09:17,54,4554.0
+district,District,Wimbledon Park Underground Station,940GZZLUWIP,118.2,4,588,315,1.97,2026-10-17 20:09:17,51,6029.0
+district,District,West Kensington Underground Station,940GZZLUWKN,177.0,4,1307,226,2.95,2026-10-17 20:09:17,49,8673.0
+district,District,Whitechapel Underground Station,940GZZLUWPL,108.5,2,528,529,1.81,2026-10-17 20:09:17,55,5965.0
+district,District,Westminster Underground Station,940GZZLUWSM,81.6,1,281,445,1.36,2026-10-17 20:09:17,46,3752.0
+elizabeth,Elizabeth line,Abbey Wood (London) Rail Station,910GABWD,209.8,1,1913,1112,3.5,2026-10-17 20:09:17,55,11539.0
+elizabeth,Elizabeth line,Abbey Wood,910GABWDXR,213.4,1,1913,1042,3.56,2026-10-17 20:09:17,54,11524.0
+elizabeth,Elizabeth line,Acton Main Line Rail Station,910GACTONML,476.3,9,5126,767,7.94,2026-10-17 20:09:17,53,25245.0
+elizabeth,Elizabeth line,Burnham (Berks) Rail Station,910GBNHAM,544.2,1,5846,743,9.07,2026-10-17 20:09:17,53,28843.0
+elizabeth,Elizabeth line,Bond Street,910GBONDST,190.7,3,5662,3337,3.18,2026-10-17 20:09:17,54,10297.0
+elizabeth,Elizabeth line,Brentwood Rail Station,910GBRTWOOD,575.0,8,6934,1623,9.58,2026-10-17 20:09:17,63,36223.0
+elizabeth,Elizabeth line,Canary Wharf,910GCANWHRF,268.8,8,5482,1666,4.48,2026-10-17 20:09:17,54,14515.0
+elizabeth,Elizabeth line,Chadwell Heath Rail Station,910GCHDWLHT,421.7,10,7039,1756,7.03,2026-10-17 20:09:17,59,24879.0
+elizabeth,Elizabeth line,Custom House Rail Station,910GCUSTMHS,382.9,12,7046,1659,6.38,2026-10-17 20:09:17,55,21061.0
+elizabeth,Elizabeth line,Ealing Broadway Rail Station,910GEALINGB,517.6,10,6694,1875,8.63,2026-10-17 20:09:17,58,30022.0
+elizabeth,Elizabeth line,Farringdon Rail Station,910GFRNDNLT,206.5,14,5482,3207,3.44,2026-10-17 20:09:17,53,10942.0
+elizabeth,Elizabeth line,Farringdon,910GFRNDXR,203.6,1,5482,3208,3.39,2026-10-17 20:09:17,53,10792.0
+elizabeth,Elizabeth line,Forest Gate Rail Station,910GFRSTGT,343.2,4,5486,1753,5.72,2026-10-17 20:09:17,58,19907.0
+elizabeth,Elizabeth line,Gidea Park Rail Station,910GGIDEAPK,413.9,4,6941,1709,6.9,2026-10-17 20:09:17,62,25662.0
+elizabeth,Elizabeth line,Goodmayes Rail Station,910GGODMAYS,403.1,2,7159,1758,6.72,2026-10-17 20:09:17,59,23782.0
+elizabeth,Elizabeth line,Hanwell Rail Station,910GHANWELL,485.4,15,5606,754,8.09,2026-10-17 20:09:17,51,24755.0
+elizabeth,Elizabeth line,Hayes & Harlington Rail Station,910GHAYESAH,468.2,3,6821,1818,7.8,2026-10-17 20:09:17,57,26688.0
+elizabeth,Elizabeth line,Harold Wood Rail Station,910GHRLDWOD,575.0,2,7174,1633,9.58,2026-10-17 20:09:17,63,36228.0
+elizabeth,Elizabeth line,Heathrow Terminals 2 & 3 Rail Station,910GHTRWAPT,516.7,4,6979,1079,8.61,2026-10-17 20:09:17,56,28937.0
+elizabeth,Elizabeth line,Heathrow Terminal 4 Rail Station,910GHTRWTM4,462.7,1,3502,419,7.71,2026-10-17 20:09:17,55,25449.0
+elizabeth,Elizabeth line,Heathrow Terminal 5 Rail Station,910GHTRWTM5,600.0,1,3142,234,10.0,2026-10-17 20:09:17,54,32400.0
+elizabeth,Elizabeth line,Ilford Rail Station,910GILFORD,336.6,6,5126,1752,5.61,2026-10-17 20:09:17,58,19524.0
+elizabeth,Elizabeth line,Iver Rail Station,910GIVER,701.2,9,6446,505,11.69,2026-10-17 20:09:17,55,38568.0
+elizabeth,Elizabeth line,Langley (Berks) Rail Station,910GLANGLEY,600.1,9,6266,718,10.0,2026-10-17 20:09:17,55,33008.0
+elizabeth,Elizabeth line,London Liverpool Street Rail Station,910GLIVST,135.8,1,4402,2835,2.26,2026-10-17 20:09:17,57,7740.0
+elizabeth,Elizabeth line,Liverpool Street,910GLIVSTLL,141.9,1,4402,2824,2.37,2026-10-17 20:09:17,57,8091.0
+elizabeth,Elizabeth line,Manor Park Rail Station,910GMANRPK,319.6,11,5246,1758,5.33,2026-10-17 20:09:17,58,18535.0
+elizabeth,Elizabeth line,Maidenhead Rail Station,910GMDNHEAD,488.3,1,6202,645,8.14,2026-10-17 20:09:17,55,26857.0
+elizabeth,Elizabeth line,Maryland Rail Station,910GMRYLAND,346.7,6,5606,1757,5.78,2026-10-17 20:09:17,58,20111.0
+elizabeth,Elizabeth line,Paddington,910GPADTLL,164.7,1,5662,2726,2.74,2026-10-17 20:09:17,56,9222.0
+elizabeth,Elizabeth line,London Paddington Rail Station,910GPADTON,174.6,1,5662,2915,2.91,2026-10-17 20:09:17,56,9780.0
+elizabeth,Elizabeth line,Reading Rail Station,910GRDNGSTN,822.4,1,7102,265,13.71,2026-10-17 20:09:17,49,40296.0
+elizabeth,Elizabeth line,Romford Rail Station,910GROMFORD,509.3,1,7121,1754,8.49,2026-10-17 20:09:17,61,31065.0
+elizabeth,Elizabeth line,Shenfield Rail Station,910GSHENFLD,392.9,1,6802,983,6.55,2026-10-17 20:09:17,59,23182.0
+elizabeth,Elizabeth line,Slough Rail Station,910GSLOUGH,552.2,4,6086,758,9.2,2026-10-17 20:09:17,55,30373.0
+elizabeth,Elizabeth line,Stratford (London) Rail Station,910GSTFD,232.7,7,3922,1742,3.88,2026-10-17 20:09:17,58,13497.0
+elizabeth,Elizabeth line,Southall Rail Station,910GSTHALL,612.5,10,6994,1518,10.21,2026-10-17 20:09:17,58,35526.0
+elizabeth,Elizabeth line,Seven Kings Rail Station,910GSVNKNGS,298.1,4,4886,1763,4.97,2026-10-17 20:09:17,58,17290.0
+elizabeth,Elizabeth line,Taplow Rail Station,910GTAPLOW,729.8,15,5666,479,12.16,2026-10-17 20:09:17,53,38680.0
+elizabeth,Elizabeth line,Tottenham Court Road,910GTOTCTRD,183.1,11,5662,3338,3.05,2026-10-17 20:09:17,53,9703.0
+elizabeth,Elizabeth line,Twyford Rail Station,910GTWYFORD,735.2,36,5842,468,12.25,2026-10-17 20:09:17,51,37495.0
+elizabeth,Elizabeth line,Whitechapel Rail Station,910GWCHAPEL,300.3,3,6926,3279,5.0,2026-10-17 20:09:17,56,16817.0
+elizabeth,Elizabeth line,Whitechapel,910GWCHAPXR,300.3,3,6926,3284,5.0,2026-10-17 20:09:17,56,16817.0
+elizabeth,Elizabeth line,West Drayton Rail Station,910GWDRYTON,503.3,1,6566,762,8.39,2026-10-17 20:09:17,55,27680.0
+elizabeth,Elizabeth line,West Ealing Rail Station,910GWEALING,516.7,4,5486,1058,8.61,2026-10-17 20:09:17,51,26354.0
+elizabeth,Elizabeth line,Woolwich,910GWOLWXR,355.5,2,6806,1663,5.92,2026-10-17 20:09:17,56,19906.0
+jubilee,Jubilee,Bermondsey Underground Station,940GZZLUBMY,120.8,3,550,709,2.01,2026-10-17 20:09:17,61,7369.0
+jubilee,Jubilee,Bond Street Underground Station,940GZZLUBND,100.9,1,1452,843,1.68,2026-10-17 20:09:17,58,5850.0
+jubilee,Jubilee,Baker Street Underground Station,940GZZLUBST,112.3,3,1272,884,1.87,2026-10-17 20:09:17,58,6515.0
+jubilee,Jubilee,Canning Town Underground Station,940GZZLUCGT,148.5,1,1150,565,2.48,2026-10-17 20:09:17,61,9056.0
+jubilee,Jubilee,Canons Park Underground Station,940GZZLUCPK,151.2,1,1209,442,2.52,2026-10-17 20:09:17,59,8919.0
+jubilee,Jubilee,Canada Water Underground Station,940GZZLUCWR,147.2,3,730,698,2.45,2026-10-17 20:09:17,61,8977.0
+jubilee,Jubilee,Canary Wharf Underground Station,940GZZLUCYF,138.1,7,850,659,2.3,2026-10-17 20:09:17,61,8423.0
+jubilee,Jubilee,Dollis Hill Underground Station,940GZZLUDOH,103.8,2,489,680,1.73,2026-10-17 20:09:17,60,6230.0
+jubilee,Jubilee,Finchley Road Underground Station,940GZZLUFYR,117.9,1,852,821,1.96,2026-10-17 20:09:17,59,6958.0
+jubilee,Jubilee,Green Park Underground Station,940GZZLUGPK,98.6,1,1572,809,1.64,2026-10-17 20:09:17,59,5815.0
+jubilee,Jubilee,Kilburn Underground Station,940GZZLUKBN,107.7,1,612,753,1.8,2026-10-17 20:09:17,60,6463.0
+jubilee,Jubilee,Kingsbury Underground Station,940GZZLUKBY,143.5,2,969,500,2.39,2026-10-17 20:09:17,59,8467.0
+jubilee,Jubilee,London Bridge Underground Station,940GZZLULNB,84.4,1,370,743,1.41,2026-10-17 20:09:17,60,5066.0
+jubilee,Jubilee,Neasden Underground Station,940GZZLUNDN,81.4,1,609,669,1.36,2026-10-17 20:09:17,60,4887.0
+jubilee,Jubilee,North Greenwich Underground Station,940GZZLUNGW,144.5,1,1031,630,2.41,2026-10-17 20:09:17,60,8672.0
+jubilee,Jubilee,Queensbury Underground Station,940GZZLUQBY,124.9,1,1089,464,2.08,2026-10-17 20:09:17,59,7371.0
+jubilee,Jubilee,St. John's Wood Underground Station,940GZZLUSJW,98.9,3,1092,866,1.65,2026-10-17 20:09:17,58,5735.0
+jubilee,Jubilee,Stratford Underground Station,940GZZLUSTD,173.3,1,1571,1465,2.89,2026-10-17 20:09:17,61,10574.0
+jubilee,Jubilee,Stanmore Underground Station,940GZZLUSTM,168.2,2,1329,1238,2.8,2026-10-17 20:09:17,59,9922.0
+jubilee,Jubilee,Swiss Cottage Underground Station,940GZZLUSWC,123.9,3,973,827,2.06,2026-10-17 20:09:17,58,7185.0
+jubilee,Jubilee,Southwark Underground Station,940GZZLUSWK,109.2,1,409,745,1.82,2026-10-17 20:09:17,60,6553.0
+jubilee,Jubilee,West Ham Underground Station,940GZZLUWHM,161.9,1,1391,527,2.7,2026-10-17 20:09:17,61,9876.0
+jubilee,Jubilee,West Hampstead Underground Station,940GZZLUWHP,96.3,1,793,788,1.6,2026-10-17 20:09:17,59,5681.0
+jubilee,Jubilee,Willesden Green Underground Station,940GZZLUWIG,92.6,1,493,748,1.54,2026-10-17 20:09:17,60,5556.0
+jubilee,Jubilee,Waterloo Underground Station,940GZZLUWLO,94.8,1,345,759,1.58,2026-10-17 20:09:17,60,5686.0
+jubilee,Jubilee,Westminster Underground Station,940GZZLUWSM,84.1,1,360,786,1.4,2026-10-17 20:09:17,59,4960.0
+jubilee,Jubilee,Wembley Park Underground Station,940GZZLUWYP,84.5,1,730,638,1.41,2026-10-17 20:09:17,60,5071.0
+metropolitan,Metropolitan,Aldgate Underground Station,940GZZLUALD,129.6,1,601,528,2.16,2026-10-17 20:09:17,54,6997.0
+metropolitan,Metropolitan,Amersham Underground Station,940GZZLUAMS,346.0,1,1727,239,5.77,2026-10-17 20:09:17,54,18685.0
+metropolitan,Metropolitan,Barbican Underground Station,940GZZLUBBN,155.7,1,1137,415,2.6,2026-10-17 20:09:17,53,8253.0
+metropolitan,Metropolitan,Baker Street Underground Station,940GZZLUBST,136.9,1,778,559,2.28,2026-10-17 20:09:17,56,7667.0
+metropolitan,Metropolitan,Chalfont & Latimer Underground Station,940GZZLUCAL,359.3,1,1590,150,5.99,2026-10-17 20:09:17,54,19404.0
+metropolitan,Metropolitan,Chesham Underground Station,940GZZLUCSM,345.5,259,891,127,5.76,2026-10-17 20:09:17,56,19346.0
+metropolitan,Metropolitan,Croxley Underground Station,940GZZLUCXY,247.5,1,1633,158,4.12,2026-10-17 20:09:17,64,15837.0
+metropolitan,Metropolitan,Chorleywood Underground Station,940GZZLUCYD,298.7,1,1531,137,4.98,2026-10-17 20:09:17,55,16426.0
+metropolitan,Metropolitan,Eastcote Underground Station,940GZZLUEAE,156.4,2,602,222,2.61,2026-10-17 20:09:17,58,9069.0
+metropolitan,Metropolitan,Euston Square Underground Station,940GZZLUESQ,178.8,2,1036,381,2.98,2026-10-17 20:09:17,55,9835.0
+metropolitan,Metropolitan,Farringdon Underground Station,940GZZLUFCN,159.6,2,1197,412,2.66,2026-10-17 20:09:17,53,8458.0
+metropolitan,Metropolitan,Finchley Road Underground Station,940GZZLUFYR,202.0,1,1687,609,3.37,2026-10-17 20:09:17,59,11916.0
+metropolitan,Metropolitan,Great Portland Street Underground Station,940GZZLUGPS,156.2,1,850,367,2.6,2026-10-17 20:09:17,55,8591.0
+metropolitan,Metropolitan,Hillingdon Underground Station,940GZZLUHGD,231.2,1,1022,213,3.85,2026-10-17 20:09:17,58,13411.0
+metropolitan,Metropolitan,Harrow-on-the-Hill Underground Station,940GZZLUHOH,205.0,2,1156,1024,3.42,2026-10-17 20:09:17,66,13533.0
+metropolitan,Metropolitan,Ickenham Underground Station,940GZZLUICK,195.9,2,962,218,3.26,2026-10-17 20:09:17,59,11557.0
+metropolitan,Metropolitan,King's Cross St. Pancras Underground Station,940GZZLUKSX,153.3,2,897,391,2.56,2026-10-17 20:09:17,55,8434.0
+metropolitan,Metropolitan,Liverpool Street Underground Station,940GZZLULVT,117.0,2,838,444,1.95,2026-10-17 20:09:17,53,6202.0
+metropolitan,Metropolitan,Moorgate Underground Station,940GZZLUMGT,144.2,1,1018,441,2.4,2026-10-17 20:09:17,53,7645.0
+metropolitan,Metropolitan,Moor Park Underground Station,940GZZLUMPK,181.7,1,509,277,3.03,2026-10-17 20:09:17,65,11813.0
+metropolitan,Metropolitan,Neasden Underground Station,940GZZLUNDN,413.6,7,1739,359,6.89,2026-10-17 20:09:17,60,24818.0
+metropolitan,Metropolitan,North Harrow Underground Station,940GZZLUNHA,302.3,2,976,271,5.04,2026-10-17 20:09:17,66,19955.0
+metropolitan,Metropolitan,Northwick Park Underground Station,940GZZLUNKP,144.5,2,925,178,2.41,2026-10-17 20:09:17,54,7803.0
+metropolitan,Metropolitan,Northwood Underground Station,940GZZLUNOW,221.5,1,555,268,3.69,2026-10-17 20:09:17,65,14396.0
+metropolitan,Metropolitan,Northwood Hills Underground Station,940GZZLUNWH,257.5,2,675,270,4.29,2026-10-17 20:09:17,65,16739.0
+metropolitan,Metropolitan,Pinner Underground Station,940GZZLUPNR,270.3,1,795,275,4.5,2026-10-17 20:09:17,65,17571.0
+metropolitan,Metropolitan,Preston Road Underground Station,940GZZLUPRD,304.1,1,1490,552,5.07,2026-10-17 20:09:17,68,20677.0
+metropolitan,Metropolitan,Rickmansworth Underground Station,940GZZLURKW,315.0,3,1290,137,5.25,2026-10-17 20:09:17,55,17327.0
+metropolitan,Metropolitan,Ruislip Manor Underground Station,940GZZLURSM,145.3,1,661,218,2.42,2026-10-17 20:09:17,58,8425.0
+metropolitan,Metropolitan,Ruislip Underground Station,940GZZLURSP,188.8,1,781,219,3.15,2026-10-17 20:09:17,58,10952.0
+metropolitan,Metropolitan,Rayners Lane Underground Station,940GZZLURYL,168.8,1,659,226,2.81,2026-10-17 20:09:17,58,9793.0
+metropolitan,Metropolitan,Uxbridge Underground Station,940GZZLUUXB,204.1,1,1261,674,3.4,2026-10-17 20:09:17,59,12040.0
+metropolitan,Metropolitan,Watford Underground Station,940GZZLUWAF,208.7,1,1377,281,3.48,2026-10-17 20:09:17,67,13982.0
+metropolitan,Metropolitan,West Harrow Underground Station,940GZZLUWHW,174.8,1,847,230,2.91,2026-10-17 20:09:17,58,10139.0
+metropolitan,Metropolitan,Willesden Green Underground Station,940GZZLUWIG,480.6,3,1308,302,8.01,2026-10-17 20:09:17,59,28354.0
+metropolitan,Metropolitan,Wembley Park Underground Station,940GZZLUWYP,279.5,1,1616,872,4.66,2026-10-17 20:09:17,68,19008.0
+northern,Northern,Battersea Power Station Underground Station,940GZZBPSUST,176.8,2,700,482,2.95,2026-10-17 20:09:17,55,9723.0
+northern,Northern,Archway Underground Station,940GZZLUACY,85.1,1,366,749,1.42,2026-10-17 20:09:17,59,5023.0
+northern,Northern,Angel Underground Station,940GZZLUAGL,103.6,1,712,853,1.73,2026-10-17 20:09:17,54,5596.0
+northern,Northern,Balham Underground Station,940GZZLUBLM,84.2,1,367,694,1.4,2026-10-17 20:09:17,58,4882.0
+northern,Northern,Bank Underground Station,940GZZLUBNK,85.2,2,375,863,1.42,2026-10-17 20:09:17,54,4599.0
+northern,Northern,Borough Underground Station,940GZZLUBOR,79.4,3,353,857,1.32,2026-10-17 20:09:17,54,4286.0
+northern,Northern,Burnt Oak Underground Station,940GZZLUBTK,156.2,1,975,461,2.6,2026-10-17 20:09:17,59,9214.0
+northern,Northern,Brent Cross Underground Station,940GZZLUBTX,120.1,3,669,586,2.0,2026-10-17 20:09:17,59,7087.0
+northern,Northern,Belsize Park Underground Station,940GZZLUBZP,93.5,2,907,714,1.56,2026-10-17 20:09:17,58,5421.0
+northern,Northern,Chalk Farm Underground Station,940GZZLUCFM,71.5,1,289,728,1.19,2026-10-17 20:09:17,57,4077.0
+northern,Northern,Charing Cross Underground Station,940GZZLUCHX,54.9,2,249,756,0.91,2026-10-17 20:09:17,57,3128.0
+northern,Northern,Colindale Underground Station,940GZZLUCND,118.3,3,855,500,1.97,2026-10-17 20:09:17,59,6981.0
+northern,Northern,Clapham Common Underground Station,940GZZLUCPC,77.4,1,374,762,1.29,2026-10-17 20:09:17,58,4489.0
+northern,Northern,Clapham North Underground Station,940GZZLUCPN,97.8,1,374,787,1.63,2026-10-17 20:09:17,57,5577.0
+northern,Northern,Clapham South Underground Station,940GZZLUCPS,81.6,2,306,725,1.36,2026-10-17 20:09:17,58,4734.0
+northern,Northern,Colliers Wood Underground Station,940GZZLUCSD,93.7,2,366,592,1.56,2026-10-17 20:09:17,58,5434.0
+northern,Northern,Camden Town Underground Station,940GZZLUCTN,47.9,2,370,1546,0.8,2026-10-17 20:09:17,58,2780.0
+northern,Northern,Elephant & Castle Underground Station,940GZZLUEAC,66.6,1,292,817,1.11,2026-10-17 20:09:17,54,3596.0
+northern,Northern,East Finchley Underground Station,940GZZLUEFY,64.8,1,554,678,1.08,2026-10-17 20:09:17,59,3821.0
+northern,Northern,Edgware Underground Station,940GZZLUEGW,141.9,1,1154,913,2.37,2026-10-17 20:09:17,59,8372.0
+northern,Northern,Embankment Underground Station,940GZZLUEMB,66.1,1,353,741,1.1,2026-10-17 20:09:17,57,3767.0
+northern,Northern,Euston Underground Station,940GZZLUEUS,48.2,1,258,1608,0.8,2026-10-17 20:09:17,57,2746.0
+northern,Northern,Finchley Central Underground Station,940GZZLUFYC,58.6,1,607,652,0.98,2026-10-17 20:09:17,59,3458.0
+northern,Northern,Goodge Street Underground Station,940GZZLUGDG,75.1,1,346,814,1.25,2026-10-17 20:09:17,57,4283.0
+northern,Northern,Golders Green Underground Station,940GZZLUGGN,95.5,1,593,665,1.59,2026-10-17 20:09:17,59,5632.0
+northern,Northern,High Barnet Underground Station,940GZZLUHBT,114.6,1,563,1305,1.91,2026-10-17 20:09:17,59,6764.0
+northern,Northern,Hendon Central Underground Station,940GZZLUHCL,126.4,1,789,549,2.11,2026-10-17 20:09:17,59,7459.0
+northern,Northern,Highgate Underground Station,940GZZLUHGT,78.0,1,546,717,1.3,2026-10-17 20:09:17,59,4603.0
+northern,Northern,Hampstead Underground Station,940GZZLUHTD,58.3,1,247,689,0.97,2026-10-17 20:09:17,59,3439.0
+northern,Northern,Kennington Underground Station,940GZZLUKNG,35.1,1,310,1462,0.59,2026-10-17 20:09:17,58,2033.0
+northern,Northern,Kentish Town Underground Station,940GZZLUKSH,85.6,1,490,809,1.43,2026-10-17 20:09:17,59,5050.0
+northern,Northern,King's Cross St. Pancras Underground Station,940GZZLUKSX,78.5,1,533,816,1.31,2026-10-17 20:09:17,54,4238.0
+northern,Northern,London Bridge Underground Station,940GZZLULNB,68.6,1,315,870,1.14,2026-10-17 20:09:17,54,3705.0
+northern,Northern,Leicester Square Underground Station,940GZZLULSQ,57.4,1,293,771,0.96,2026-10-17 20:09:17,57,3272.0
+northern,Northern,Morden Underground Station,940GZZLUMDN,128.9,2,533,1504,2.15,2026-10-17 20:09:17,58,7479.0
+northern,Northern,Moorgate Underground Station,940GZZLUMGT,74.8,2,435,857,1.25,2026-10-17 20:09:17,54,4037.0
+northern,Northern,Mill Hill East Underground Station,940GZZLUMHL,167.7,2,1433,118,2.8,2026-10-17 20:09:17,52,8718.0
+northern,Northern,Mornington Crescent Underground Station,940GZZLUMTC,68.3,2,327,801,1.14,2026-10-17 20:09:17,57,3892.0
+northern,Northern,Old Street Underground Station,940GZZLUODS,91.3,2,532,855,1.52,2026-10-17 20:09:17,54,4929.0
+northern,Northern,Oval Underground Station,940GZZLUOVL,58.2,1,239,856,0.97,2026-10-17 20:09:17,56,3257.0
+northern,Northern,Stockwell Underground Station,940GZZLUSKW,79.5,1,309,818,1.32,2026-10-17 20:09:17,57,4531.0
+northern,Northern,South Wimbledon Underground Station,940GZZLUSWN,103.1,2,576,530,1.72,2026-10-17 20:09:17,58,5980.0
+northern,Northern,Totteridge & Whetstone Underground Station,940GZZLUTAW,111.5,2,951,495,1.86,2026-10-17 20:09:17,59,6580.0
+northern,Northern,Tooting Bec Underground Station,940GZZLUTBC,66.7,1,370,648,1.11,2026-10-17 20:09:17,58,3866.0
+northern,Northern,Tooting Broadway Underground Station,940GZZLUTBY,79.5,1,391,613,1.32,2026-10-17 20:09:17,58,4613.0
+northern,Northern,Tottenham Court Road Underground Station,940GZZLUTCR,70.3,2,429,797,1.17,2026-10-17 20:09:17,57,4009.0
+northern,Northern,Tufnell Park Underground Station,940GZZLUTFP,90.5,1,429,795,1.51,2026-10-17 20:09:17,59,5338.0
+northern,Northern,West Finchley Underground Station,940GZZLUWFN,70.1,1,339,529,1.17,2026-10-17 20:09:17,59,4133.0
+northern,Northern,Waterloo Underground Station,940GZZLUWLO,70.7,1,353,711,1.18,2026-10-17 20:09:17,57,4032.0
+northern,Northern,Woodside Park Underground Station,940GZZLUWOP,82.8,3,263,529,1.38,2026-10-17 20:09:17,59,4887.0
+northern,Northern,Warren Street Underground Station,940GZZLUWRR,67.1,2,260,820,1.12,2026-10-17 20:09:17,57,3822.0
+northern,Northern,Nine Elms Underground Station,940GZZNEUGST,131.6,2,314,287,2.19,2026-10-17 20:09:17,55,7240.0
+piccadilly,Piccadilly,Acton Town Underground Station,940GZZLUACT,71.0,3,487,1302,1.18,2026-10-17 20:09:17,53,3762.0
+piccadilly,Piccadilly,Alperton Underground Station,940GZZLUALP,273.3,6,845,191,4.56,2026-10-17 20:09:17,50,13664.0
+piccadilly,Piccadilly,Arnos Grove Underground Station,940GZZLUASG,109.7,5,1276,618,1.83,2026-10-17 20:09:17,67,7349.0
+piccadilly,Piccadilly,Arsenal Underground Station,940GZZLUASL,144.0,3,532,764,2.4,2026-10-17 20:09:17,61,8785.0
+piccadilly,Piccadilly,Bounds Green Underground Station,940GZZLUBDS,175.6,2,1270,593,2.93,2026-10-17 20:09:17,61,10711.0
+piccadilly,Piccadilly,Boston Manor Underground Station,940GZZLUBOS,179.3,3,599,394,2.99,2026-10-17 20:09:17,52,9326.0
+piccadilly,Piccadilly,Barons Court Underground Station,940GZZLUBSC,103.7,2,1148,784,1.73,2026-10-17 20:09:17,57,5911.0
+piccadilly,Piccadilly,Caledonian Road Underground Station,940GZZLUCAR,123.3,2,712,804,2.06,2026-10-17 20:09:17,60,7399.0
+piccadilly,Piccadilly,Covent Garden Underground Station,940GZZLUCGN,125.4,1,1252,804,2.09,2026-10-17 20:09:17,58,7272.0
+piccadilly,Piccadilly,Cockfosters Underground Station,940GZZLUCKS,162.8,1,723,1282,2.71,2026-10-17 20:09:17,68,11073.0
+piccadilly,Piccadilly,Eastcote Underground Station,940GZZLUEAE,462.8,7,1439,88,7.71,2026-10-17 20:09:17,47,21753.0
+piccadilly,Piccadilly,Ealing Common Underground Station,940GZZLUECM,255.6,8,819,245,4.26,2026-10-17 20:09:17,49,12525.0
+piccadilly,Piccadilly,Earl's Court Underground Station,940GZZLUECT,114.7,7,1328,817,1.91,2026-10-17 20:09:17,57,6536.0
+piccadilly,Piccadilly,Finsbury Park Underground Station,940GZZLUFPK,119.0,4,490,745,1.98,2026-10-17 20:09:17,61,7258.0
+piccadilly,Piccadilly,Green Park Underground Station,940GZZLUGPK,130.1,1,1492,786,2.17,2026-10-17 20:09:17,58,7543.0
+piccadilly,Piccadilly,Gloucester Road Underground Station,940GZZLUGTR,111.2,1,668,804,1.85,2026-10-17 20:09:17,57,6338.0
+piccadilly,Piccadilly,Holborn Underground Station,940GZZLUHBN,137.9,2,1132,803,2.3,2026-10-17 20:09:17,58,7997.0
+piccadilly,Piccadilly,Hillingdon Underground Station,940GZZLUHGD,577.2,25,1717,77,9.62,2026-10-17 20:09:17,47,27127.0
+piccadilly,Piccadilly,Hatton Cross Underground Station,940GZZLUHNX,161.3,2,968,310,2.69,2026-10-17 20:09:17,53,8551.0
+piccadilly,Piccadilly,Hyde Park Corner Underground Station,940GZZLUHPC,133.3,3,1612,802,2.22,2026-10-17 20:09:17,58,7734.0
+piccadilly,Piccadilly,Heathrow Terminal 4 Underground Station,940GZZLUHR4,315.0,2,1345,121,5.25,2026-10-17 20:09:17,50,15748.0
+piccadilly,Piccadilly,Heathrow Terminal 5 Underground Station,940GZZLUHR5,8.0,2,19,6,0.13,2026-10-17 20:09:17,6,48.0
+piccadilly,Piccadilly,Heathrow Terminals 2 & 3 Underground Station,940GZZLUHRC,289.5,2,1268,253,4.82,2026-10-17 20:09:17,53,15341.0
+piccadilly,Piccadilly,Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD,65.4,1,370,806,1.09,2026-10-17 20:09:17,57,3725.0
+piccadilly,Piccadilly,Hounslow Central Underground Station,940GZZLUHWC,159.9,3,834,347,2.66,2026-10-17 20:09:17,53,8477.0
+piccadilly,Piccadilly,Hounslow East Underground Station,940GZZLUHWE,131.3,4,714,359,2.19,2026-10-17 20:09:17,53,6961.0
+piccadilly,Piccadilly,Hounslow West Underground Station,940GZZLUHWT,123.3,3,729,337,2.06,2026-10-17 20:09:17,53,6533.0
+piccadilly,Piccadilly,Holloway Road Underground Station,940GZZLUHWY,140.2,3,652,789,2.34,2026-10-17 20:09:17,60,8415.0
+piccadilly,Piccadilly,Ickenham Underground Station,940GZZLUICK,626.8,10,1798,77,10.45,2026-10-17 20:09:17,48,30087.0
+piccadilly,Piccadilly,Knightsbridge Underground Station,940GZZLUKNB,130.9,1,1732,793,2.18,2026-10-17 20:09:17,58,7592.0
+piccadilly,Piccadilly,King's Cross St. Pancras Underground Station,940GZZLUKSX,82.0,1,892,825,1.37,2026-10-17 20:09:17,60,4919.0
+piccadilly,Piccadilly,Leicester Square Underground Station,940GZZLULSQ,120.3,1,1312,808,2.0,2026-10-17 20:09:17,58,6976.0
+piccadilly,Piccadilly,Manor House Underground Station,940GZZLUMRH,126.5,1,650,721,2.11,2026-10-17 20:09:17,61,7719.0
+piccadilly,Piccadilly,North Ealing Underground Station,940GZZLUNEN,221.1,1,939,240,3.68,2026-10-17 20:09:17,50,11053.0
+piccadilly,Piccadilly,Northfields Underground Station,940GZZLUNFD,128.3,4,451,845,2.14,2026-10-17 20:09:17,54,6929.0
+piccadilly,Piccadilly,Oakwood Underground Station,940GZZLUOAK,235.2,1,1696,436,3.92,2026-10-17 20:09:17,67,15759.0
+piccadilly,Piccadilly,Osterley Underground Station,940GZZLUOSY,124.8,1,653,374,2.08,2026-10-17 20:09:17,53,6614.0
+piccadilly,Piccadilly,Piccadilly Circus Underground Station,940GZZLUPCC,114.4,1,1371,794,1.91,2026-10-17 20:09:17,58,6635.0
+piccadilly,Piccadilly,Park Royal Underground Station,940GZZLUPKR,119.5,2,600,242,1.99,2026-10-17 20:09:17,50,5977.0
+piccadilly,Piccadilly,Ruislip Manor Underground Station,940GZZLURSM,463.9,5,1498,85,7.73,2026-10-17 20:09:17,48,22267.0
+piccadilly,Piccadilly,Ruislip Underground Station,940GZZLURSP,526.8,46,1618,80,8.78,2026-10-17 20:09:17,49,25813.0
+piccadilly,Piccadilly,Russell Square Underground Station,940GZZLURSQ,110.1,1,1011,813,1.84,2026-10-17 20:09:17,58,6387.0
+piccadilly,Piccadilly,Ravenscourt Park Underground Station,940GZZLURVP,399.0,399,399,1,6.65,2026-10-17 20:09:17,1,399.0
+piccadilly,Piccadilly,Rayners Lane Underground Station,940GZZLURYL,297.0,2,879,167,4.95,2026-10-17 20:09:17,50,14851.0
+piccadilly,Piccadilly,South Ealing Underground Station,940GZZLUSEA,112.8,1,358,867,1.88,2026-10-17 20:09:17,54,6089.0
+piccadilly,Piccadilly,Southgate Underground Station,940GZZLUSGT,161.9,5,1516,463,2.7,2026-10-17 20:09:17,67,10847.0
+piccadilly,Piccadilly,South Harrow Underground Station,940GZZLUSHH,245.7,6,827,177,4.1,2026-10-17 20:09:17,50,12283.0
+piccadilly,Piccadilly,South Kensington Underground Station,940GZZLUSKS,106.0,2,549,820,1.77,2026-10-17 20:09:17,57,6040.0
+piccadilly,Piccadilly,Sudbury Hill Underground Station,940GZZLUSUH,259.6,2,865,182,4.33,2026-10-17 20:09:17,50,12979.0
+piccadilly,Piccadilly,Sudbury Town Underground Station,940GZZLUSUT,216.7,5,985,192,3.61,2026-10-17 20:09:17,50,10835.0
+piccadilly,Piccadilly,Turnham Green Underground Station,940GZZLUTNG,107.3,6,787,803,1.79,2026-10-17 20:09:17,52,5579.0
+piccadilly,Piccadilly,Turnpike Lane Underground Station,940GZZLUTPN,154.6,4,819,667,2.58,2026-10-17 20:09:17,62,9584.0
+piccadilly,Piccadilly,Uxbridge Underground Station,940GZZLUUXB,384.7,1,1457,226,6.41,2026-10-17 20:09:17,51,19622.0
+piccadilly,Piccadilly,Wood Green Underground Station,940GZZLUWOG,166.0,1,1000,620,2.77,2026-10-17 20:09:17,61,10126.0
+victoria,Victoria,Blackhorse Road Underground Station,940GZZLUBLR,147.5,2,1332,568,2.46,2026-10-17 20:09:17,60,8849.0
+victoria,Victoria,Brixton Underground Station,940GZZLUBXN,125.1,3,673,1193,2.08,2026-10-17 20:09:17,60,7505.0
+victoria,Victoria,Euston Underground Station,940GZZLUEUS,83.2,1,492,585,1.39,2026-10-17 20:09:17,58,4823.0
+victoria,Victoria,Finsbury Park Underground Station,940GZZLUFPK,92.1,2,792,581,1.54,2026-10-17 20:09:17,58,5339.0
+victoria,Victoria,Green Park Underground Station,940GZZLUGPK,95.9,4,328,589,1.6,2026-10-17 20:09:17,59,5660.0
+victoria,Victoria,Highbury & Islington Underground Station,940GZZLUHAI,91.5,1,672,574,1.52,2026-10-17 20:09:17,58,5308.0
+victoria,Victoria,King's Cross St. Pancras Underground Station,940GZZLUKSX,72.0,1,552,583,1.2,2026-10-17 20:09:17,58,4177.0
+victoria,Victoria,Oxford Circus Underground Station,940GZZLUOXC,73.9,1,284,608,1.23,2026-10-17 20:09:17,58,4286.0
+victoria,Victoria,Pimlico Underground Station,940GZZLUPCO,75.4,1,313,588,1.26,2026-10-17 20:09:17,57,4300.0
+victoria,Victoria,Stockwell Underground Station,940GZZLUSKW,107.8,1,538,602,1.8,2026-10-17 20:09:17,57,6145.0
+victoria,Victoria,Seven Sisters Underground Station,940GZZLUSVS,126.6,1,1032,563,2.11,2026-10-17 20:09:17,59,7472.0
+victoria,Victoria,Tottenham Hale Underground Station,940GZZLUTMH,143.7,5,1213,551,2.4,2026-10-17 20:09:17,60,8620.0
+victoria,Victoria,Victoria Underground Station,940GZZLUVIC,107.5,2,529,588,1.79,2026-10-17 20:09:17,59,6341.0
+victoria,Victoria,Vauxhall Underground Station,940GZZLUVXL,91.3,1,418,589,1.52,2026-10-17 20:09:17,57,5203.0
+victoria,Victoria,Warren Street Underground Station,940GZZLUWRR,88.6,7,373,574,1.48,2026-10-17 20:09:17,58,5136.0
+victoria,Victoria,Walthamstow Central Underground Station,940GZZLUWWL,197.0,3,1453,1113,3.28,2026-10-17 20:09:17,61,12017.0
