@@ -1,5 +1,6 @@
 line_id,line_name,hour,avg_severity,min_severity,snapshot_count,good_service_count,pct_good_service
 bakerloo,Bakerloo,0,10.0,10,1,1,100.0
+bakerloo,Bakerloo,4,10.0,10,1,1,100.0
 bakerloo,Bakerloo,5,10.0,10,2,2,100.0
 bakerloo,Bakerloo,6,9.75,9,4,3,75.0
 bakerloo,Bakerloo,7,10.0,10,1,1,100.0
@@ -21,6 +22,7 @@ bakerloo,Bakerloo,22,7.67,3,18,6,33.3
 bakerloo,Bakerloo,23,7.5,3,6,3,50.0
 central,Central,0,10.0,10,2,2,100.0
 central,Central,2,10.0,10,1,1,100.0
+central,Central,4,10.0,10,1,1,100.0
 central,Central,5,10.0,10,2,2,100.0
 central,Central,6,9.75,9,4,3,75.0
 central,Central,7,10.0,10,1,1,100.0
@@ -41,6 +43,7 @@ central,Central,21,9.11,6,9,4,44.4
 central,Central,22,9.78,9,18,14,77.8
 central,Central,23,10.0,10,6,6,100.0
 circle,Circle,0,5.0,5,1,0,0.0
+circle,Circle,4,10.0,10,1,1,100.0
 circle,Circle,5,10.0,10,2,2,100.0
 circle,Circle,6,8.75,5,4,3,75.0
 circle,Circle,7,10.0,10,1,1,100.0
@@ -61,6 +64,7 @@ circle,Circle,21,9.44,5,9,8,88.9
 circle,Circle,22,9.67,5,18,16,88.9
 circle,Circle,23,9.83,9,6,5,83.3
 district,District,0,5.0,5,1,0,0.0
+district,District,4,5.0,5,1,0,0.0
 district,District,5,8.0,6,2,1,50.0
 district,District,6,8.75,5,4,3,75.0
 district,District,7,10.0,10,1,1,100.0
@@ -80,6 +84,7 @@ district,District,20,10.0,10,3,3,100.0
 district,District,21,9.33,5,9,7,77.8
 district,District,22,8.43,5,21,13,61.9
 district,District,23,9.0,5,6,4,66.7
+elizabeth,Elizabeth line,4,10.0,10,1,1,100.0
 elizabeth,Elizabeth line,5,10.0,10,2,2,100.0
 elizabeth,Elizabeth line,6,8.75,5,4,3,75.0
 elizabeth,Elizabeth line,7,6.0,6,1,0,0.0
@@ -101,6 +106,7 @@ elizabeth,Elizabeth line,22,7.94,3,18,7,38.9
 elizabeth,Elizabeth line,23,8.5,7,6,3,50.0
 jubilee,Jubilee,0,10.0,10,2,2,100.0
 jubilee,Jubilee,2,10.0,10,1,1,100.0
+jubilee,Jubilee,4,10.0,10,1,1,100.0
 jubilee,Jubilee,5,10.0,10,2,2,100.0
 jubilee,Jubilee,6,10.0,10,4,4,100.0
 jubilee,Jubilee,7,10.0,10,1,1,100.0
@@ -120,6 +126,7 @@ jubilee,Jubilee,20,10.0,10,3,3,100.0
 jubilee,Jubilee,21,9.22,6,9,5,55.6
 jubilee,Jubilee,22,9.78,9,18,14,77.8
 jubilee,Jubilee,23,9.17,6,6,4,66.7
+metropolitan,Metropolitan,4,10.0,10,1,1,100.0
 metropolitan,Metropolitan,5,10.0,10,2,2,100.0
 metropolitan,Metropolitan,6,9.75,9,4,3,75.0
 metropolitan,Metropolitan,7,10.0,10,1,1,100.0
@@ -141,6 +148,7 @@ metropolitan,Metropolitan,22,9.0,6,18,6,33.3
 metropolitan,Metropolitan,23,8.5,6,6,3,50.0
 northern,Northern,0,10.0,10,2,2,100.0
 northern,Northern,2,10.0,10,1,1,100.0
+northern,Northern,4,10.0,10,1,1,100.0
 northern,Northern,5,6.5,3,2,1,50.0
 northern,Northern,6,9.0,6,4,3,75.0
 northern,Northern,7,10.0,10,1,1,100.0
@@ -162,6 +170,7 @@ northern,Northern,22,9.61,9,18,11,61.1
 northern,Northern,23,9.67,9,6,4,66.7
 piccadilly,Piccadilly,0,5.67,5,3,0,0.0
 piccadilly,Piccadilly,2,10.0,10,1,1,100.0
+piccadilly,Piccadilly,4,5.0,5,1,0,0.0
 piccadilly,Piccadilly,5,10.0,10,2,2,100.0
 piccadilly,Piccadilly,6,10.0,10,4,4,100.0
 piccadilly,Piccadilly,7,10.0,10,1,1,100.0
@@ -183,6 +192,7 @@ piccadilly,Piccadilly,22,8.72,5,18,13,72.2
 piccadilly,Piccadilly,23,8.5,5,6,4,66.7
 victoria,Victoria,0,10.0,10,2,2,100.0
 victoria,Victoria,2,10.0,10,1,1,100.0
+victoria,Victoria,4,10.0,10,1,1,100.0
 victoria,Victoria,5,10.0,10,2,2,100.0
 victoria,Victoria,6,9.5,9,4,2,50.0
 victoria,Victoria,7,10.0,10,1,1,100.0
