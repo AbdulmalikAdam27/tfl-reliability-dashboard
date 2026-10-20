@@ -1131,3 +1131,14 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-20 18:47:03,18,northern,Northern,10,Good Service,,None
 2026-10-20 18:47:03,18,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-20 18:47:03,18,victoria,Victoria,10,Good Service,,None
+2026-10-20 21:55:52,21,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-20 21:55:52,21,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.  ",RealTime
+2026-10-20 21:55:52,21,circle,Circle,10,Good Service,,None
+2026-10-20 21:55:52,21,district,District,9,Minor Delays,"District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.  ",RealTime
+2026-10-20 21:55:52,21,district,District,6,Severe Delays,"District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.  ",RealTime
+2026-10-20 21:55:52,21,elizabeth,Elizabeth line,10,Good Service,,None
+2026-10-20 21:55:52,21,jubilee,Jubilee,10,Good Service,,None
+2026-10-20 21:55:52,21,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-20 21:55:52,21,northern,Northern,10,Good Service,,None
+2026-10-20 21:55:52,21,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to an earlier security alert. Tickets are being accepted on London Buses, Elizabeth line, Weaver Line, Great Northern and South Western Railway.  ",RealTime
+2026-10-20 21:55:52,21,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations. ,RealTime
