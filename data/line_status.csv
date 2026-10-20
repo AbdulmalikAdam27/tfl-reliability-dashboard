@@ -1099,3 +1099,13 @@ timestamp,hour,line_id,line_name,status_severity,status_desc,reason,disruption_c
 2026-10-20 05:11:38,5,northern,Northern,10,Good Service,,None
 2026-10-20 05:11:38,5,piccadilly,Piccadilly,10,Good Service,,None
 2026-10-20 05:11:38,5,victoria,Victoria,10,Good Service,,None
+2026-10-20 10:01:19,10,bakerloo,Bakerloo,10,Good Service,,None
+2026-10-20 10:01:19,10,central,Central,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Queensway. ,RealTime
+2026-10-20 10:01:19,10,circle,Circle,3,Part Suspended,"Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. ",RealTime
+2026-10-20 10:01:19,10,district,District,6,Severe Delays,"District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line. ",RealTime
+2026-10-20 10:01:19,10,elizabeth,Elizabeth line,6,Severe Delays,"Severe delays between Paddington and Heathrow Terminals/Reading while we fix a faulty train at Hayes & Harlington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground, London Buses, Great Western Railway and South Western Railway services via any reasonable route. ",RealTime
+2026-10-20 10:01:19,10,jubilee,Jubilee,10,Good Service,,None
+2026-10-20 10:01:19,10,metropolitan,Metropolitan,10,Good Service,,None
+2026-10-20 10:01:19,10,northern,Northern,10,Good Service,,None
+2026-10-20 10:01:19,10,piccadilly,Piccadilly,10,Good Service,,None
+2026-10-20 10:01:19,10,victoria,Victoria,10,Good Service,,None
