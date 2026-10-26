@@ -44,7 +44,7 @@ central,Central,21,8.93,6,14,5,35.7
 central,Central,22,9.54,6,24,16,66.7
 central,Central,23,10.0,10,8,8,100.0
 circle,Circle,0,8.0,5,3,1,33.3
-circle,Circle,1,5.0,5,1,0,0.0
+circle,Circle,1,5.0,5,2,0,0.0
 circle,Circle,4,8.75,5,4,3,75.0
 circle,Circle,5,10.0,10,6,6,100.0
 circle,Circle,6,8.0,5,5,3,60.0
@@ -66,7 +66,7 @@ circle,Circle,21,8.93,5,14,11,78.6
 circle,Circle,22,9.7,5,23,20,87.0
 circle,Circle,23,8.62,5,8,5,62.5
 district,District,0,6.5,5,4,1,25.0
-district,District,1,5.0,5,1,0,0.0
+district,District,1,5.0,5,2,0,0.0
 district,District,4,6.0,5,4,0,0.0
 district,District,5,8.14,6,7,3,42.9
 district,District,6,8.0,5,5,3,60.0
@@ -88,6 +88,7 @@ district,District,21,8.27,5,15,8,53.3
 district,District,22,8.11,5,27,15,55.6
 district,District,23,8.0,5,8,4,50.0
 elizabeth,Elizabeth line,0,10.0,10,2,2,100.0
+elizabeth,Elizabeth line,1,7.0,7,1,0,0.0
 elizabeth,Elizabeth line,4,9.25,7,4,3,75.0
 elizabeth,Elizabeth line,5,9.33,6,6,5,83.3
 elizabeth,Elizabeth line,6,8.4,5,5,3,60.0
