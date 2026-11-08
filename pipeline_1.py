@@ -47,7 +47,8 @@ TFL_APP_KEY = os.environ.get("TFL_APP_KEY", "")
 OUTPUT_DIR  = os.environ.get("OUTPUT_DIR", "data")
 ARRIVALS_INTERVAL_MINUTES = int(os.environ.get("ARRIVALS_INTERVAL_MINUTES", "0"))
 LINES       = ["central", "jubilee", "northern", "victoria", "bakerloo",
-               "circle", "district", "metropolitan", "piccadilly", "elizabeth"]
+               "circle", "district", "metropolitan", "piccadilly", "elizabeth",
+               "hammersmith-city", "waterloo-city"]
 
 # ─── API HELPERS ─────────────────────────────────────────────────────────────
 

@@ -4,7 +4,7 @@ A live data pipeline and 5-page Power BI dashboard measuring London Underground 
 
 ## What the Project Does
 
-A Python pipeline pulls data from the TfL Unified API, capturing live status updates and arrival data for 10 Underground lines. A GitHub Actions workflow runs it in the cloud and commits the CSVs to this repo, which Power BI reads directly. The workflow is scheduled every 5 minutes, but GitHub runs it roughly every 4 hours in practice (about 5–6 snapshots a day — see Limitations). The data is modelled in Power BI and surfaced across 5 dashboard pages covering network reliability, geographic wait times, time of day patterns, disruption causes and a methodology overview.
+A Python pipeline pulls data from the TfL Unified API, capturing live status updates and arrival data for 11 Underground lines plus the Elizabeth line. A GitHub Actions workflow runs it in the cloud and commits the CSVs to this repo, which Power BI reads directly. The workflow is scheduled every 5 minutes, but GitHub runs it roughly every 4 hours in practice (about 5–6 snapshots a day — see Limitations). The data is modelled in Power BI and surfaced across 5 dashboard pages covering network reliability, geographic wait times, time of day patterns, disruption causes and a methodology overview.
 
 **Stack:** TfL Unified API, Python (pandas + requests), GitHub Actions, Power BI (DAX + Power Query)
 
@@ -56,7 +56,7 @@ Reliability is measured with TfL's own status-severity assessment rather than a 
 
 A star schema with two dimensions and three fact tables, all loaded from the CSVs in `data/`:
 
-- **Dimensions:** `lines` (the 10 lines and their colours), `stations` (names and coordinates)
+- **Dimensions:** `lines` (the 11 Underground lines, the Elizabeth line and their colours), `stations` (names and coordinates)
 - **Facts:** `line_status`, `reliability_summary`, `arrivals_summary`
 - **Derived:** `station_wait` — built in Power Query from `arrivals_summary` and `stations`; drives the wait-time bands on the map (page 2)
 
