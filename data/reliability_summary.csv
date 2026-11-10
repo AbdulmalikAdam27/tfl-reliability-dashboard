@@ -19,7 +19,7 @@ bakerloo,Bakerloo,19,8.22,3,9,5,55.6
 bakerloo,Bakerloo,20,9.0,6,10,6,60.0
 bakerloo,Bakerloo,21,8.53,6,15,8,53.3
 bakerloo,Bakerloo,22,8.06,3,33,14,42.4
-bakerloo,Bakerloo,23,7.67,3,12,5,41.7
+bakerloo,Bakerloo,23,7.85,3,13,6,46.2
 central,Central,0,9.29,6,7,5,71.4
 central,Central,1,10.0,10,3,3,100.0
 central,Central,2,10.0,10,2,2,100.0
@@ -42,7 +42,7 @@ central,Central,19,8.56,6,9,2,22.2
 central,Central,20,9.0,6,10,3,30.0
 central,Central,21,8.73,6,15,5,33.3
 central,Central,22,9.32,6,34,17,50.0
-central,Central,23,9.73,9,11,8,72.7
+central,Central,23,9.67,9,12,8,66.7
 circle,Circle,0,8.8,5,5,3,60.0
 circle,Circle,1,5.0,5,2,0,0.0
 circle,Circle,4,8.75,5,4,3,75.0
@@ -64,7 +64,7 @@ circle,Circle,19,8.62,5,8,4,50.0
 circle,Circle,20,9.89,9,9,8,88.9
 circle,Circle,21,9.0,5,15,12,80.0
 circle,Circle,22,9.72,5,32,27,84.4
-circle,Circle,23,9.0,5,11,8,72.7
+circle,Circle,23,9.08,5,12,9,75.0
 district,District,0,7.67,5,6,3,50.0
 district,District,1,5.0,5,2,0,0.0
 district,District,4,6.0,5,4,0,0.0
@@ -86,7 +86,7 @@ district,District,19,8.5,5,8,3,37.5
 district,District,20,8.09,3,11,6,54.5
 district,District,21,8.31,5,16,8,50.0
 district,District,22,8.47,5,36,20,55.6
-district,District,23,7.33,3,12,4,33.3
+district,District,23,7.46,3,13,4,30.8
 elizabeth,Elizabeth line,0,10.0,10,4,4,100.0
 elizabeth,Elizabeth line,1,7.0,7,1,0,0.0
 elizabeth,Elizabeth line,4,9.25,7,4,3,75.0
@@ -108,12 +108,13 @@ elizabeth,Elizabeth line,19,9.33,6,9,6,66.7
 elizabeth,Elizabeth line,20,9.1,6,10,6,60.0
 elizabeth,Elizabeth line,21,8.67,6,18,9,50.0
 elizabeth,Elizabeth line,22,8.35,3,34,16,47.1
-elizabeth,Elizabeth line,23,8.64,7,11,6,54.5
+elizabeth,Elizabeth line,23,8.75,7,12,7,58.3
 hammersmith-city,Hammersmith & City,9,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,10,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,18,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,20,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,22,6.0,6,2,0,0.0
+hammersmith-city,Hammersmith & City,23,10.0,10,1,1,100.0
 jubilee,Jubilee,0,9.86,9,7,6,85.7
 jubilee,Jubilee,1,10.0,10,3,3,100.0
 jubilee,Jubilee,2,10.0,10,2,2,100.0
@@ -136,7 +137,7 @@ jubilee,Jubilee,19,9.38,6,8,6,75.0
 jubilee,Jubilee,20,9.78,9,9,7,77.8
 jubilee,Jubilee,21,9.2,6,15,9,60.0
 jubilee,Jubilee,22,9.84,9,32,27,84.4
-jubilee,Jubilee,23,9.36,6,11,7,63.6
+jubilee,Jubilee,23,9.42,6,12,8,66.7
 metropolitan,Metropolitan,0,8.75,6,4,2,50.0
 metropolitan,Metropolitan,2,10.0,10,1,1,100.0
 metropolitan,Metropolitan,4,9.75,9,4,3,75.0
@@ -158,7 +159,7 @@ metropolitan,Metropolitan,19,8.7,3,10,6,60.0
 metropolitan,Metropolitan,20,8.6,3,10,5,50.0
 metropolitan,Metropolitan,21,8.88,3,16,10,62.5
 metropolitan,Metropolitan,22,8.97,6,33,11,33.3
-metropolitan,Metropolitan,23,8.73,6,11,6,54.5
+metropolitan,Metropolitan,23,8.83,6,12,7,58.3
 northern,Northern,0,9.0,3,7,6,85.7
 northern,Northern,1,10.0,10,3,3,100.0
 northern,Northern,2,9.5,9,2,1,50.0
@@ -181,7 +182,7 @@ northern,Northern,19,9.5,6,8,7,87.5
 northern,Northern,20,8.1,3,10,6,60.0
 northern,Northern,21,9.44,3,16,13,81.2
 northern,Northern,22,9.75,9,32,24,75.0
-northern,Northern,23,9.82,9,11,9,81.8
+northern,Northern,23,9.83,9,12,10,83.3
 piccadilly,Piccadilly,0,6.5,5,8,2,25.0
 piccadilly,Piccadilly,1,10.0,10,3,3,100.0
 piccadilly,Piccadilly,2,7.5,5,2,1,50.0
@@ -204,7 +205,7 @@ piccadilly,Piccadilly,19,7.67,3,9,4,44.4
 piccadilly,Piccadilly,20,8.57,5,7,5,71.4
 piccadilly,Piccadilly,21,8.8,5,15,11,73.3
 piccadilly,Piccadilly,22,8.35,3,34,22,64.7
-piccadilly,Piccadilly,23,8.0,5,9,5,55.6
+piccadilly,Piccadilly,23,8.2,5,10,6,60.0
 victoria,Victoria,0,9.86,9,7,6,85.7
 victoria,Victoria,1,10.0,10,3,3,100.0
 victoria,Victoria,2,10.0,10,2,2,100.0
@@ -227,8 +228,9 @@ victoria,Victoria,19,9.25,6,8,5,62.5
 victoria,Victoria,20,9.33,6,9,6,66.7
 victoria,Victoria,21,9.53,6,15,11,73.3
 victoria,Victoria,22,9.38,6,32,21,65.6
-victoria,Victoria,23,9.73,9,11,8,72.7
+victoria,Victoria,23,9.42,6,12,8,66.7
 waterloo-city,Waterloo & City,9,6.0,6,1,0,0.0
 waterloo-city,Waterloo & City,10,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,18,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,20,10.0,10,1,1,100.0
+waterloo-city,Waterloo & City,23,10.0,10,1,1,100.0
