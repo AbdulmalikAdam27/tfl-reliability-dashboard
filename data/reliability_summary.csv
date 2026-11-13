@@ -17,7 +17,7 @@ bakerloo,Bakerloo,17,9.4,6,10,7,70.0
 bakerloo,Bakerloo,18,8.45,3,11,6,54.5
 bakerloo,Bakerloo,19,8.22,3,9,5,55.6
 bakerloo,Bakerloo,20,9.09,6,11,7,63.6
-bakerloo,Bakerloo,21,8.53,6,15,8,53.3
+bakerloo,Bakerloo,21,8.62,6,16,9,56.2
 bakerloo,Bakerloo,22,8.06,3,33,14,42.4
 bakerloo,Bakerloo,23,8.0,3,14,7,50.0
 central,Central,0,9.29,6,7,5,71.4
@@ -40,7 +40,7 @@ central,Central,17,8.2,6,10,1,10.0
 central,Central,18,8.5,6,12,3,25.0
 central,Central,19,8.56,6,9,2,22.2
 central,Central,20,9.0,6,11,3,27.3
-central,Central,21,8.73,6,15,5,33.3
+central,Central,21,8.75,6,16,5,31.2
 central,Central,22,9.32,6,34,17,50.0
 central,Central,23,9.69,9,13,9,69.2
 circle,Circle,0,8.8,5,5,3,60.0
@@ -62,7 +62,7 @@ circle,Circle,17,9.8,9,10,8,80.0
 circle,Circle,18,8.64,5,11,8,72.7
 circle,Circle,19,8.62,5,8,4,50.0
 circle,Circle,20,9.9,9,10,9,90.0
-circle,Circle,21,9.0,5,15,12,80.0
+circle,Circle,21,9.06,5,16,13,81.2
 circle,Circle,22,9.72,5,32,27,84.4
 circle,Circle,23,9.15,5,13,10,76.9
 district,District,0,7.67,5,6,3,50.0
@@ -84,7 +84,7 @@ district,District,17,8.5,5,12,4,33.3
 district,District,18,6.85,3,13,3,23.1
 district,District,19,8.5,5,8,3,37.5
 district,District,20,8.25,3,12,7,58.3
-district,District,21,8.31,5,16,8,50.0
+district,District,21,8.0,3,17,8,47.1
 district,District,22,8.47,5,36,20,55.6
 district,District,23,7.36,3,14,4,28.6
 elizabeth,Elizabeth line,0,10.0,10,4,4,100.0
@@ -106,7 +106,7 @@ elizabeth,Elizabeth line,17,8.58,3,12,7,58.3
 elizabeth,Elizabeth line,18,8.17,3,12,6,50.0
 elizabeth,Elizabeth line,19,9.33,6,9,6,66.7
 elizabeth,Elizabeth line,20,9.18,6,11,7,63.6
-elizabeth,Elizabeth line,21,8.67,6,18,9,50.0
+elizabeth,Elizabeth line,21,8.25,3,20,9,45.0
 elizabeth,Elizabeth line,22,8.35,3,34,16,47.1
 elizabeth,Elizabeth line,23,8.77,7,13,7,53.8
 hammersmith-city,Hammersmith & City,1,10.0,10,1,1,100.0
@@ -118,6 +118,7 @@ hammersmith-city,Hammersmith & City,15,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,17,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,18,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,20,10.0,10,2,2,100.0
+hammersmith-city,Hammersmith & City,21,10.0,10,1,1,100.0
 hammersmith-city,Hammersmith & City,22,6.0,6,2,0,0.0
 hammersmith-city,Hammersmith & City,23,10.0,10,2,2,100.0
 jubilee,Jubilee,0,9.86,9,7,6,85.7
@@ -140,7 +141,7 @@ jubilee,Jubilee,17,9.0,3,11,9,81.8
 jubilee,Jubilee,18,8.5,3,12,6,50.0
 jubilee,Jubilee,19,9.38,6,8,6,75.0
 jubilee,Jubilee,20,9.7,9,10,7,70.0
-jubilee,Jubilee,21,9.2,6,15,9,60.0
+jubilee,Jubilee,21,9.25,6,16,10,62.5
 jubilee,Jubilee,22,9.84,9,32,27,84.4
 jubilee,Jubilee,23,9.46,6,13,9,69.2
 metropolitan,Metropolitan,0,8.75,6,4,2,50.0
@@ -163,7 +164,7 @@ metropolitan,Metropolitan,17,9.45,6,11,8,72.7
 metropolitan,Metropolitan,18,9.73,9,11,8,72.7
 metropolitan,Metropolitan,19,8.7,3,10,6,60.0
 metropolitan,Metropolitan,20,8.73,3,11,6,54.5
-metropolitan,Metropolitan,21,8.88,3,16,10,62.5
+metropolitan,Metropolitan,21,8.94,3,17,11,64.7
 metropolitan,Metropolitan,22,8.97,6,33,11,33.3
 metropolitan,Metropolitan,23,8.92,6,13,8,61.5
 northern,Northern,0,9.0,3,7,6,85.7
@@ -186,7 +187,7 @@ northern,Northern,17,9.6,9,10,6,60.0
 northern,Northern,18,9.91,9,11,10,90.9
 northern,Northern,19,9.5,6,8,7,87.5
 northern,Northern,20,7.91,3,11,6,54.5
-northern,Northern,21,9.44,3,16,13,81.2
+northern,Northern,21,9.24,3,17,13,76.5
 northern,Northern,22,9.75,9,32,24,75.0
 northern,Northern,23,9.85,9,13,11,84.6
 piccadilly,Piccadilly,0,6.5,5,8,2,25.0
@@ -209,7 +210,7 @@ piccadilly,Piccadilly,17,8.11,3,9,6,66.7
 piccadilly,Piccadilly,18,9.45,5,11,9,81.8
 piccadilly,Piccadilly,19,7.67,3,9,4,44.4
 piccadilly,Piccadilly,20,8.75,5,8,6,75.0
-piccadilly,Piccadilly,21,8.8,5,15,11,73.3
+piccadilly,Piccadilly,21,8.81,5,16,11,68.8
 piccadilly,Piccadilly,22,8.35,3,34,22,64.7
 piccadilly,Piccadilly,23,8.36,5,11,7,63.6
 victoria,Victoria,0,9.86,9,7,6,85.7
@@ -232,7 +233,7 @@ victoria,Victoria,17,9.1,6,10,4,40.0
 victoria,Victoria,18,9.0,6,11,6,54.5
 victoria,Victoria,19,9.25,6,8,5,62.5
 victoria,Victoria,20,9.4,6,10,7,70.0
-victoria,Victoria,21,9.53,6,15,11,73.3
+victoria,Victoria,21,9.56,6,16,12,75.0
 victoria,Victoria,22,9.38,6,32,21,65.6
 victoria,Victoria,23,9.46,6,13,9,69.2
 waterloo-city,Waterloo & City,7,10.0,10,1,1,100.0
@@ -243,4 +244,5 @@ waterloo-city,Waterloo & City,15,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,17,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,18,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,20,10.0,10,2,2,100.0
+waterloo-city,Waterloo & City,21,10.0,10,1,1,100.0
 waterloo-city,Waterloo & City,23,10.0,10,2,2,100.0
